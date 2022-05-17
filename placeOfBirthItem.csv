@@ -1,0 +1,3326 @@
+﻿PrimaryKey#uid#placeOfBirth#mainEntry#FK_placeOfBirthList
+1#1002#Egypt#true#1
+2#1004#Giza, Egypt#true#2
+3#1005#Nahia, Giza, Egypt#true#3
+4#1008#Najf Al Ashraf (Najaf), Iraq#true#4
+5#1011#Egypt#true#5
+6#1013#Ramleh, Israel#true#6
+7#1017#Al Nasiria, Palestine#true#7
+8#1019#Al Basuriyah, Lebanon#true#8
+9#1025#Biqa Valley, Lebanon#true#9
+10#1027#al-Jawrah, al-Majdal District, Gaza#true#10
+11#1030#Gaza, Egypt#true#11
+12#1062#Gaza City, Gaza Strip#true#12
+13#1121#Jeddah, Saudi Arabia#true#13
+14#1122#Yemen#false#13
+15#1125#Alexandria, Egypt#true#14
+16#1129#Egypt#true#15
+17#1135#Hotak, Kandahar Province, Afghanistan#true#16
+18#1143#Mexico#true#17
+19#1147#Mexico#true#18
+20#1151#Mexico#true#19
+21#1153#Mexico#true#20
+22#1157#Mexico#true#21
+23#1159#Burma#true#22
+24#1163#St Kitts and Nevis#true#23
+25#1167#Nigeria#true#24
+26#1169#Nigeria#true#25
+27#1173#Mexico#true#26
+28#1177#Cartago, Valle, Colombia#true#27
+29#1180#Cartago, Valle Colombia#true#28
+30#1185#Mexico#true#29
+31#1187#Pakistan#true#30
+32#1190#Mexico#true#31
+33#1192#Mexico#true#32
+34#1194#Burma#true#33
+35#1196#Israel#true#34
+36#1198#Mexico#true#35
+37#1201#Mexico#true#36
+38#1203#Pakistan#true#37
+39#1205#Mexico#true#38
+40#1208#Egypt#true#39
+41#39680#Mauritania#true#40
+42#1212#Riyadh, Saudi Arabia#true#41
+43#43322#Mosul, Iraq#true#42
+44#1214#Egypt#true#43
+45#1216#Alexandria, Egypt#true#44
+46#1218#Egypt#true#45
+47#1221#Egypt#true#46
+48#1228#Qatif-Bab al Shamal, Saudi Arabia#true#47
+49#1230#Al Ihsa, Saudi Arabia#true#48
+50#1233#Tarut, Saudi Arabia#true#49
+51#1236#Lebanon#true#50
+52#1242#El Dibabiya, Saudi Arabia#true#51
+53#1246#Cairo, Egypt#true#52
+54#1250#Zanzibar, Tanzania#true#53
+55#1256#Lebanon#true#54
+56#1259#Moroni, Comoros Islands#true#55
+57#1265#Kuwait#true#56
+58#1276#Bloomington, Indiana USA#true#57
+59#39892#Medina, Saudi Arabia#true#58
+60#1279#Nangahar Province, Afghanistan#true#59
+61#5423#Al-Mukalla, Yemen#true#60
+62#1284#Al-Medinah, Saudi Arabia#true#61
+63#1287#Safais (Sfax), Tunisia#true#62
+64#1289#Aleppo, Syria#true#63
+65#1291#California, USA#true#64
+66#14840#Bethlehem, West Bank, Palestinian Territories#true#65
+67#23775#Rouiba, Algiers, Algeria#true#66
+68#1324#Santa Agueda,Baja California Sur,Mexico#true#67
+69#5035#Tijuana, Baja California, Mexico#true#68
+70#1330#Guadalajara, Jalisco#true#69
+71#1333#Culiacan, Sinaloa, Mexico#true#70
+72#1335#Baja California Norte, Mexico#true#71
+73#1339#Vicente Guerrero, Durango#true#72
+74#1341#Distrito Federal, Mexico#true#73
+75#1343#Coahuila, Mexico#true#74
+76#1348#Guadalajara, Jalisco, Mexico#true#75
+77#1350#Guernica, Vizcaya Province, Spain#true#76
+78#1352#Durango, Vizcaya Province, Spain#true#77
+79#1354#Portugalete, Vizcaya Province, Spain#true#78
+80#1356#San Sebastian, Guizpucoa Province, Spain#true#79
+81#1358#Regil, Guipuzcoa Province, Spain#true#80
+82#1360#Vergara, Guipuzcoa Province, Spain#true#81
+83#1362#Baracaldo, Vizcaya Province, Spain#true#82
+84#1364#Guernica, Vizacaya Province, Spain#true#83
+85#1366#Vergara, Guipuzcoa Province, Spain#true#84
+86#1368#Escoriaza, Guipuzcoa Province, Spain#true#85
+87#1370#San Sebastian, Guipuzcoa Province, Spain#true#86
+88#1372#San Sebastian, Guipuzcoa Province, Spain#true#87
+89#1374#Segura, Guipuzcoa Province, Spain#true#88
+90#1376#Pamplona, Navarra Province, Spain#true#89
+91#1378#San Sebastian, Guipuzcoa Province, Spain#true#90
+92#1380#Basauri, Vizcaya Province, Spain#true#91
+93#1382#Itsasondo, Guipuzcoa Province, Spain#true#92
+94#1384#San Sebastian, Guipuzcoa Province, Spain#true#93
+95#1386#San Sebastian, Guipuzcoa Province, Spain#true#94
+96#1388#Ondarroa, Vizcaya Province, Spain#true#95
+97#1390#Irun, Guipuzcoa Province, Spain#true#96
+98#1394#Tunisia#true#97
+99#1396#Libya#true#98
+100#4965#Tripoli#false#98
+101#1398#Tunisia#true#99
+102#1402#Egypt#true#100
+103#1404#Tunisia#true#101
+104#5406#Kuwait#true#102
+105#1408#Beasain, Guipuzcoa Province, Spain#true#103
+106#1410#Eibar Guipuzcoa Province, Spain#true#104
+107#1412#Bilbao Vizcaya Province, Spain#true#105
+108#1414#Baracaldo Vizcaya Province, Spain#true#106
+109#1416#Bilbao Vizcaya Province, Spain#true#107
+110#1418#Bilbao Vizcaya Province, Spain#true#108
+111#1420#Getxo Vizcaya Province, Spain#true#109
+112#1422#Rio de Janeiro#true#110
+113#1424#Jalisco Mexico#true#111
+114#1427#Pakistan#true#112
+115#1429#Bahamas#true#113
+116#1431#Israel#true#114
+117#45512#Sinaloa, Mexico#true#115
+118#1441#Llocos Sur Northern Luzon, Philippines#true#116
+119#1443#Tunis, Tunisia#true#117
+120#1445#Tunis, Tunisia#true#118
+121#1447#Safi, Morocco#true#119
+122#4404#Al-Mohamedia, Tunisia#false#120
+123#1451#Tunis, Tunisia#true#121
+124#1453#Gharbia, Egypt#true#122
+125#4407#Ghar el-dimaa, Tunisia#false#123
+126#1455#Ghardimaou, Tunisia#true#123
+127#1457#Bistra, Algeria#true#124
+128#1459#Baghdad, Iraq#true#125
+129#1461#Tunis, Tunisia#true#126
+130#1463#Tunis, Tunisia#true#127
+131#1465#Al-Madinah, Saudi Arabia#true#128
+132#1467#Haselunne, Lower Saxony, Germany#true#129
+133#1471#Hadramawt, Yemen#true#130
+134#1473#Khartoum Sudan#false#130
+135#1476#Marrakesh, Morocco#true#131
+136#1479#Essaouria, Morocco#true#132
+137#1482#El Aguila, Valle, Colombia#true#133
+138#1484#Trujillo, Valle, Colombia#true#134
+139#1490#Cali, Valle, Colombia#true#135
+140#1502#Trujillo, Valle, Colombia#true#136
+141#1505#Riofrio, Valle, Colombia#true#137
+142#1509#Basauri (Vizcaya Province), Spain#true#138
+143#1511#Plencia (Vizcaya Province), Spain#true#139
+144#1513#Santurce (Vizcaya Province), Spain#true#140
+145#1515#Bilbao (Vizcaya Province), Spain#true#141
+146#1517#Tripoli, Lebanon#true#142
+147#1521#Cianjur, West Java, Indonesia#true#143
+148#1524#Tirpas-Selong Village, East Lombok, Indonesia#false#144
+149#8418#Korleko-Lombok Timur, Indonesia#true#144
+150#1600#Konduz Province, Afghanistan#true#145
+151#1682#Cali, Valle, Colombia#true#146
+152#1683#Cali, Valle, Colombia#true#147
+153#1726#Tetovo, Macedonia#true#148
+154#1728#Kicevo, Macedonia#true#149
+155#1730#Ahatovici, Bosnia-Herzegovina#true#150
+156#1734#Vlasenica, Bosnia-Herzegovina#true#151
+157#1738#Prijedor, Bosnia-Herzegovina#true#152
+158#1740#Mallakaster Fier, Albania#true#153
+159#1742#Tetovo, Macedonia#true#154
+160#1744#Rogatica, Bosnia-Herzegovina#true#155
+161#1746#Bratunac, Bosnia-Herzegovina#true#156
+162#1748#Brestovsko, Bosnia-Herzegovina#true#157
+163#1750#Han Pijesak, Bosnia-Herzegovina#true#158
+164#1754#Popovac, Bosnia-Herzegovina#true#159
+165#1759#Rijeka, Bosnia-Herzegovina#true#160
+166#1761#Drvar, Bosnia-Herzegovina#true#161
+167#1763#Posulje, Bosnia-Herzegovina#true#162
+168#1765#Citluk, Bosnia-Herzegovina#true#163
+169#1767#Ilince, Serbia and Montenegro#true#164
+170#1773#Cirkin Polje, Bosnia-Herzegovina#true#165
+171#1775#Suva Reka, Serbia and Montenegro#true#166
+172#1777#Travnik, Bosnia-Herzegovina#true#167
+173#1779#Prijedor, Bosnia-Herzegovina#true#168
+174#1782#Goles, Bosnia-Herzegovina#true#169
+175#1789#Vitina, Serbia and Montenegro#true#170
+176#1791#Zvornik, Bosnia-Herzegovina#true#171
+177#1793#Poroj, Macedonia#true#172
+178#1797#Glodjane, Serbia and Montenegro#true#173
+179#1799#Tanusevci, Macedonia#true#174
+180#1801#Debar, Macedonia#true#175
+181#1806#Mitrovica, Serbia and Montenegro#true#176
+182#1808#Foca, Bosnia-Herzegovina#true#177
+183#1810#Potprolog, Croatia#true#178
+184#1812#Bijeljina, Bosnia-Herzegovina#true#179
+185#1814#Grbavci, Bosnia-Herzegovina#true#180
+186#1816#Mionica, Serbia and Montenegro#true#181
+187#1820#Sarajevo, Bosnia-Herzegovina#true#182
+188#1822#Savnik, Serbia and Montenegro#true#183
+189#8503#Petnic, Serbia and Montenegro#false#183
+190#1824#Petnica, Serbia and Montenegro#true#184
+191#1826#Sarajevo, Bosnia-Herzegovina#true#185
+192#1828#Orlovci, Bosnia-Herzegovina#true#186
+193#1830#Sarajevo, Bosnia-Herzegovina#true#187
+194#1832#Lamovita, Bosnia-Herzegovina#true#188
+195#1837#Birotici, Bosnia-Herzegovina#true#189
+196#1839#Nedjeljiste, Vlasenica, Bosnia-Herzegovina#true#190
+197#1841#Pagarusha-Malishev, Serbia and Montenegro#true#191
+198#1843#Kakanj, Bosnia-Herzegovina#true#192
+199#1845#Foca, Bosnia-Herzegovina#true#193
+200#1847#Maricka, Bosnia-Herzegovina#true#194
+201#1849#Vlaholje, nr Kalinovik, Bosnia-Herzegovina#true#195
+202#1852#Banja, Serbia and Montenegro#true#196
+203#1857#Foca, Bosnia-Herzegovina#true#197
+204#1859#Visegrad, Bosnia-Herzegovina#true#198
+205#1861#Belgrade, Serbia and Montenegro#true#199
+206#1863#Srbica, Serbia and Montenegro#true#200
+207#1865#Kalinovik, Bosnia-Herzegovina#true#201
+208#1872#Zagrovic, Croatia#true#202
+209#1874#Mostar, Bosnia-Herzegovina#true#203
+210#1876#Petrov Gaj, Bosnia-Herzegovina#true#204
+211#1879#Murgas, Bosnia-Herzegovina#true#205
+212#1883#Pozarevac, Serbia and Montenegro#true#206
+213#1885#Belgrade, Serbia and Montenegro#true#207
+214#1887#Bozinovici, Bosnia-Herzegovina#true#208
+215#1889#Drenovc#true#209
+216#1891#Zagreb, Croatia#true#210
+217#1896#Racak, Serbia and Montenegro#true#211
+218#1900#Konculj, Serbia and Montenegro#true#212
+219#1902#Podujevo, Serbia and Montenegro#true#213
+220#1904#Listica, Bosnia-Herzegovina#true#214
+221#1906#Maciteve, Serbia and Montenegro#true#215
+222#1912#Bratunac, Bosnia-Herzegovina#true#216
+223#1914#Sovljak, Serbia and Montenegro#true#217
+224#1916#Matino Brdo, Bosnia-Herzegovina#true#218
+225#1922#Sokolac, Bosnia-Herzegovina#true#219
+226#1924#Senjski Rudnik, Serbia and Montenegro#true#220
+227#1927#Pjesevac Kula, Bosnia-Herzegovina#true#221
+228#1929#Tuzla, Bosnia-Herzegovina#true#222
+229#1932#Omarska, Bosnia-Herzegovina#true#223
+230#1935#Lamovita, Bosnia-Herzegovina#true#224
+231#1937#Johovac, Bosnia-Herzegovina#true#225
+232#1939#Cagust, Bosnia-Herzegovina#true#226
+233#1941#Poroj, Macedonia#true#227
+234#1944#Foca, Bosnia-Herzegovina#true#228
+235#1947#Bor, Serbia and Montenegro#true#229
+236#1950#Donja Veceriska, Bosnia-Herzegovina#true#230
+237#1952#Iglarevo, Serbia and Montenegro#true#231
+238#1954#Sarajevo, Bosnia-Herzegovina#true#232
+239#1956#Serbia and Montenegro#true#233
+240#1958#Cirkin Pojle, Bosnia-Herzegovina#true#234
+241#1960#Belgrade, Serbia and Montenegro#true#235
+242#1962#Kruskovo Polje#true#236
+243#1964#Sarajevo, Bosnia-Herzegovina#true#237
+244#1966#Zabljak, Serbia and Montenegro#true#238
+245#1968#Duzice, Bosnia-Herzegovina#true#239
+246#1970#Maricka, Bosnia-Herzegovina#true#240
+247#1972#Ratkovo, Serbia and Montenegro#true#241
+248#1974#Trebica, Bosnia-Herzegovina#true#242
+249#1976#Srebrenica, Bosnia-Herzegovina#true#243
+250#1980#Bosanska Gradiska, Bosnia-Herzegovina#true#244
+251#1982#Dimce, Serbia and Montenegro#true#245
+252#1984#Serbia and Montenegro#true#246
+253#1986#Cajnice, Bosnia-Herzegovina#true#247
+254#1988#Novi Grad, Bosnia-Herzegovina#true#248
+255#1994#Rijeka, Bosnia-Herzegovina#true#249
+256#1996#Gjakova, Serbia and Montenegro#true#250
+257#1998#Durevici, Bosnia-Herzegovina#true#251
+258#2000#Brusna, Bosnia-Herzegovina#true#252
+259#2003#Urosevac, Serbia and Montenegro#true#253
+260#2005#Muhovac, Serbia and Montenegro#true#254
+261#2007#Trnjak, Bosnia-Herzegovina#true#255
+262#2009#Sarajevo Bosnia-Herzegovina#true#256
+263#2012#Balte, Bosnia-Herzegovina#true#257
+264#2014#Maslovare, Bosnia-Herzegovina#true#258
+265#2016#Brazil#true#259
+266#4062#Chuicopa, Sinaloa, Mexico#false#260
+267#2023#Sinaloa, Mexico#true#261
+268#2027#Sinaloa, Mexico#true#262
+269#2029#Kairouan, Tunisia#true#263
+270#2031#Abordj El Kiffani, Algeria#true#264
+271#2033#Tunis, Tunisia#true#265
+272#8969#Naples, Italy#false#265
+273#8970#Algeria#false#265
+274#2035#Tunis, Tunisia#true#266
+275#2037#Kairouan, Tunisia#true#267
+276#2039#Roubaix, France#true#268
+277#2042#Tabarka, Tunisia#true#269
+278#2044#Boulogin, Algeria#true#270
+279#2046#Goubellat, Tunisia#true#271
+280#4416#Koubellat, Tunisia#false#271
+281#2048#Sfax, Tunisia#true#272
+282#2049#Sreka, ex-Yugoslavia#false#272
+283#2052#Sfax, Tunisia#true#273
+284#2054#Beja, Tunisia#true#274
+285#2056#Baja, Tunisia#true#275
+286#2058#Hekaima Al-Mehdiya, Tunisia#true#276
+287#2060#Bologhine, Algeria#true#277
+288#2062#Taiz, Yemen#true#278
+289#2064#Marrakech, Morocco#true#279
+290#2067#al-Awja, near Tikrit, Iraq#true#280
+291#2070#Baghdad, Iraq#true#281
+292#2074#Baghdad, Iraq#true#282
+293#2078#al-Awja, near Tikrit, Iraq#true#283
+294#2081#al-Awja, near Tikrit, Iraq#true#284
+295#2085#al-Dur, Iraq#true#285
+296#2088#al-Awja, near Tikrit, Iraq#true#286
+297#2091#An Nasiriyah, Iraq#true#287
+298#2095#Babylon, Babil Governorate, Iraq#true#288
+299#2098#Tikrit, Iraq#true#289
+300#2102#Salah al-Din, Iraq#true#290
+301#2108#al-Awja, near Tikrit, Iraq#false#291
+302#2110#Ba'qubah or al-Sumayda/Shirqat, Iraq#true#292
+303#2115#Ar Ramadi, al-Anbar Governorate, Iraq#true#293
+304#2118#Tikrit, Iraq#true#294
+305#2121#Tikrit, Iraq#true#295
+306#2124#Bayji, Salah al-Din Governorate, Iraq#true#296
+307#2127#Ar-Rashidiya suburb of Baghdad, Iraq#true#297
+308#2130#Mosul or Baghdad, Iraq#true#298
+309#2136#Tikrit, Iraq#true#299
+310#2139#al-Samnah, near Tikrit, Iraq#true#300
+311#2142#Mandali District, Diyala, Iraq#true#301
+312#2145#Sulaymaniyah, Iraq#true#302
+313#2148#Mosul or Baghdad, Iraq#true#303
+314#2151#Tikrit, Iraq#true#304
+315#2154#Mosul, Iraq#true#305
+316#2157#Diyala, Iraq#true#306
+317#2160#Mosul or Baghdad, Iraq#true#307
+318#2163#Rawah, Iraq#true#308
+319#2168#Baghdad, Iraq#true#309
+320#2171#Baghdad, Iraq#true#310
+321#2174#Tikrit, Iraq#true#311
+322#2178#al-Anbar Governorate, Iraq#true#312
+323#2182#Tikrit, Iraq#true#313
+324#2185#Tikrit, Iraq#true#314
+325#2188#Tikrit, Iraq#true#315
+326#2191#Baghdad, Iraq#true#316
+327#2196#Suq ash-Shuyukh District, Dhi-Qar, Iraq#true#317
+328#2199#Baghdad, Iraq#true#318
+329#2203#ar-Ramadi, Iraq#true#319
+330#2208#Baghdad, Iraq#true#320
+331#2211#Dujail, Iraq#true#321
+332#2216#Kubaisi, al-Anbar Governorate, Iraq#true#322
+333#2219#Baghdad, Iraq#true#323
+334#2222#al-Dur, Iraq#true#324
+335#2226#Tikrit, Iraq#true#325
+336#2230#Brnjica, Bosina-Herzegovina#true#326
+337#2239#Gaza#true#327
+338#2242#Silwad, Ramallah, West Bank (Palestinian Authority)#true#328
+339#2244#Yubna, Gaza (Palestinian Authority)#true#329
+340#2249#Makassar, South Sulawesi, Indonesia#true#330
+341#2256#Tulay, Jolo Sulu, Philippines#true#331
+342#2258#Sambi, Boyolali, Java, Indonesia#true#332
+343#2266#Kuwait#true#333
+344#2271#Indonesia#true#334
+345#17623#Makassar, Indonesia#true#335
+346#2277#Lanao del Sur, Philippines#true#336
+347#2284#Malaysia#true#337
+348#2286#Malaysia#true#338
+349#2289#Malaysia#true#339
+350#2292#Malaysia#true#340
+351#2295#Johor, Malaysia#true#341
+352#2301#Malaysia#true#342
+353#2304#Kelantan, Malaysia#true#343
+354#2307#Hashmija, Iraq#true#344
+355#2313#Abasan, Gaza Strip#true#345
+356#2319#Mehdia, Tiaret, Algeria#true#346
+357#2321#Morocco#false#346
+358#2325#Beckum, Germany#true#347
+359#2371#Ghardaia, Algeria#true#348
+360#2373#Tunis, Tunisia#true#349
+361#2375#Algiers, Algeria#true#350
+362#2381#Menzel Temine, Tunisia#true#351
+363#2384#Tunisia#true#352
+364#2387#Somalia#true#353
+365#2390#Tunisi, Tunisia#true#354
+366#2393#El Gharbia, Egypt#true#355
+367#2396#Poshok, Iraq#true#356
+368#2399#Beja, Tunisia#true#357
+369#2405#Karkuk, Iraq#true#358
+370#2408#Tunisi, Tunisia#true#359
+371#2411#Sfax, Tunisia#true#360
+372#2414#Haidra Al-Qasreen, Tunisia#true#361
+373#2417#Menzel Temime, Tunisia#true#362
+374#2420#Tunisi (Tunisia)#true#363
+375#2423#Kef Rih, Algeria#true#364
+376#2426#Orahovac, Kosovo#true#365
+377#2428#Kuwait#true#366
+378#2430#Belgrade, Serbia#true#367
+379#2432#Sarajevo, Bosnia-Herzegovina#true#368
+380#2434#Sarajevo, Bosnia-Herzegovina#true#369
+381#2436#Sviljanac, Bosnia-Herzegovina#true#370
+382#2438#Stimlje, Kosovo, Serbia#true#371
+383#2440#Bijela Voda, Sokolac Canton, Bosnia-Herzegovina#true#372
+384#2442#Sarajevo, Bosnia-Herzegovina#true#373
+385#2444#Suho Polje, Doboj, Bosnia-Herzegovina#true#374
+386#2446#Kraljevo, Serbia#true#375
+387#2448#Sokolac, Serbia#true#376
+388#2452#Tanusevci, Macedonia#true#377
+389#2454#Tetovo, Macedonia#true#378
+390#2458#Caucasia, Antioquia, Colombia#true#379
+391#2461#Medellin, Antioquia, Colombia#true#380
+392#2471#Monterrey, Casanare, Colombia#true#381
+393#2478#Amalfi, Antioquia, Colombia#true#382
+394#2483#El Castillo, Meta, Colombia#true#383
+395#2488#Aguadas, Caldas, Colombia#true#384
+396#2491#Amalfi, Antioquia, Colombia#true#385
+397#2493#Sonson, Antioquia, Colombia#true#386
+398#2498#Monteria, Cordoba, Colombia#true#387
+399#2500#Florencia, Caqueta, Colombia#true#388
+400#2526#Yemen#true#389
+401#2529#Kirkuk, Iraq#true#390
+402#2532#Al-Dur, Iraq#true#391
+403#2535#Al-Dur, Iraq#true#392
+404#2541#Iraq#true#393
+405#2545#Iraq#true#394
+406#2554#Iraq#true#395
+407#2557#Iraq#true#396
+408#2567#Baghdad, Iraq#true#397
+409#2570#Al-Awja, near Tikrit, Iraq#true#398
+410#2573#Tighennif, Algeria#true#399
+411#2577#Algiers Algeria#true#400
+412#2579#Annaba, Algeria#true#401
+413#2581#Casablanca, Morocco#true#402
+414#2583#Rouba, Algeria#true#403
+415#2588#Tataouene, Tunisia#true#404
+416#2591#Osniers, Algeria#true#405
+417#2593#Bab El Aoued, Algeria#true#406
+418#2595#Baghdad, Iraq#true#407
+419#2598#Heet, Iraq#true#408
+420#2602#El Menea, Algeria#true#409
+421#2604#Oum el Bouaghi, Algeria#true#410
+422#2607#Debila, Algeria#true#411
+423#2609#Chrea, Algeria#true#412
+424#2622#Mexico#true#413
+425#2624#Culiacan, Sinaloa, Mexico#true#414
+426#2631#Jamaica#true#415
+427#2635#Afghanistan#true#416
+428#2637#Jamaica#true#417
+429#2639#Mexico#true#418
+430#2642#Juanjui, San Martin, Peru#true#419
+431#5417#Unaizah, Saudi Arabia#true#420
+432#2651#Ogaden Region, Ethiopia#true#421
+433#2653#Lebanon#true#422
+434#2657#Menzel Bouzelfa, Tunisia#true#423
+435#2661#Menzel Temine, Tunisia#true#424
+436#4431#Menzel Temime, Tunisia#false#425
+437#4433#Rainneen, Tunisia#true#426
+438#2667#Sokolac, Bosnia-Herzegovina#true#427
+439#2669#SuhoPolje, Bosnia-Herzegovina#true#428
+440#2671#Banovici, Bosnia-Herzegovina#true#429
+441#5160#Dushanbe, Tajikistan#true#430
+442#5161#Kisumu, Kenya#true#431
+443#2727#Baghdad, Iraq#true#432
+444#2729#Baghdad, Iraq#true#433
+445#3927#Cairo, Egypt#true#434
+446#3937#Sudan#true#435
+447#3939#Sudan#true#436
+448#4015#Libya#true#437
+449#3941#San Carlos, Antioquia, Colombia#true#438
+450#3943#Bogota, Colombia#true#439
+451#4017#Cali, Colombia#true#440
+452#4019#Cali, Colombia#true#441
+453#4027#Tibasosa, Boyaca, Colombia#true#442
+454#4077#Isabela, Basilan, Philippines#true#443
+455#4080#Zubair, Iraq#true#444
+456#4083#Jeddah, Saudi Arabia#true#445
+457#4087#Kratine, Vitez#true#446
+458#4089#Koznica, Vladicin Han municipality#true#447
+459#4093#Gricar#true#448
+460#4095#Visegrad municipality, Bosnia and Herzegovina#true#449
+461#4148#Kandahar, Afghanistan#true#450
+462#4277#Al-Ladhiqiyah, Syria#true#451
+463#4150#Colombia#true#452
+464#4180#Al-Mowall, Mosul, Iraq#true#453
+465#4182#al-Salt, Jordan#true#454
+466#4185#Kudus, Central Java, Indonesia#true#455
+467#4187#Gebang village, Masaran, Sragen, Central Java, Indonesia#true#456
+468#4202#Palmira, Valle, Colombia#true#457
+469#4206#La Union, Valle, Colombia#true#458
+470#4208#La Union, Valle, Colombia#true#459
+471#4216#La Victoria, Valle, Colombia#true#460
+472#4222#El Dovio, Valle, Colombia#true#461
+473#4224#El Dovio, Valle, Colombia#true#462
+474#4259#Al-Owja, Iraq#true#463
+475#4262#Baghdad, Iraq#false#463
+476#4265#Baghdad, Iraq#false#464
+477#4267#Al-Owja, Iraq#false#465
+478#4319#Baghdad, Iraq#true#465
+479#4320#Baghdad, Iraq#true#466
+480#4280#Veracruz, Mexico#true#467
+481#4281#Canelas, Durango, Mexico#false#467
+482#4287#Chihuahua, Mexico#true#468
+483#4292#Chihuahua, Mexico#true#469
+484#4301#China#true#470
+485#4306#Sinaloa, Mexico#true#471
+486#4318#Near Qerdaha, Syria#true#472
+487#4314#Italy#true#473
+488#4322#Baghdad, Iraq#false#474
+489#4327#Sidi Kacem, Morocco#true#475
+490#4330#Tunis, Tunisia#true#476
+491#4333#Casablanca, Morocco#true#477
+492#4336#Villa de Alvarez, Colima, Mexico#true#478
+493#4340#Baja California, Mexico#true#479
+494#4342#Tijuana, Baja California, Mexico#true#480
+495#4369#Mexico City, Mexico#true#481
+496#4365#Delicias, Chihuahua, Mexico#true#482
+497#4360#Hidalgo del Parral, Chihuahua, Mexico#true#483
+498#4356#Hidalgo del Parral, Chihuahua, Mexico#true#484
+499#4352#Hidalgo Del Parral, Chihuaua, Mexico#true#485
+500#4348#Delicias, Chihuahua, Mexico#true#486
+501#4344#Saucillo, Chihuahua, Mexico#true#487
+502#4388#Chihuahua, Chihuahua, Mexico#true#488
+503#4384#Saucillo, Chihuahua, Mexico#true#489
+504#4376#Chihuahua, Chihuahua, Mexico#true#490
+505#4437#Tartus, Syria#true#491
+506#4473#Baghdad, Iraq#true#492
+507#4492#Qaylubiyah, Egypt#true#493
+508#4502#Sharqiyah, Egypt#true#494
+509#4505#Kafr al-Shaykh#true#495
+510#4508#Minya, Egypt#true#496
+511#4591#Chaparral, Tolima, Colombia#true#497
+512#4584#Garzon, Huila, Colombia#true#498
+513#4580#Pital, Huila, Colombia#true#499
+514#4576#Cali, Colombia#true#500
+515#4577#Buga, Valle, Colombia#false#500
+516#4568#Cali, Colombia#true#501
+517#4569#Armenia, Quindio, Colombia#false#501
+518#4564#Tulua, Valle, Colombia#true#502
+519#4565#Armenia, Quindio, Colombia#false#502
+520#4560#Roldanillo, Valle, Colombia#true#503
+521#4561#Armenia, Quindio, Colombia#false#503
+522#4602#Barangay Lanote, Bliss, Isabele, Basilan, the Philippines#true#504
+523#4606#Kaunayan, Patikul, Jolo Island, the Philippines#true#505
+524#4610#Bulanza, Lantawan, Basilan, the Philippines#true#506
+525#4613#Sulaymaniyah, Iraq#true#507
+526#4616#Baghdad, Iraq#true#508
+527#4620#Arbil, Iraq#true#509
+528#4623#Baghdad, Iraq#true#510
+529#4627#Kirkuk, Iraq#true#511
+530#4639#Baghdad, Iraq#false#512
+531#14842#Dayr Az-Zawr, Syria#true#512
+532#4646#Libya#true#513
+533#4649#Benghazi, Libya#true#514
+534#4652#Tripoli, Libya#true#515
+535#4655#Tripoli, Libya#true#516
+536#4658#Libya#true#517
+537#4665#Kutum, North Darfur, Sudan#true#518
+538#4671#Jombang, East Java, Indonesia#true#519
+539#4673#Cianjur, West Java, Indonesia#true#520
+540#4678#Dacusuman Surakarta, Central Java, Indonesia#true#521
+541#4679#Pacitan, East Java, Indonesia#true#522
+542#4685#Altstatten, SG, Switzerland#true#523
+543#4688#Khartoum, Sudan#true#524
+544#21061#Jabaliya, Gaza Strip#true#525
+545#4790#Sistan Va Baluchistan, Iran#true#526
+546#4797#Ratnagiri, Maharashtra, India#true#527
+547#4803#Kopys, Vitebsk oblast, Belarus#true#528
+548#4804#Borisov, Belarus#true#529
+549#4807#Germany#true#530
+550#4811#Zdudichi, Gomel' oblast, Belarus#true#531
+551#4815#Vitebsk oblast, Belarus#true#532
+552#4817#Soltanishka, Voronovskovo, Belarus#true#533
+553#4820#Grodno, Belarus#false#533
+554#4819#Slutsk, Belarus#true#534
+555#4822#Minsk, Belarus#true#535
+556#4837#Mogilev, Belarus#true#536
+557#5422#Kuwait#true#537
+558#4963#Al-Bawgah, Sudan#true#538
+559#4960#Albaouga, Sudan#false#538
+560#5038#Mexicali, Baja California, Mexico#true#539
+561#5042#Tijuana, Baja California, Mexico#true#540
+562#5044#Ensenada, Baja California, Mexico#true#541
+563#5050#Casimiro Castillo, Jalisco, Mexico#true#542
+564#5074#Aguila, Valle#true#543
+565#5069#Cartago, Valle, Colombia#true#544
+566#5067#Cartago, Valle#true#545
+567#5062#La Virginia, Risaralda, Colombia#true#546
+568#5056#Pereira, Risaralda, Colombia#true#547
+569#5052#El Aguila, Valle, Colombia#true#548
+570#5100#Olaqloo Sharbajer Village, al-Sulaymaniyah Governorate, Iraq#true#549
+571#5139#Irkutsk, Russia#true#550
+572#5146#Bunia, Democratic Republic of the Congo#true#551
+573#5149#Goma, Democratic Republic of the Congo#true#552
+574#5151#Rutshuru, North Kivu, Democratic Republic of the Congo#true#553
+575#5153#Nogoma-Butera, Rwanda#true#554
+576#5163#Mousaitbe, Lebanon#true#555
+577#5167#Rubtlatine, Lebanon#true#556
+578#5168#Beirut, Lebanon#false#556
+579#5171#Al-Taybe, Lebanon#true#557
+580#5175#Al-Taybe, Lebanon#true#558
+581#5199#Khalia, Lebanon#true#559
+582#5178#Hermel, Lebanon#true#560
+583#5179#Asuncion, Paraguay#true#561
+584#5184#Rubtlatine, Lebanon#true#562
+585#5189#Taibe, Lebanon#true#563
+586#5221#Damascus, Syria#true#564
+587#5225#El Fasher, Sudan#true#565
+588#5226#Al Fashir, Sudan#false#565
+589#5229#Pretoria, South Africa#true#566
+590#5237#Kosuta, Minsk district, Belarus#true#567
+591#5242#Slutsk, Minsk district, Belarus#true#568
+592#39801#Hrodna, Belarus#true#569
+593#5249#Votnya, Belarus#true#570
+594#5253#Vygonoshchi, Belarus#true#571
+595#5257#Onory, Kirov district, Belarus#true#572
+596#5263#Ariwara, DRC#true#573
+597#5269#Kordofan, Sudan#true#574
+598#5274#Medellin, Colombia#true#575
+599#5276#Barranquilla, Colombia#true#576
+600#5278#San Andres, Colombia#true#577
+601#5280#Cali, Colombia#true#578
+602#5284#Manzanares, Caldas, Colombia#true#579
+603#5286#Barranquilla, Colombia#true#580
+604#5288#Medellin, Colombia#true#581
+605#5290#Itagui, Antioquia, Colombia#true#582
+606#5292#Colombia#true#583
+607#5294#Colombia#true#584
+608#5296#Colombia#true#585
+609#5297#Colombia#true#586
+610#5299#Colombia#true#587
+611#5301#San Andres, Colombia#true#588
+612#5303#Colombia#true#589
+613#5305#Honduras#true#590
+614#5307#Belize#true#591
+615#5310#Belize#true#592
+616#5312#Toledo District, Belize#true#593
+617#5316#Jamaica#true#594
+618#5322#Medellin, Colombia#true#595
+619#5324#Bogota, Colombia#true#596
+620#5326#Manizales, Caldas, Colombia#true#597
+621#5328#Bogota, Colombia#true#598
+622#5338#Bogota, Colombia#true#599
+623#5340#Mexico#true#600
+624#5341#Colombia#true#601
+625#5345#Colombia#true#602
+626#5374#Barranquilla, Colombia#true#603
+627#5378#Barranquilla, Colombia#true#604
+628#5379#Colombia#true#605
+629#5380#Colombia#true#606
+630#5381#Colombia#true#607
+631#5388#Guatemala#true#608
+632#5390#Guadalajara, Jalisco, Mexico#true#609
+633#5392#Tototlan, Jalisco, Mexico#true#610
+634#5401#Mugambazi, Kigali#true#611
+635#5427#Tripoli, Libya#true#612
+636#5433#Tripoli, Libya#true#613
+637#5436#Tripoli, Libya#true#614
+638#5528#Mexico#true#615
+639#5526#Sinaloa, Mexico#true#616
+640#5522#Sinaloa, Mexico#true#617
+641#5518#Sinaloa, Mexico#true#618
+642#5514#Culiacan, Sinaloa, Mexico#true#619
+643#5510#Culiacan, Sinaloa, Mexico#true#620
+644#5506#Culiacan, Sinaloa, Mexico#true#621
+645#5501#Culiacan, Sinaloa, Mexico#true#622
+646#5496#Culiacan, Sinaloa, Mexico#true#623
+647#5497#Sonora, Mexico#false#623
+648#5492#Culiacan, Sinaloa, Mexico#true#624
+649#5544#Baghdad, Iraq#true#625
+650#5548#Baghdad, Iraq#true#626
+651#5551#Al-Anbar, Iraq#true#627
+652#5553#Baghdad, Iraq#true#628
+653#5898#Dur, Iraq#true#629
+654#5562#RAWAH CITY, IRAQ#true#630
+655#5566#Guasavito, Guasave, Sinaloa, Mexico#true#631
+656#5571#Morazan, El Progreso, Guatemala#true#632
+657#5575#Landi Kotal, Pakistan#true#633
+658#5579#Gereshk District, Helmund Province, Afghanistan#true#634
+659#5580#Kabul City, Afghanistan#false#634
+660#5583#Laupheim, Germany#true#635
+661#5637#Florencia, Caqueta Department, Colombia#true#636
+662#5649#Deir Al-Balah, Gaza#true#637
+663#5653#Lebanon#true#638
+664#5655#Beirut, Lebanon#true#639
+665#5690#Cali, Colombia#true#640
+666#5688#Cali, Colombia#true#641
+667#5686#Cali, Colombia#true#642
+668#5684#Sevilla, Valle, Colombia#true#643
+669#5671#Cali, Colombia#true#644
+670#5667#Cali, Colombia#true#645
+671#5665#Cali, Colombia#true#646
+672#5709#Cali, Colombia#true#647
+673#5705#Yacopi, Cundinamarca, Colombia#true#648
+674#5701#Cali, Colombia#true#649
+675#5697#Cali, Colombia#true#650
+676#5719#'Aniza, Saudi Arabia#true#651
+677#5722#Al-Karawiya, Saudi Arabia#true#652
+678#5724#Al-Shefa, Al-Taif, Saudi Arabia#true#653
+679#5734#Kerman, Iran#true#654
+680#5907#Qom, Iran#true#655
+681#5748#Nasiriyah, Iraq#true#656
+682#5770#Cali, Colombia#true#657
+683#5766#Cali, Colombia#true#658
+684#5897#Rashayya al-Fuqhar, Lebanon#false#659
+685#5896#Rashia al Foukhar, Lebanon#false#659
+686#5882#Rashayya al-Fakhar, Lebanon#true#659
+687#5885#Al-Jahiliya, Shuf Mountains, Lebanon#true#660
+688#5888#Damascus, Syria#true#661
+689#6068#Hama, Syria#true#662
+690#5900#Tehran, Iran#true#663
+691#5904#Tehran, Iran#true#664
+692#5937#Chagai, Pakistan#true#665
+693#5934#Khyber Agency, Pakistan#true#666
+694#5931#Savsat, Turkey#true#667
+695#5928#Hoorn, Netherlands#true#668
+696#5925#Kapellen, Belgium#true#669
+697#5921#Lahore, Pakistan#true#670
+698#5918#Dubai, United Arab Emirates#true#671
+699#5915#Chiswick, England#true#672
+700#5944#Khemis El Khechna, Algeria#false#673
+701#5943#Meftah, Algeria#true#673
+702#5948#Guayabito, Pericos, Morocito, Sinaloa, Mexico#true#674
+703#5953#Jacola, Culiacan, Sinaloa, Mexico#true#675
+704#5958#Culiacan, Sinaloa, Mexico#true#676
+705#5963#Culiacan, Sinaloa, Mexico#true#677
+706#5968#Culiacan, Sinaloa, Mexico#true#678
+707#5972#Culiacan, Sinaloa, Mexico#true#679
+708#5973#Tijuana, Baja California, Mexico#false#679
+709#5977#Culiacan, Sinaloa, Mexico#true#680
+710#5981#Tijuana, Baja California, Mexico#true#681
+711#5985#Culiacan, Sinaloa, Mexico#true#682
+712#5989#Campo Tribolet, Perteneciente a la sindicatura de Sataya, Navolato, Sinaloa#true#683
+713#5993#Zapote de los Moya, Mocorito, Sinaloa, Mexico#true#684
+714#5997#Campo Loaiza, Sinaloa, Mexico#true#685
+715#6001#Tijuana, Baja California, Mexico#true#686
+716#6005#Tijuana, Baja California, Mexico#true#687
+717#6009#Navolato, Sinaloa, Mexico#true#688
+718#6013#Tamazula, Durango, Mexico#true#689
+719#6017#Sinaloa, Mexico#true#690
+720#6034#Navolato, Sinaloa, Mexico#true#691
+721#6044#Baghdad, Iraq#true#692
+722#6049#Ninwa, Iraq#true#693
+723#6052#Kermanshah, Iran#true#694
+724#6060#Chikomba District, Zimbabwe#false#695
+725#6115#Sargodha, Punjab, Pakistan#true#696
+726#6118#Okara, Pakistan#true#697
+727#8952#Faisalabad, Pakistan#true#698
+728#6124#India#true#699
+729#6149#Syria#true#700
+730#6154#Mosul, Iraq#true#701
+731#6169#Danda, Miramshah, Afghanistan#true#702
+732#6170#Khowst Province, Afghanistan#false#702
+733#6171#Neka District, Paktika, Afghanistan#false#702
+734#6172#Srana Village, Garda Saray District, Paktya Province, Afghanistan#false#702
+735#6252#Gattaran, Cagayan Province, Philippines#true#703
+736#6255#Bagac, Bagamanok, Catanduanes Province, Philippines#true#704
+737#6258#Punta, Santa Ana, Manila, Philippines#true#705
+738#6261#Arco, Lamitan, Basilan Province, Philippines#true#706
+739#6264#24 Paraiso Street, Barangay Poblacion, Mandaluyong City, Manila, Philippines#true#707
+740#6267#Sitio Banga Maiti, Barangay Tranghawan, Lambunao, Iloilo Province, Philippines#true#708
+741#6270#Cebu City, Cebu Province, Philippines#true#709
+742#6278#Najafabad, Iran#true#710
+743#6283#Esfahan, Iran#true#711
+744#6300#Lebanon#true#712
+745#6304#Betechelida, Lebanon#false#713
+746#6305#Lebanon#true#713
+747#6345#Baalbeck, Lebanon#false#713
+748#6309#Muharraq, Bahrain#true#714
+749#14839#Doha, Qatar#true#715
+750#6312#Bahrain#true#716
+751#6315#Nimroz, Afghanistan#true#717
+752#6321#Culiacan, Sinaloa, Mexico#true#718
+753#6322#Badiraguato, Sinaloa, Mexico#false#718
+754#6327#Maicao, Guajira, Colombia#true#719
+755#6333#Turkey#true#720
+756#6347#Manila, Phillipines#true#721
+757#6350#Andijan region, Uzbekistan#true#722
+758#6354#Tashkent, Uzbekistan#true#723
+759#6357#Zeribet El Oued, Biskra, Algeria#true#724
+760#6358#M'Hamid, Sidi Bel Abbas, Algeria#true#725
+761#6360#Anser, Jijel, Algeria#true#726
+762#6363#Touggourt, Ouargla, Algeria#true#727
+763#6485#Hermosillo, Sonora, Mexico#true#728
+764#6486#Distrito Federal, Mexico, Mexico#false#728
+765#6473#Cananea, Sonora, Mexico#true#729
+766#6469#La Huacana, Michoacan De Ocampo, Mexico#true#730
+767#6465#Nogales, Sonora, Mexico#true#731
+768#6461#Mocorito, Sinaloa, Mexico#true#732
+769#6457#Nuevo Leon, Monterrey, Mexico#true#733
+770#6453#Culiacan, Sinaloa, Mexico#true#734
+771#6449#Hermosillo, Sonora, Mexico#true#735
+772#6444#Culiacan, Sinaloa, Mexico#true#736
+773#6445#Arizpe, Sonora, Mexico#false#736
+774#6442#Mexico#true#737
+775#6438#Panuco, Concordia, Sinaloa, Mexico#true#738
+776#6433#Navolato, Sinaloa, Mexico#true#739
+777#6434#Culiacan, Sinaloa, Mexico#false#739
+778#6429#Mazatlan, Sinaloa, Mexico#true#740
+779#6425#Mazatlan, Sinaloa, Mexico#true#741
+780#6421#CULIACAN, SINALOA, MEXICO#true#742
+781#6499#Odek, Omoro, Gulu, Uganda#true#743
+782#18674#Palaro Village, Palaro Parish, Omoro County, Gulu District, Uganda#false#743
+783#18675#Atyak, Uganda#false#743
+784#6505#Baghdad, Iraq#true#744
+785#6511#Baghdad, Iraq#true#745
+786#30927#Baghdad, Iraq#false#746
+787#6515#al 'Amarah, Iraq#true#746
+788#6516#al Kalamiy, Iraq#false#746
+789#6520#Libya#true#747
+790#6523#SOGUMA, LIBYA#true#748
+791#6537#Puerto La Cruz, Venezuela#true#749
+792#6567#Tainan, Taiwan#true#750
+793#6569#Yun Lin Hsien, Taiwan#true#751
+794#6608#Cuahutla, Morelos, Mexico#true#752
+795#6573#Las Avilas, Guerrero, Mexico#true#753
+796#6630#Chiang Rai, Thailand#true#754
+797#6649#Hargeysa, Somalia#true#755
+798#6652#Malindi, Kenya#true#756
+799#6656#Xudur, Somalia#true#757
+800#6657#Keren, Eritrea#false#757
+801#6660#Casablanca, Morocco#true#758
+802#6664#Munich, Germany#true#759
+803#6665#Liege, Belgium#false#759
+804#6672#Bayburt, Turkey#true#760
+805#6720#Chele County, Khuttan Area, Xinjiang Uighur Autonomous Region, China#true#761
+806#6728#Shunkrai village, Sarkani District, Konar Province, Afghanistan#true#762
+807#6730#Bhopal, India#true#763
+808#6738#Oxford, United Kingdom#true#764
+809#6743#Turkey#true#765
+810#6746#Germany#true#766
+811#6749#Germany#true#767
+812#6752#Lachen, Switzerland#true#768
+813#6755#Lohne, Germany#true#769
+814#6997#Pakistan#true#770
+815#6767#Lahore, Punjab Province, Pakistan#true#771
+816#8955#Sheikhupura, Pakistan#false#771
+817#6769#Alexandria, Egypt#true#772
+818#6773#Saudi Arabia#true#773
+819#6775#al-Sharqiyyah, Egypt#true#774
+820#6779#al-Hudaydah, Yemen#true#775
+821#6795#Karago, Western Province, Rwanda#true#776
+822#6798#Ndusu/Ruhengeri, Northern Province, Rwanda#true#777
+823#6799#Ruhengeri Province, Rwanda#false#777
+824#6803#Gaseke, Gisenyi Province, Rwanda#true#778
+825#6806#Kigali, Rwanda#true#779
+826#6811#Mugusa (Butare), Rwanda#true#780
+827#6856#Bahawalpur, Punjab Province, Pakistan#true#781
+828#6862#Faisalabad, Pakistan#true#782
+829#6867#Ma'ghal, Basrah, Iraq#true#783
+830#6892#Mexico#true#784
+831#6889#Medellin, Colombia#true#785
+832#6887#Andes, Antioquia, Colombia#true#786
+833#6884#Bogota, Colombia#true#787
+834#6880#Medellin, Colombia#true#788
+835#6872#Medellin, Colombia#true#789
+836#6873#Huamantla, Tlaxcala, Mexico#false#789
+837#6896#Tal Wardan, Ninevah, Iraq#true#790
+838#6897#Tal Afar, Ninevah, Iraq#false#790
+839#6902#Sierra Leone#true#791
+840#6907#Beirut, Lebanon#true#792
+841#6927#Amalfi, Antioquia#true#793
+842#6964#Guadalajara, Jalisco, Mexico#true#794
+843#6959#Jalisco, Mexico#true#795
+844#6942#Colombia#true#796
+845#6938#Zacatecas, Mexico#true#797
+846#6993#Nuevo Laredo, Tamaulipas, Mexico#true#798
+847#6994#Tamaulipas, Mexico#false#798
+848#6985#Hidalgo, Mexico#true#799
+849#6986#Pachuca, Hidalgo, Mexico#false#799
+850#6979#Tamaulipas, Mexico#true#800
+851#6975#Mexico#true#801
+852#7022#Lebanon#true#802
+853#7012#Colombia#true#803
+854#7008#Argelia, Colombia#true#804
+855#7004#Armenia#true#805
+856#7084#Konak, Turkey#true#806
+857#7087#Kucuk Sobecimen, Turkey#true#807
+858#7090#Yanikses, Turkey#true#808
+859#7094#Berkane, Morocco#true#809
+860#7097#Tijuana, Baja California, Mexico#true#810
+861#7144#Guadalajara, Jalisco, Mexico#true#811
+862#8423#Tamaulipas, Mexico#false#811
+863#7232#Tapachula, Chiapas, Mexico#true#812
+864#7228#Juarez, Chihuahua, Mexico#true#813
+865#7184#Xochimilco, Distrito Federal, Mexico#true#814
+866#7164#Carmen Central San Jose, Costa Rica#true#815
+867#7160#Distrito Federal, Mexico#true#816
+868#7156#Agua Prieta, Sonora, Mexico#true#817
+869#7152#La Palma, Badiraguato, Sinaloa, Mexico#true#818
+870#7147#Mexico#true#819
+871#7237#Eyl, Somalia#true#820
+872#7239#Eyl, Somalia#true#821
+873#7243#Galgala, Puntland, Somalia#true#822
+874#7245#Sadah, Yemen#true#823
+875#7247#Ogaden Region, Ethiopia#true#824
+876#39863#Somalia#true#825
+877#7255#Hargeysa, Somalia#true#826
+878#7293#Buga, Valle, Colombia#true#827
+879#7281#Buga, Valle, Colombia#true#828
+880#7269#Buga, Valle, Colombia#true#829
+881#32472#Lamerd, Iran#true#830
+882#7303#Nampula, Mozambique#true#831
+883#7308#El Coloma, Michoacan#true#832
+884#7309#Eduardo Neri, Guerrero#false#832
+885#7310#Acapulco de Juarez, Guerrero#false#832
+886#7317#Ario de Rosales, Michoacan, Mexico#true#833
+887#7318#Guanajuatillo, Michoacan, Mexico#false#833
+888#7321#Michoacan, Mexico#true#834
+889#7323#Arteaga, Michoacan, Mexico#true#835
+890#7325#Michoacan, Mexico#true#836
+891#7329#Michoacan, Mexico#true#837
+892#7330#Paracuaro, Mexico#false#837
+893#7333#Michoacan, Mexico#true#838
+894#7374#Bogota, Colombia#true#839
+895#7371#Bogota, Colombia#true#840
+896#7369#Villavicencio, Colombia#true#841
+897#7365#Guamal, Meta, Colombia#true#842
+898#7351#Tulua, Valle, Colombia#true#843
+899#7349#Bogota, Colombia#true#844
+900#7345#San Martin, Meta, Colombia#true#845
+901#7341#San Martin, Meta, Colombia#true#846
+902#7339#Acacias, Meta, Colombia#true#847
+903#7381#al-Fallujah, Iraq#true#848
+904#7428#Unguia, Choco, Colombia#true#849
+905#7422#Casanare, Colombia#true#850
+906#7418#Colombia#true#851
+907#7411#Lorica, Cordoba, Colombia#true#852
+908#7407#Santa Fe, Colombia#true#853
+909#7400#Colombia#true#854
+910#7396#Colombia#true#855
+911#7392#Necocli, Antioquia, Colombia#true#856
+912#7385#Colombia#true#857
+913#7679#Tamaulipas, Mexico#true#858
+914#7674#Delicias, Coahuila, Mexico#true#859
+915#7670#Tamaulipas, Mexico#true#860
+916#7665#Miguel Aleman, Tamaulipas, Mexico#true#861
+917#7661#Mier, Tamaulipas, Mexico#true#862
+918#7656#Tamaulipas, Mexico#true#863
+919#7657#Distrito Federal, Mexico#false#863
+920#7647#Mexico#true#864
+921#7643#Nuevo Laredo, Tamaulipas, Mexico#true#865
+922#7639#Nuevo Laredo, Tamaulipas, Mexico#true#866
+923#7635#Tamaulipas, Mexico#true#867
+924#7630#Guerrero, Michoacan#true#868
+925#7631#El Naranjito, La Union, Guerrero, Mexico#false#868
+926#7626#Iguala, Guerrero, Mexico#true#869
+927#7619#Acatlan, Hidalgo#true#870
+928#7615#Durango#true#871
+929#7610#Pachuca, Hidalgo, Mexico#true#872
+930#7611#Pachuca De Soto, Hidalgo, Mexico#false#872
+931#7606#San Bartolo Tutotepec, Hidalgo, Mexico#true#873
+932#7601#Lecheria Tultitlan, Mexico#true#874
+933#7602#Tlalnepantla De Baz, Mexico, Mexico#false#874
+934#7597#Sonora, Mexico#true#875
+935#7593#Tijuana, Baja California, Mexico#true#876
+936#7587#Hidalgo, Mexico#true#877
+937#7588#Piedras Negras, Coahuila, Mexico#false#877
+938#7583#Tamaulipas, Mexico#true#878
+939#7577#Matamoros, Tamaulipas, Mexico#true#879
+940#7573#Tepalcatepec, Michoacan#true#880
+941#7567#Poza Rica de Hidalgo, Veracruz#true#881
+942#7568#Coatzintla, Veracruz#false#881
+943#7569#Veracruz, Mexico#false#881
+944#7562#Moyuta, Guanajuato, Mexico#true#882
+945#7556#Guadalupe, Zacatecas#true#883
+946#7551#Guerrero#true#884
+947#7552#Tecpan de Galeana,Guerrero#false#884
+948#7546#Nuevo Laredo, Tamaulipas#true#885
+949#7547#Monterrey, Nuevo Leon#false#885
+950#7542#Tamaulipas#true#886
+951#7535#Torreon, Coahuila#true#887
+952#7531#Cuiliacan, Sinaloa#true#888
+953#7526#Veracruz#true#889
+954#7527#Molango de Escamilla, Hidalgo#false#889
+955#7522#Puebla, Puebla#true#890
+956#7518#Reynosa, Tamaulipas#true#891
+957#7514#Chiapas#true#892
+958#7507#Tuxpam, Veracruz#true#893
+959#7502#Poza Rica de Hidalgo, Veracruz#true#894
+960#7503#Tuxpam, Veracruz#false#894
+961#7498#San Gabriel Chilac, Puebla#true#895
+962#7493#Guanajuato, Mexico#true#896
+963#7494#Salamanca, Guanajuato, Mexico#false#896
+964#7485#Tampico, Veracruz#true#897
+965#7481#Tamaulipas#true#898
+966#7473#Tabasco, Zacatecas#true#899
+967#7469#Tamaulipas#true#900
+968#7464#Tamaulipas, Mexico#true#901
+969#7465#Mexico#false#901
+970#7459#Campeche#true#902
+971#7452#Valle Hermoso, Tamaulipas#true#903
+972#7453#La Libertad, Cunduacan, Tabasco, Mexico#false#903
+973#7454#San Rafael, Tabasco, Mexico#false#903
+974#7447#San Luis Potosi, Mexico#true#904
+975#7443#Tamaulipas, Mexico#true#905
+976#7684#Ulm, Germany#true#906
+977#7686#Azamgarh, Uttar Pradesh, India#true#907
+978#7690#Sarghoda region, Punjab Province, Pakistan#true#908
+979#7693#Catio, Guinea-Bissau#true#909
+980#7767#Cacine, Guinea-Bissau#true#910
+981#7698#Nord-Kivu, DRC#true#911
+982#7699#Rwanda#false#911
+983#7702#Djiba, Utcha Sector, Djugu Territory, Ituri District, Orientale Province, DRC#true#912
+984#7705#Mambasa, Mambasa Territory, Ituri District, DRC#true#913
+985#7708#Bunia, Ituri District, DRC#true#914
+986#7710#South Kivu, DRC#true#915
+987#7725#Guatemala#true#916
+988#7721#Guatemala#true#917
+989#7717#Guatemala#true#918
+990#7713#Guatemala#true#919
+991#7774#Khandahar, Afghanistan#true#920
+992#7775#Helmand, Afghanistan#false#920
+993#7778#Afghanistan#true#921
+994#7796#Mugica, Michoacan, Mexico#true#922
+995#7800#Ziracuetrio, Michoacan, Mexico#true#923
+996#7829#Masisi, Nord-Kivu, DRC#true#924
+997#7808#Najaf, Iraq#true#925
+998#7809#Tehran, Iran#false#925
+999#7811#Shiraz, Iran#true#926
+1000#7813#Yazd, Iran#true#927
+1001#7838#Distrito Federal, Mexico#true#928
+1002#7847#Las Cruces, New Mexico#true#929
+1003#7850#Neishabour, Iran#true#930
+1004#7855#Ghazvin, Iran#true#931
+1005#7858#Esfahan, Iran#true#932
+1006#7859#Al Khiyam, Lebanon#true#933
+1007#7870#Band-e-Timor, Kandahar, Afghanistan#true#934
+1008#7872#Paktika Province, Afghanistan#true#935
+1009#7874#Afghanistan#true#936
+1010#7880#Al-Madinah al-Munawwarah, (Medina) Saudi Arabia#true#937
+1011#7883#Bhimber, Samahani Valley, Pakistan#true#938
+1012#7960#Aramberri, Nuevo Leon, Mexico#true#939
+1013#7956#Mexico City, Distrito Federal, Mexico#true#940
+1014#7952#San Antonio Ameca, Jalisco, Mexico#true#941
+1015#7948#Real del Castillo, Ensenada, Baja California Norte#true#942
+1016#7944#Mexico City, Distrito Federal, Mexico#true#943
+1017#7940#Mexico City, Distrito Federal, Mexico#true#944
+1018#7932#Mexico#true#945
+1019#7926#Cali, Valle del Cauca#true#946
+1020#7922#Cali, Valle del Cauca, Colombia#true#947
+1021#7917#Cali, Valle del Cauca, Colombia#true#948
+1022#7913#Cali, Valle del Cauca, Colombia#true#949
+1023#7909#Delicias, Chihuahua, Mexico#true#950
+1024#7901#Mexico City, Distrito Federal, Mexico#true#951
+1025#7897#Mexico City, Distrito Federal, Mexico#true#952
+1026#7892#Mexico City, Distrito Federal, Mexico#true#953
+1027#7893#Guadalajara, Jalisco, Mexico#false#953
+1028#7966#Pyongan-Pukto, North Korea#false#954
+1029#7979#Isfahan, Iran#false#955
+1030#7981#Ejiyeh, Iran#false#956
+1031#7983#Orumieh, Iran#false#957
+1032#7985#Meibod, Yazd, Iran#false#958
+1033#7987#Isfahan, Iran#false#959
+1034#7989#Tehran, Iran#false#960
+1035#7991#Tehran, Iran#false#961
+1036#8008#Nulgham Village, Panjwai District, Kandahar, Afghanistan#true#962
+1037#8011#Bahawalpur, Punjab Province, Pakistan#true#963
+1038#8013#Cali, Colombia#true#964
+1039#8025#Medellin, Colombia#true#965
+1040#8027#Medellin, Colombia#true#966
+1041#8032#Yolombo, Antioquia, Colombia#true#967
+1042#8034#Pasto, Narino, Colombia#true#968
+1043#8038#Culiacan, Sinaloa, Mexico#true#969
+1044#8040#Vicente Guerrero, Durango, Mexico#false#969
+1045#8044#Barcelona, Spain#true#970
+1046#8060#Murama, Kinyinya, Rubungo, Kigali, Rwanda#false#971
+1047#8063#Ngungu, Masisi Territory, North Kivu province, Democratic Republic of the Congo#false#972
+1048#8069#Musanze District (Northern Province) Rwanda#true#973
+1049#8070#Nyakinama, Ruhengeri, Rwanda#false#973
+1050#8072#Kigali, Rwanda#true#974
+1051#8074#Rushashi (Northern Province), Rwanda#false#974
+1052#8095#Sialkot, Punjab Province, Pakistan#true#975
+1053#8957#Karachi, Pakistan#true#976
+1054#8120#Bwawal Pur, Pakistan#true#977
+1055#8155#Bahawalpur, Pakistan#false#977
+1056#8135#Puerto Rico, Meta, Colombia#true#978
+1057#8132#Barrancabermeja, Santander, Colombia#true#979
+1058#8130#Popayan, Cauca, Colombia#true#980
+1059#8161#Hanouay, Lebanon#false#981
+1060#8162#Hanawiya, Lebanon#false#981
+1061#8152#Hanaway, Lebanon#true#981
+1062#8169#Urmia, Iran#true#982
+1063#37932#Anzal, West Azerbaijan Province, Iran#false#982
+1064#8175#Tecalitlan, Jalisco, Mexico#true#983
+1065#8179#Tecalitlan, Jalisco, Mexico#true#984
+1066#8184#Jalisco, Mexico#true#985
+1067#8185#Tecalitlan, Jalisco, Mexico#false#985
+1068#8190#Jalisco, Mexico#true#986
+1069#8218#Baja California Sur, Mexico#true#987
+1070#8214#Sinaloa, Mexico#true#988
+1071#8210#Culiacan, Sinaloa, Mexico#true#989
+1072#8250#Saida, Lebanon#true#990
+1073#8246#Beirut, Lebanon#true#991
+1074#8243#Miziara, Lebanon#true#992
+1075#8223#Al Karouan, Lebanon#true#993
+1076#8224#Barranquilla, Colombia#false#993
+1077#8257#Tehran, Iran#true#994
+1078#8262#Tehran, Iran#true#995
+1079#8264#Tehran, Iran#true#996
+1080#8266#Eskisehir, Turkey#true#997
+1081#8267#Kadikoy, Turkey#true#998
+1082#8307#Van, Dibekozu, Turkey#true#999
+1083#8378#Hazar, Elazig, Turkey#false#1000
+1084#8310#Keban, Elazig, Turkey#true#1000
+1085#8314#Adana, Tufanbeyli, Turkey#true#1001
+1086#8315#Derik, Turkey#false#1001
+1087#8317#Adiyaman, Turkey#true#1002
+1088#8321#Kirsehir, Boztepe, Turkey#true#1003
+1089#8323#Kandahar, Afghanistan#true#1004
+1090#8334#City District 1, Kandahar, Afghanistan#true#1005
+1091#8340#Kabul, Afghanistan#true#1006
+1092#8343#Kandahar, Afghanistan#true#1007
+1093#8350#Solo, Indonesia#true#1008
+1094#8351#Sukoharjo, Central Java, Indonesia#false#1008
+1095#8357#East Lombok, West Nusa Tenggara, Indonesia#true#1009
+1096#8360#Central Java, Indonesia#true#1010
+1097#8364#Tehran, Iran#true#1011
+1098#8370#Sirte, Libya#true#1012
+1099#8373#Tripoli, Libya#true#1013
+1100#35321#Tripoli, Libya#true#1014
+1101#8381#Helmand, Afghanistan#true#1015
+1102#8501#Cholpon-Ata, Kyrgyzstan#true#1016
+1103#8384#Al Bayda, Libya#false#1017
+1104#8387#Tripoli, Libya#false#1018
+1105#8389#Tripoli, Libya#false#1019
+1106#8392#Tripoli, Libya#false#1020
+1107#8397#Tripoli, Libya#false#1021
+1108#8400#Khoms, Libya#false#1022
+1109#8402#Jalo, Libya#false#1023
+1110#8404#Sudan#false#1024
+1111#8412#Bilbao, Vizcaya, Spain#true#1025
+1112#8411#Elorrio, Vizcaya, Spain#true#1026
+1113#8414#Riyadh, Saudi Arabia#true#1027
+1114#8425#Tripoli, Libya#false#1028
+1115#8429#Traghen, Libya#true#1029
+1116#8431#Genzur, Libya#true#1030
+1117#8434#Al Jamil, Libya#true#1031
+1118#8438#Amara, Damascus, Syria#true#1032
+1119#8441#Jablah, Syria#true#1033
+1120#35726#Damascus, Syria#true#1034
+1121#8461#Damascus, Syria#true#1035
+1122#8463#Dar'a, Syria#true#1036
+1123#8465#Damascus, Syria#true#1037
+1124#8467#Tartous, Syria#true#1038
+1125#8471#Lattakia Province, Syria#true#1039
+1126#8481#Tehran, Iran#true#1040
+1127#8483#Sinaloa, Mexico#true#1041
+1128#8487#Sinaloa, Mexico#true#1042
+1129#8491#Kenya#true#1043
+1130#8496#Puerto Asis, Putumayo, Colombia#true#1044
+1131#8505#Tehran, Iran#true#1045
+1132#8527#Mexico#true#1046
+1133#8523#Jalisco, Mexico#true#1047
+1134#8519#Jalisco, Mexico#true#1048
+1135#8515#Jalisco, Mexico#true#1049
+1136#8972#Zabol, Iran#true#1050
+1137#8539#Maiwand District, Qandahar Province, Afghanistan#true#1051
+1138#8541#Barlah Village, Qareh Bagh District, Ghazni Province, Afghanistan#true#1052
+1139#8544#Kohe Safi District, Parwan Province, Afghanistan#true#1053
+1140#8545#Kapisa Province, Afghanistan#false#1053
+1141#8546#Nangarhar Province, Afghanistan#false#1053
+1142#8547#Kabul Province, Afghanistan#false#1053
+1143#8549#Bande Tumur Village, Maiwand District, Qandahar Province, Afghanistan#true#1054
+1144#8550#Syria#true#1055
+1145#8559#Alabama, USA#true#1056
+1146#8561#Garissa, Kenya#true#1057
+1147#8594#al-Qamishli, Syria#true#1058
+1148#8607#Misrata, Libya#true#1059
+1149#8610#Damascus, Syria#true#1060
+1150#8619#Latakia Governorate, Syria#true#1061
+1151#8621#Akale Guzay (Shemejena)#true#1062
+1152#8624#Asmara, Eritrea#true#1063
+1153#8641#Damascus, Syria#true#1064
+1154#8643#Homs, Syria#true#1065
+1155#8648#San Cristobal, Tachira State, Venezuela#true#1066
+1156#8656#Libya#true#1067
+1157#8659#Saudi Arabia#true#1068
+1158#8664#Madinah, Saudi Arabia#true#1069
+1159#8665#Sangrar, Sindh Province, Pakistan#false#1069
+1160#8670#Lebanon#true#1070
+1161#8687#Kayunga, Uganda#true#1071
+1162#8688#Ntoke Village, Ntenjeru Sub County, Kayunga District, Uganda#false#1071
+1163#8693#Gujranwala, Punjab Province, Pakistan#true#1072
+1164#8697#Durango, Vizcaya, Spain#true#1073
+1165#8791#Al-Zarqa, Jordan#true#1074
+1166#8706#Lowy Kariz, Spin Boldak District, Kandahar Province, Afghanistan#true#1075
+1167#8707#Kadanay, Spin Boldak District, Kandahar Province, Afghanistan#false#1075
+1168#8712#Mirpur Khas, Pakistan#true#1076
+1169#8719#Kabul, Afghanistan#true#1077
+1170#8721#Sheykhan Village, Pirkowti Area, Orgun District, Paktika Province, Afghanistan#true#1078
+1171#8728#Samarra'i, Iraq#true#1079
+1172#8732#Iran#true#1080
+1173#8742#Sarana Village, Paktia Province, Afghanistan#true#1081
+1174#8748#Iran#true#1082
+1175#8750#Mashhad, Iran#true#1083
+1176#8757#Walikale Territory, Democratic Republic of the Congo#true#1084
+1177#8761#Buraidah, Saudi Arabia#true#1085
+1178#8766#Barranquilla, Colombia#true#1086
+1179#8767#Ghobeiri, Lebanon#false#1086
+1180#8771#Bogota, Colombia#true#1087
+1181#11292#Adchit, Lebanon#true#1088
+1182#8773#Lala, Lebanon#true#1089
+1183#8775#Ghobeiry, Lebanon#true#1090
+1184#8784#Medellin, Colombia#true#1091
+1185#8788#Latakia, Syria#true#1092
+1186#8793#Mexico#true#1093
+1187#8794#Guadalajara, Jalisco, Mexico#true#1094
+1188#8798#Badiraguato, Sinaloa, Mexico#true#1095
+1189#8800#Caucasia, Antioquia, Colombia#true#1096
+1190#8802#Badiraguato, Sinaloa, Mexico#true#1097
+1191#8804#Miravalles, Vizcaya, Spain#true#1098
+1192#8808#Brydah, Saudi Arabia#true#1099
+1193#8826#Bonn, Germany#true#1100
+1194#8830#Bonn, Germany#true#1101
+1195#8834#Ludwigshafen, Germany#true#1102
+1196#8866#Mardin, Turkey#true#1103
+1197#8873#Deric, Turkey#false#1104
+1198#8871#Bingol, Turkey#true#1104
+1199#8875#Bozova, Sanliurfa, Turkey#true#1105
+1200#8878#Mardin, Turkey#true#1106
+1201#8892#Oita Kyushu, Japan#true#1107
+1202#8894#Tsushimasi, Aichi Prefecture, Japan#true#1108
+1203#8923#Nizhny Novgorod, Russia#true#1109
+1204#8927#Tashkent, Uzbekistan#true#1110
+1205#8929#Dzerzhinsk, Nizhny Novgorod, Russia#true#1111
+1206#8933#Sour, Lebanon#true#1112
+1207#8935#Leningrad, Russia#true#1113
+1208#8938#Russia#true#1114
+1209#8941#Tulungagung, Indonesia#true#1115
+1210#8948#Sukoharjo, Indonesia#true#1116
+1211#8977#Mumbai (Bombay), India#true#1117
+1212#8981#Mumbai (Bombay), India#true#1118
+1213#8991#Mashhad, Iran#true#1119
+1214#9001#Zapopan, Jalisco, Mexico#true#1120
+1215#9003#Culiacan, Sinaloa, Mexico#true#1121
+1216#9008#Nava, Lash Kargah, Afghanistan#true#1122
+1217#9014#Nawzad District of Helmand Province#true#1123
+1218#45509#Sinaloa, Mexico#true#1124
+1219#9024#Culiacan, Sinaloa, Mexico#true#1125
+1220#9028#Badiraguato, Sinaloa, Mexico#true#1126
+1221#9032#Chihuahua, Mexico#true#1127
+1222#9037#Austria#true#1128
+1223#9041#Kandahar, Afghanistan#true#1129
+1224#9044#Aki Village, Zadran District, Paktiya Province, Afghanistan#true#1130
+1225#9052#Rustavi, Georgia#true#1131
+1226#9055#Rustavi, Georgia#true#1132
+1227#9070#Rustavi, Georgia#true#1133
+1228#9071#Kutaisi, Georgia#false#1133
+1229#9060#Pec, Kosovo#true#1134
+1230#9063#Sinaloa, Mexico#true#1135
+1231#9066#Herat, Afghanistan#true#1136
+1232#9075#Tuxpan, Veracruz, Mexico#true#1137
+1233#9392#Policarpa, Narino, Colombia#true#1138
+1234#9396#Policarpa, Narino, Colombia#true#1139
+1235#9398#Policarpa, Narino, Colombia#true#1140
+1236#9411#Kenya#true#1141
+1237#9412#Lamu Island, Kenya#false#1141
+1238#9418#Coahuila, Mexico#true#1142
+1239#9420#Sonora, Mexico#true#1143
+1240#9422#Coahuila, Mexico#true#1144
+1241#9427#Guadalajara, Jalisco, Mexico#true#1145
+1242#9429#Rabak, Sudan#true#1146
+1243#9432#Mombasa, Kenya#true#1147
+1244#9436#Kenya#true#1148
+1245#9441#Sinaloa, Mexico#true#1149
+1246#9445#Bogota, Colombia#true#1150
+1247#9450#Bogota, Colombia#true#1151
+1248#12634#Al Qalamun, Lebanon#true#1152
+1249#12636#Ainata, Lebanon#true#1153
+1250#12637#Kuntair, The Gambia#false#1153
+1251#9471#Guadalajara, Jalisco, Mexico#true#1154
+1252#9473#San Luis Rio Colorado, Sinaloa, Mexico#true#1155
+1253#9476#Bacacoragua, Badiraguato, Sinaloa, Mexico#true#1156
+1254#9478#Esparta, La Ceiba, Honduras#true#1157
+1255#9480#Culiacan, Sinaloa, Mexico#true#1158
+1256#9482#Culiacan, Sinaloa, Mexico#true#1159
+1257#12629#Jwaya, Lebanon#true#1160
+1258#12630#Dakar, Senegal#false#1160
+1259#12626#Ansarie, Lebanon#true#1161
+1260#9484#Guadalajara, Jalisco, Mexico#true#1162
+1261#11804#Al-Ghobeiry, Beirut, Lebanon#true#1163
+1262#9491#Durango, Mexico#true#1164
+1263#9493#Guatemala#true#1165
+1264#9495#Pericos, Sinaloa, Mexico#true#1166
+1265#9523#Guatemala#true#1167
+1266#9533#Daraa, Syria#true#1168
+1267#9539#Bacacoragua, Badiraguato, Sinaloa, Mexico#true#1169
+1268#9541#Tepeaca, Puebla, Mexico#true#1170
+1269#9545#Honduras#true#1171
+1270#41268#Navojoa, Sonora, Mexico#true#1172
+1271#27059#Sinaloa, Mexico#true#1173
+1272#26733#Sinaloa, Mexico#true#1174
+1273#27057#Guasave, Sinaloa, Mexico#true#1175
+1274#11274#Qilla Abdullah, Pakistan#false#1176
+1275#11275#Mirmandaw Village, Nahr-e Saraj District, Helmand Province, Afghanistan#true#1176
+1276#11276#Mirmadaw Village, Gereshk District, Helmand Province, Afghanistan#false#1176
+1277#11279#Qal'ah Abdulla, Pakistan#false#1177
+1278#11280#Zumbaleh Village, Nahr-e Saraj District, Helmand Province, Afghanistan#true#1177
+1279#11281#Mirmadaw Village, Gereshk District, Helmand Province, Afghanistan#false#1177
+1280#11283#Shekau Village, Yobe State, Nigeria#true#1178
+1281#11285#Maiduguri, Nigeria#true#1179
+1282#11287#Maiduguri, Nigeria#true#1180
+1283#11289#San Sebastina, Guipuzcoa, Spain#true#1181
+1284#11295#Culiacan, Sinaloa, Mexico#true#1182
+1285#11296#Baja, California, Mexico#false#1182
+1286#11300#Culiacan, Sinaloa, Mexico#true#1183
+1287#11304#Guadalajara, Jalisco, Mexico#true#1184
+1288#11306#Acambaro, Guanajuato, Mexico#true#1185
+1289#11308#Distrito Federal, Mexico#true#1186
+1290#11430#Corozal, Belize#true#1187
+1291#11718#Idleb, Syria#true#1188
+1292#11721#Damascus, Syria#true#1189
+1293#11723#Lattakia, Syria#true#1190
+1294#11725#Damascus, Syria#true#1191
+1295#11727#Aleppo, Syria#true#1192
+1296#11729#Aleppo, Syria#true#1193
+1297#11731#Lattakia, Syria#true#1194
+1298#11734#Hama, Syria#true#1195
+1299#11736#Homs, Syria#true#1196
+1300#11738#Damascus, Syria#true#1197
+1301#11740#Damascus, Syria#true#1198
+1302#11742#Hasaka, Syria#true#1199
+1303#11744#Damascus, Syria#true#1200
+1304#11746#Hama, Syria#true#1201
+1305#11748#Aleppo, Syria#true#1202
+1306#11751#Muharraq, Bahrain#true#1203
+1307#11755#Damascus, Syria#true#1204
+1308#11757#Tartus, Syria#true#1205
+1309#11759#Aleppo, Syria#true#1206
+1310#11761#Raqqa, Syria#true#1207
+1311#11763#Aleppo, Syria#true#1208
+1312#11764#Sweida, Syria#true#1209
+1313#11767#Daraa, Syria#true#1210
+1314#11769#Hama, Syria#true#1211
+1315#11771#Tartous, Syria#true#1212
+1316#11773#near Damascus, Syria#true#1213
+1317#11775#Damascus, Syria#true#1214
+1318#11776#Damascus, Syria#true#1215
+1319#11782#Giugliano, Campania, Italy#true#1216
+1320#11789#Casal di Principe, Italy#true#1217
+1321#11794#Naples, Italy#true#1218
+1322#11799#San Cipriano d'Aversa, Italy#true#1219
+1323#11784#San Cipriano d'Aversa, Italy#true#1220
+1324#11806#Lakhi Village, Hazarjuft Area, Garmsir District, Helmand Province, Afghanistan#true#1221
+1325#11807#Laki Village, Garmsir District, Helmand Province, Afghanistan#false#1221
+1326#11808#Lakari Village, Garmsir District, Helmand Province, Afghanistan#false#1221
+1327#11809#Darvishan, Garmsir District, Helmand Province, Afghanistan#false#1221
+1328#11810#De Luy Wiyalah Village, Garmsir District, Helmand Province, Afghanistan#false#1221
+1329#12536#Tarayya, Lebanon#true#1222
+1330#12537#Sojad, Lebanon#false#1222
+1331#11825#Chihuahua, Mexico#true#1223
+1332#11830#Culiacan, Sinaloa, Mexico#true#1224
+1333#11835#Culiacan, Sinaloa, Mexico#true#1225
+1334#11842#Baja California Norte, Mexico#true#1226
+1335#11847#Al Baraka, Saudi Arabia#true#1227
+1336#11854#Hama, Syria#true#1228
+1337#11909#Caracas, Venezuela#true#1229
+1338#12230#Lahore, Pakistan#true#1230
+1339#12233#Bhalwal, Sargodha District, Punjab Province, Pakistan#true#1231
+1340#12237#Faisalabad, Pakistan#true#1232
+1341#12238#Jeda Walah, Punjab Province, Pakistan#false#1232
+1342#12241#Lahore, Pakistan#true#1233
+1343#12244#Bahawalpur, Punjab, Pakistan#true#1234
+1344#12246#Sheikhupura, Punjab Province, Pakistan#true#1235
+1345#12249#Abbottabad, Pakistan#true#1236
+1346#12251#Sarghoda, Punjab Province, Pakistan#true#1237
+1347#12547#Coahuila, Mexico#false#1238
+1348#12544#Ciudad Acuna, Coahuila, Mexico#true#1238
+1349#12579#Culiacan, Sinaloa, Mexico#true#1239
+1350#12581#Durango, Mexico#true#1240
+1351#12599#Qandahar, Afghanistan#true#1241
+1352#12616#Buraydah, Saudi Arabia#true#1242
+1353#12619#Culiacan, Sinaloa, Mexico#true#1243
+1354#12621#Ocotlan, Jalisco, Mexico#true#1244
+1355#12624#Navolato, Sinaloa, Mexico#true#1245
+1356#12643#Rutshuru, Democratic Republic of the Congo#true#1246
+1357#12659#Bolivar, Valle de Cauca, Colombia#true#1247
+1358#12669#Kabul, Afghanistan#true#1248
+1359#12680#Eghlid, Fars Province, Iran#true#1249
+1360#12698#Maragheh, Iran#true#1250
+1361#12701#Sarkan, Hamedan Province, Iran#true#1251
+1362#12705#Dezful, Khuzentan Province, Iran#true#1252
+1363#12712#al-Amarah, Iraq#true#1253
+1364#12715#Iran#true#1254
+1365#12721#Baghdad, Iraq#true#1255
+1366#12737#Aleppo, Syria#true#1256
+1367#12739#Aleppo, Syria#true#1257
+1368#12741#Aleppo, Syria#true#1258
+1369#12743#Abadan, Iran#true#1259
+1370#12747#Isfahan, Iran#true#1260
+1371#12756#Pakistan#true#1261
+1372#12758#Pakistan#true#1262
+1373#12770#Beirut, Lebanon#true#1263
+1374#12771#Al-Karradah, Baghdad, Iraq#false#1263
+1375#12779#Latakia, Syria#true#1264
+1376#12783#Al-Shura, Mosul, Iraq#true#1265
+1377#12784#Harara, Ninawa Province, Iraq#false#1265
+1378#12787#Damascus, Syria#true#1266
+1379#12789#San Cipriano D'Aversa, Italy#true#1267
+1380#12791#San Cipriano D'Aversa, Italy#true#1268
+1381#12793#San Cipriano D'Aversa, Italy#true#1269
+1382#12795#San Cipriano D'Aversa, Italy#true#1270
+1383#12813#Iztacalco, Distrito Federal, Mexico#true#1271
+1384#12815#Nouakchott, Mauritania#true#1272
+1385#12818#Mali#true#1273
+1386#12832#Lusamambo, Lubero territory, Democratic Republic of the Congo#true#1274
+1387#12892#Bunagana, Rutshuru territory, Democratic Republic of the Congo#true#1275
+1388#12896#Tehran, Iran#true#1276
+1389#12904#Jouar, Lebanon#true#1277
+1390#12911#Tbilisi, Georgia#true#1278
+1391#12919#Naryn, Kyrgyzstan#true#1279
+1392#12922#Sudan#true#1280
+1393#12925#Sudan#true#1281
+1394#12928#Nuevo Laredo, Tamaulipas, Mexico#true#1282
+1395#12933#Nuevo Laredo, Tamaulipas, Mexico#true#1283
+1396#12974#Japan#true#1284
+1397#12973#Kawasaki, Kanagawa Prefecture, Japan#true#1285
+1398#12945#Restrepo, Meta, Colombia#true#1286
+1399#12946#Kaesong, DPRK#true#1287
+1400#12957#Pihuamo, Jalisco#true#1288
+1401#12959#Tecalitlan, Jalisco#true#1289
+1402#12961#Guadalajara, Jalisco#true#1290
+1403#12964#Tonila, Jalsico#true#1291
+1404#12968#Dammam, Saudi Arabia#true#1292
+1405#12970#Culiacan, Sinaloa, Mexico#true#1293
+1406#12977#Culiacan, Sinaloa, Mexico#true#1294
+1407#12980#Cartagena, Colombia#true#1295
+1408#13344#Bogota, Colombia#true#1296
+1409#13009#Democratic Republic of the Congo#true#1297
+1410#13176#Nangim County, Chagang Province, Democratic People's Republic of Korea#true#1298
+1411#13178#Hamju County, South Hamgyong Province, Democratic People's Republic of Korea#true#1299
+1412#13180#Onso'ng County, North Hambuk Province, Democratic People's Republic of Korea#true#1300
+1413#13201#Escuinapa, Sinaloa, Mexico#true#1301
+1414#13206#Culiacan, Sinaloa, Mexico#false#1301
+1415#13203#Culiacan, Sinaloa, Mexico#true#1302
+1416#13205#Culiacan, Sinaloa, Mexico#true#1303
+1417#13208#Culiacan, Sinaloa, Mexico#true#1304
+1418#13210#Culiacan, Sinaloa, Mexico#true#1305
+1419#13211#Quetta, Pakistan#true#1306
+1420#15720#Tulua, Valle, Colombia#true#1307
+1421#13304#Abeibara, Kidal Region, Mali#true#1308
+1422#13312#Torreon, Coahuila de Zaragoza, Mexico#true#1309
+1423#13308#Baja California, Mexico#true#1310
+1424#13365#Ljubljana, Slovenia#true#1311
+1425#13322#Zacapa, Guatemala#true#1312
+1426#13324#Guerrero, Mexico#true#1313
+1427#13328#Fresnillo, Zacatecas, Mexico#true#1314
+1428#13332#Coahuila, Mexico#true#1315
+1429#13346#Coahuila, Mexico#true#1316
+1430#13362#Coahuila, Mexico#true#1317
+1431#13354#Nuevo Leon, Mexico#true#1318
+1432#13351#Coahuila, Mexico#false#1318
+1433#13361#Coahuila, Mexico#true#1319
+1434#13375#Lesnoi Settlement, Pushkin Area, Moscow Region, Russia#true#1320
+1435#13387#Moscow, Russia#true#1321
+1436#13381#Kashira Region, Moscow, Russia#true#1322
+1437#13383#Moscow, Russia#true#1323
+1438#13390#Moscow Region, Russia#true#1324
+1439#13394#Baku, Azerbaijan#true#1325
+1440#13397#Irkutsk Region, Russia#true#1326
+1441#13402#Caracas, Venezuela#true#1327
+1442#13407#Moscow Region, Russia#true#1328
+1443#13409#Moscow, Russia#true#1329
+1444#13413#Vinnitsa, Ukraine#true#1330
+1445#13415#Samarkand, Uzbekistan#true#1331
+1446#13419#Tomsk, Russia#true#1332
+1447#13421#Moscow, Russia#true#1333
+1448#13423#Moscow, Russia#true#1334
+1449#13425#Moscow, Russia#true#1335
+1450#13427#Michurinsk, Russia#true#1336
+1451#13431#Atschkoi, Chechen Republic, Russia#true#1337
+1452#13433#Urus-Martan District, Chechen Republic, Russia#true#1338
+1453#13487#Tehran, Iran#true#1339
+1454#13489#Sinaloa, Mexico#true#1340
+1455#13499#Nahr-e Saraj Village, Nahr-e Saraj District, Helmand Province, Afghanistan#true#1341
+1456#14605#Behbahan, Iran#true#1342
+1457#13543#Damghan, Iran#true#1343
+1458#13551#San Salvador, El Salvador#true#1344
+1459#13553#Agua Caliente, Chalatenango, El Salvador#true#1345
+1460#13556#San Miguel, San Miguel, El Salvador#true#1346
+1461#13559#San Salvador, El Salvador#true#1347
+1462#13562#Zaragoza, La Libertad, El Salvador#true#1348
+1463#13565#San Salvador, El Salvador#true#1349
+1464#13582#Lebanon#true#1350
+1465#13604#Esfahan, Iran#true#1351
+1466#13670#Darnah, Libya#true#1352
+1467#13671#Danar, Libya#false#1352
+1468#14387#Sudan#true#1353
+1469#14402#Naples, Italy#true#1354
+1470#14404#Mugnano di Napoli, Italy#true#1355
+1471#14406#Naples, Italy#true#1356
+1472#14408#Naples, Italy#true#1357
+1473#14410#Naples, Italy#true#1358
+1474#14412#Tokyo, Japan#true#1359
+1475#14448#Bint Jubayl, Lebanon#true#1360
+1476#14468#Culiacan, Sinaloa, Mexico#true#1361
+1477#14471#Zonguldak, Turkey#true#1362
+1478#14478#Tocoa, Colon, Honduras#true#1363
+1479#14480#Tocoa, Colon, Honduras#true#1364
+1480#14482#Tocoa, Colon, Honduras#true#1365
+1481#14487#Tocoa, Colon, Honduras#true#1366
+1482#14489#San Esteban, Olancho, Honduras#true#1367
+1483#14490#Tocoa, Colon, Honduras#true#1368
+1484#14517#El Carmen de Bolivar, Bolivar, Colombia#true#1369
+1485#14520#Santa Marta, Magdalena, Colombia#true#1370
+1486#14522#Valparaiso, Caqueta, Colombia#true#1371
+1487#14523#Valparaiso, Caqueta, Colombia#true#1372
+1488#14526#Tamaulipas, Mexico#true#1373
+1489#14546#Saudi Arabia#true#1374
+1490#14556#Najaf, Iraq#true#1375
+1491#14561#Nuevo Laredo, Tamaulipas, Mexico#true#1376
+1492#14563#Idleb, Syria#true#1377
+1493#14565#Hasaka, Syria#true#1378
+1494#14568#Damascus, Syria#true#1379
+1495#14570#Quneitra, Syria#true#1380
+1496#14584#Homs, Syria#true#1381
+1497#14603#Pacitan, East Java, Indonesia#true#1382
+1498#14624#Surkhandaria Region, Uzbekistan#true#1383
+1499#14633#Sochi, Russia#true#1384
+1500#14644#Cairo, Egypt#true#1385
+1501#14668#Kunduz City, Kunduz District, Afghanistan#true#1386
+1502#15428#Shanghai, China#true#1387
+1503#14683#Granada, Antioquia, Colombia#true#1388
+1504#14686#Medellin, Colombia#true#1389
+1505#14688#Medellin, Colombia#true#1390
+1506#14690#Medellin, Colombia#true#1391
+1507#14696#Santuario, Antioquia, Colombia#true#1392
+1508#14917#Bogota, Colombia#true#1393
+1509#14703#Florencia, Caqueta, Colombia#true#1394
+1510#14726#Florencia, Caqueta, Colombia#true#1395
+1511#14728#Bogota, Colombia#true#1396
+1512#14730#Guadalajara, Jalisco, Mexico#true#1397
+1513#14735#San Pedro, Valle, Colombia#true#1398
+1514#14858#Medellin, Antioquia, Colombia#true#1399
+1515#14753#Leninskoye village, Uzgenskiy District, Oshkaya region of the Kirghiz SSR#true#1400
+1516#14860#Medellin, Antioquia, Colombia#true#1401
+1517#14864#Monteria, Cordoba, Colombia#true#1402
+1518#14769#Uwajima, Ehime, Japan#true#1403
+1519#14782#Urus-Martan, Chechen Republic, Russia#true#1404
+1520#14785#Chechen Republic, Russia#true#1405
+1521#14833#Tehran, Iran#true#1406
+1522#14847#al-Zahir, al-Bayda', Yemen#true#1407
+1523#14850#Nangarhar, Achin, Pesha, Afghanistan#true#1408
+1524#14851#Jalalabad, Afghanistan#false#1408
+1525#16889#Jwaya, Lebanon#true#1409
+1526#16890#Koidu Town, Sierra Leone#false#1409
+1527#14855#Daraz Jaldak, Qalat District, Zabul Province, Afghanistan#true#1410
+1528#14867#Frontino, Antioquia, Colombia#true#1411
+1529#14871#Yacopi, Cundinamarca, Colombia#true#1412
+1530#14873#Tierralta, Cordoba, Colombia#true#1413
+1531#14876#Palmira, Valle, Colombia#true#1414
+1532#14880#Cali, Valle, Colombia#true#1415
+1533#14882#Valencia, Cordoba, Colombia#true#1416
+1534#14885#Cali, Valle, Colombia#true#1417
+1535#14888#Carepa, Antioquia, Colombia#true#1418
+1536#14891#San Pedro de Uraba, Antioquia, Colombia#true#1419
+1537#14894#Tierralta, Cordoba, Colombia#true#1420
+1538#14897#Buenaventura, Valle, Colombia#true#1421
+1539#14900#Cali, Valle, Colombia#true#1422
+1540#14903#Cali, Valle, Colombia#true#1423
+1541#14908#Libya#true#1424
+1542#14909#Darnah, Libya#true#1425
+1543#14914#Mumbai, India#true#1426
+1544#14940#Mosul, Ninawa Province, Iraq#true#1427
+1545#14944#Kharj, Saudi Arabia#true#1428
+1546#14952#San Calixto, Norte de Santander, Colombia#true#1429
+1547#14973#Giyan District, Paktika Province, Afghanistan#true#1430
+1548#14979#Miram Shah, Pakistan#true#1431
+1549#14982#Sultan Kheyl Village, Spera District, Khowst Province, Afghanistan#true#1432
+1550#15004#Taybad, Iran#true#1433
+1551#15018#Mashhad, Iran#true#1434
+1552#15033#Culiacan, Sinaloa, Mexico#true#1435
+1553#15052#Badiraguato, Sinaloa, Mexico#true#1436
+1554#15064#Culiacan, Sinaloa, Mexico#true#1437
+1555#15066#San Ignacio, Sinaloa, Mexico#true#1438
+1556#15068#Culiacan, Sinaloa, Mexico#true#1439
+1557#15087#Kostiantynivka, Donetsk Region, Ukraine#true#1440
+1558#15104#Florida, Copan, Honduras#true#1441
+1559#15107#La Encarnacion, Octepeque, Honduras#true#1442
+1560#15125#Yenakiyeve, Donetsk Region, Ukraine#true#1443
+1561#15126#Makiivka, Donbas, Ukraine#false#1443
+1562#15127#Balti, Moldova#true#1444
+1563#15614#Shahr Kord-Isfahan, Iran#true#1445
+1564#15454#Vladimirovka, Moldova#true#1446
+1565#15132#Moscow, Russia#true#1447
+1566#15147#Yirol, Lakes State#true#1448
+1567#15137#Solntsevo, Lipetsk, Russia#true#1449
+1568#15140#Zaporozhye, Ukraine#true#1450
+1569#15144#Yekaterinburg, Sverdlovsk, Russia#true#1451
+1570#15146#Shepetovka, Khmelnitsky, Ukraine#true#1452
+1571#15149#Bui, Kostroma, Russia#true#1453
+1572#15155#Pochyot, Krasnoyarsk Krai, Russia#true#1454
+1573#15156#Abakan, Khakassia, Russia#true#1455
+1574#15166#Gyumri, Armenia#false#1456
+1575#15165#Leninakan, Armenia#true#1456
+1576#15455#Zakharovo Village, Gus-Khrustalnyy Rayon, Vladimir Oblast, Russia#true#1457
+1577#15161#Melenki, Vladimir Oblast, Russia#false#1457
+1578#15168#Saint Petersburg, Russia#true#1458
+1579#15170#St. Petersburg, Russia#true#1459
+1580#15174#Pushkin, Saint Petersburg, Russia#true#1460
+1581#15173#St. Petersburg, Russia#true#1461
+1582#15176#Lopatino, Sergachiisky Region, Russia#true#1462
+1583#15178#Duleevka, Donetsk Region, Ukraine#true#1463
+1584#15180#Ordzhonikidze, North Ossetia, Russia#true#1464
+1585#15183#Vladikavkaz, North Ossetia, Russia#false#1464
+1586#15182#Zhitnikovskoe, Kurgan Region, Russia#true#1465
+1587#15185#St. Petersburg, Russia#true#1466
+1588#15187#Troitsk, Chelyabinsk Oblast, Russia#true#1467
+1589#15220#Sevastopol, Ukraine#true#1468
+1590#15190#St. Petersburg, Russia#true#1469
+1591#15199#Cheremkhovo, Irkutsk, Russia#true#1470
+1592#15204#St. Petersburg, Russia#true#1471
+1593#15207#Zagorsk (Sergiev, Posad), Moscow Region, Russia#true#1472
+1594#15211#Novgorod, Russia#true#1473
+1595#15213#Saint Petersburg, Russia#true#1474
+1596#15215#St. Petersburg, Russia#true#1475
+1597#15247#Chisinau, Moldova#true#1476
+1598#15249#Kirovograd, Ukraine#true#1477
+1599#26372#Nikolsky (Moscow), Russia#true#1478
+1600#15256#Praia, Cabo Verde#true#1479
+1601#15260#Alexeevka, Saratov, Russia#true#1480
+1602#15357#Russia#true#1481
+1603#15287#Donetsk, Ukraine#true#1482
+1604#15291#Gabon#true#1483
+1605#15293#Ndele, Central African Republic#true#1484
+1606#15298#Ndinaba, Chad#false#1485
+1607#15297#Kobo, Central African Republic#true#1485
+1608#15306#Andinapolis, Trujillo, Valle, Colombia#true#1486
+1609#15317#Zvenigorod, Moscow, Russia#true#1487
+1610#17596#Lebedyn, Ukraine#true#1488
+1611#15323#Donetsk, Ukraine#true#1489
+1612#15329#San Cipriano d'Aversa, Italy#true#1490
+1613#15337#Casal di Principe, Italy#true#1491
+1614#15339#Casal di Principe, Italy#true#1492
+1615#15348#Loreto, Italy#true#1493
+1616#15350#Casal di Principe, Italy#true#1494
+1617#15354#Vakaga Region, Central African Republic#true#1495
+1618#15359#Ulan-Ude, Russia#true#1496
+1619#15361#Odessa, Ukraine#true#1497
+1620#15368#Russia#true#1498
+1621#15370#Simferopol, Crimea#true#1499
+1622#15371#Simferopol, Crimea, Ukraine#true#1500
+1623#15376#Kaluga, Russia#true#1501
+1624#15379#Donetsk, Ukraine#true#1502
+1625#15670#Abejorral, Antioquia, Colombia#true#1503
+1626#16871#Ljubljana, Slovenia#true#1504
+1627#15423#Ljubljana, Slovenia#true#1505
+1628#15431#China#true#1506
+1629#15665#China#true#1507
+1630#15544#Kapuskasing, Ontario, Canada#true#1508
+1631#15547#Canada#true#1509
+1632#15550#Ontario, Canada#true#1510
+1633#15553#Bridgetown, Barbados#true#1511
+1634#15562#Mayon County Unity State#true#1512
+1635#15563#Mayan, Unity State#false#1512
+1636#15571#Tashtagol, Russia#true#1513
+1637#15606#Alagir, North Ossetia, Russia#true#1514
+1638#15609#Odessa, Ukraine#true#1515
+1639#15611#St. Petersburg, Russia#true#1516
+1640#15618#Zaporozhye, Ukraine#true#1517
+1641#15620#Makeevka, Ukraine#true#1518
+1642#15660#Envigado, Antioquia, Colombia#true#1519
+1643#15677#Urrao, Antioquia, Colombia#true#1520
+1644#15693#Casal di Principe, Italy#true#1521
+1645#15664#Sana, Yemen#true#1522
+1646#15672#Nozhai-Yurtsky District, Chechen Republic, Russia#true#1523
+1647#15691#Casal di Principe, Italy#true#1524
+1648#15696#Sahiwal, Punjab Province, Pakistan#true#1525
+1649#16009#Ayacucho, Peru#true#1526
+1650#15723#Cali, Colombia#true#1527
+1651#15729#Apartado, Antioquia, Colombia#true#1528
+1652#15732#Mistrato, Risaralda, Colombia#true#1529
+1653#15795#Bello, Antioquia, Colombia#true#1530
+1654#15877#Medellin, Colombia#true#1531
+1655#15999#Medellin, Colombia#true#1532
+1656#15887#Marquetalia, Caldas, Colombia#true#1533
+1657#15801#La Merced, Caldas, Colombia#true#1534
+1658#15798#Medellin, Colombia#true#1535
+1659#15785#'Adlun, Lebanon#true#1536
+1660#15804#Oslo, Norway#true#1537
+1661#15875#Medellin, Colombia#true#1538
+1662#15884#Itagui, Antioquia, Colombia#true#1539
+1663#15814#Vinnytsia, Ukraine#false#1540
+1664#16019#Banash, Syria#true#1541
+1665#15864#Murska Sobota, Slovenia#true#1542
+1666#15889#Sinaloa, Culiacan, Mexico#true#1543
+1667#15891#Culiacan, Sinaloa, Mexico#true#1544
+1668#15896#Culiacan, Sinaloa, Mexico#true#1545
+1669#15898#Culiacan, Sinaloa, Mexico#true#1546
+1670#16002#Envigado, Antioquia, Colombia#true#1547
+1671#16016#Envigado, Antioquia, Colombia#true#1548
+1672#16004#Itagui, Antioquia, Colombia#true#1549
+1673#16011#Ayacucho, Peru#true#1550
+1674#15919#San Juan de Siguas, Arequipa, Peru#true#1551
+1675#15936#Debaltsevo, Donetsk Region, Ukraine#true#1552
+1676#15925#Santiago Papasquiaro, Durango, Mexico#true#1553
+1677#15928#Santiago Papasquiaro, Durango, Mexico#true#1554
+1678#15940#Balochistan Province, Pakistan#true#1555
+1679#15944#Shadal (variant Shadaal) Bazaar, Achin District, Nangarhar Province, Afghanistan#true#1556
+1680#15948#Bacacoragua, Badiraguato, Sinaloa, Mexico#true#1557
+1681#17259#Baabda, Lebanon#true#1558
+1682#15954#Dnepropetrovsk, Ukraine#true#1559
+1683#15959#Lahore, Pakistan#true#1560
+1684#15966#Warah, Kuwait#true#1561
+1685#15969#Kuwait#true#1562
+1686#15973#Simferopol, Ukraine#true#1563
+1687#15975#Donetsk, Ukraine#true#1564
+1688#15997#Oran, Algeria#true#1565
+1689#16007#Donetsk, Ukraine#true#1566
+1690#16013#Qatar#true#1567
+1691#16027#Shagraa, Saudi Arabia#true#1568
+1692#16043#Arak, Iran#true#1569
+1693#16047#Donetsk, Ukraine#true#1570
+1694#16090#Donetsk Region#true#1571
+1695#16123#Sievierodonetsk, Ukraine#true#1572
+1696#16133#Eupatoria, Ukraine#true#1573
+1697#16156#Novosibirsk, Russia#true#1574
+1698#16459#Aweil, South Sudan#true#1575
+1699#16460#Aweil, Sudan#false#1575
+1700#16179#Pakistan#true#1576
+1701#16171#Lahore, Pakistan#true#1577
+1702#16174#Lahore, Pakistan#true#1578
+1703#16177#Jakarta, Indonesia#true#1579
+1704#16182#Indonesia#true#1580
+1705#16185#Rembang, Jawa Tengah, Indonesia#true#1581
+1706#16189#Pec, Kosovo#true#1582
+1707#16193#Miljanovci, Kalesija Municipality, Bosnia#true#1583
+1708#16238#Alexandria, Egypt#true#1584
+1709#16201#Duisi, Akhmeta District, Georgia#true#1585
+1710#16196#Saudi Arabia#true#1586
+1711#16204#Akhmeta, Village Birkiani, Georgia#true#1587
+1712#16207#Nairobi, Kenya#true#1588
+1713#16221#Kuwait#true#1589
+1714#16209#Qatar#true#1590
+1715#16214#Iraq#true#1591
+1716#16219#Tunis, Tunisia#true#1592
+1717#16231#Bourg la Reine, France#true#1593
+1718#16420#Shpakovskoe, Shpakovsky District, Stravopol, Russia#true#1594
+1719#16225#al-Duwadmi, Saudi Arabia#true#1595
+1720#16228#Morocco#true#1596
+1721#16233#Puturge, Turkey#true#1597
+1722#16241#Doma, Libya#true#1598
+1723#16860#Vinnytsia Region, Ukraine#true#1599
+1724#16330#Prizren, Kosovo#true#1600
+1725#16278#Pec, Kosovo#true#1601
+1726#16282#Kirovograd, Ukraine#true#1602
+1727#16288#Deir Ezzor, Syria#true#1603
+1728#16290#Damascus, Syria#true#1604
+1729#16320#Russia#true#1605
+1730#16335#Mumbai, India#true#1606
+1731#16340#Egypt#true#1607
+1732#16343#Zangara area, Sararogh, South Waziristan#true#1608
+1733#16384#Dahyan, Yemen#true#1609
+1734#16385#Sa'dah Governorate, Yemen#false#1609
+1735#16392#Bayt al-Ahmar, Sana'a Governorate, Yemen#true#1610
+1736#16393#Sana'a, Yemen#false#1610
+1737#16400#Kelmentsi, Ukraine#true#1611
+1738#16402#Nyzhnya Duvanka, Ukraine#true#1612
+1739#16422#Stavropol, Russia#true#1613
+1740#16424#Pushchino, Moscow, Russia#true#1614
+1741#16440#Stahanov, Luhansk Oblast, Ukraine#true#1615
+1742#16479#Damascus, Syria#true#1616
+1743#16481#Damascus, Syria#true#1617
+1744#16561#Buridah, al-Qasim, Saudi Arabia#true#1618
+1745#16723#Swat, Pakistan#true#1619
+1746#16724#Kuza Bandai village, Pakistan#false#1619
+1747#16729#Culiacan, Sinaloa, Mexico#true#1620
+1748#16997#Apatzingan, Michoacan, Mexico#false#1621
+1749#16819#Aguililla, Michoacan, Mexico#true#1621
+1750#16820#Guadalajara, Jalisco, Mexico#false#1621
+1751#16823#Naranjo de Chila, Aguililla, Michoacan, Mexico#true#1622
+1752#16831#Medellin, Colombia#true#1623
+1753#16837#Urrao, Antioquia, Colombia#true#1624
+1754#16842#Donetsk, Ukraine#true#1625
+1755#16840#Perevalsk, Ukraine#true#1626
+1756#16863#Simferopol, Crimea, Ukraine#true#1627
+1757#16877#Donetsk, Ukraine#true#1628
+1758#16879#Republic of Mordovia, Russia#true#1629
+1759#16881#Dishu District, Helmand Province, Afghanistan#true#1630
+1760#16883#Bakal, Chelyabinsk, Russia#true#1631
+1761#16891#Jwaya, Lebanon#true#1632
+1762#16919#Sierra Leone#false#1632
+1763#16924#Lebanon#true#1633
+1764#16939#Caracas, Venezuela#true#1634
+1765#16943#Venezuela#true#1635
+1766#16947#Piritu, Venezuela#true#1636
+1767#16952#Venezuela#true#1637
+1768#16960#Venezuela#true#1638
+1769#16970#Caracas, Venezuela#true#1639
+1770#16975#Venezuela#true#1640
+1771#17022#Distrito Federal, Mexico#true#1641
+1772#17026#Aguililla, Michoacan de Ocampo, Mexico#true#1642
+1773#17040#Teletl County, Shamil District, Dagestan Republic#true#1643
+1774#17043#Matamoros, Tamaulipas, Mexico#true#1644
+1775#17046#Matamoros, Tamaulipas, Mexico#true#1645
+1776#17048#Monterrey, Nuevo Leon, Mexico#true#1646
+1777#17050#Matamoros, Tamaulipas, Mexico#true#1647
+1778#17052#Matamoros, Tamaulipas, Mexico#true#1648
+1779#17100#Dahyan Governorate, Yemen#true#1649
+1780#17105#Sana'a, Yemen#true#1650
+1781#17121#San Salvador, El Salvador#true#1651
+1782#17118#El Salvador#true#1652
+1783#17124#San Salvador, El Salvador#true#1653
+1784#17137#Tunis, Tunisia#true#1654
+1785#17158#Xarardheere, Somalia#true#1655
+1786#17160#Somalia#true#1656
+1787#17164#Edessa, Pella, Greece#true#1657
+1788#17162#Ikaria, Greece#true#1658
+1789#17208#Lebanon#true#1659
+1790#17218#Culiacan, Sinaloa, Mexico#true#1660
+1791#17222#Tamazula, Durango, Mexico#true#1661
+1792#17240#Ahome, Sinaloa, Mexico#true#1662
+1793#17278#Ahome, Sinaloa, Mexico#true#1663
+1794#17280#Ahome, Sinaloa, Mexico#true#1664
+1795#17298#Tepatitlan de Morelos, Jalisco, Mexico#true#1665
+1796#17300#Guadalajara, Jalisco, Mexico#true#1666
+1797#17420#Kfartebnit 50, Lebanon#true#1667
+1798#17421#Kfar Tibnit, Lebanon#false#1667
+1799#17422#Ghobeiry, Lebanon#false#1667
+1800#17423#Al Ghubayrah, Lebanon#false#1667
+1801#17428#Al-Khayam, Lebanon#true#1668
+1802#17433#Lagos, Nigeria#true#1669
+1803#17437#Bor, South Sudan#true#1670
+1804#17438#Bor, Sudan#false#1670
+1805#17441#Akobo, Jonglei State, South Sudan#true#1671
+1806#17442#Akobo, Jonglei State, Sudan#false#1671
+1807#17443#Uror County, Jonglei State, South Sudan#false#1671
+1808#17444#Uror County, Jonglei State, Sudan#false#1671
+1809#17595#Russia#true#1672
+1810#47535#St. Petersburg, Russia#false#1673
+1811#17604#Izhevsk, Russia#true#1674
+1812#17607#Moscow, Russia#true#1675
+1813#17679#Bidnayil, Lebanon#true#1676
+1814#39845#Younine, Lebanon#false#1676
+1815#17684#Beirut, Lebanon#false#1677
+1816#17683#An Nabi Shit, Ba'labakk, Biqa' Valley, Lebanon#true#1677
+1817#17702#El Paso, Cesar, Colombia#true#1678
+1818#17798#Central African Republic#true#1679
+1819#17803#Tullus, Southern Darfur, Sudan#true#1680
+1820#17818#Annaba, Algeria#true#1681
+1821#17881#Khan Younis, Gaza#true#1682
+1822#17884#Ramallah, West Bank#true#1683
+1823#17893#Taif, Saudi Arabia#true#1684
+1824#17901#Malualkon, Sudan#true#1685
+1825#17902#Malualkon, South Sudan#false#1685
+1826#17903#Warawar, Sudan#false#1685
+1827#17904#Warawar, South Sudan#false#1685
+1828#17935#Bello, Antioquia, Colombia#true#1686
+1829#17933#Medellin, Antioquia, Colombia#true#1687
+1830#17951#al-Qasim, Saudi Arabia#true#1688
+1831#17955#Jeddah, Saudi Arabia#true#1689
+1832#17960#Sahl village, Raqqa province, Syria#true#1690
+1833#17971#Hrncici, Bratunac, Bosnia and Herzegovina#true#1691
+1834#17963#Al-Sharqat, Salah ad-Din Province, Iraq#true#1692
+1835#17964#Mosul, Iraq#false#1692
+1836#17967#Iraq#true#1693
+1837#17991#Darna, Libya#true#1694
+1838#17994#Maiduguri, Nigeria#true#1695
+1839#17996#Ben Guerdane, Tunisia#true#1696
+1840#18010#San Rafael, Antioquia, Colombia#true#1697
+1841#18014#Mamondzowi Village, Orakzai Agency, Pakistan#true#1698
+1842#18018#Jakarta, Indonesia#true#1699
+1843#18019#Demak, Indonesia#true#1700
+1844#18033#Glasgow, United Kingdom#true#1701
+1845#18036#Greenwich, England#true#1702
+1846#18041#Ploemeur, France#true#1703
+1847#18044#Varzob, Tajikistan#true#1704
+1848#18062#Paris, France#true#1705
+1849#18064#Normandy, France#true#1706
+1850#18067#Kalmykia, Russia#true#1707
+1851#18069#Itum-Kale District, Chechen Ingush#true#1708
+1852#18070#Chechen Republic, Russia#false#1708
+1853#18073#Astrakhan, Russia#true#1709
+1854#18077#Cardiff, United Kingdom#true#1710
+1855#18532#Turkey#true#1711
+1856#18092#Vedeno Village, Vedenskiy District, the Republic of Chechnya, Russia#true#1712
+1857#18096#Chegem/Kabardino-Balkaria, Russia#true#1713
+1858#18101#Stavropol Region, Russia#true#1714
+1859#18112#Jiangsu, China#true#1715
+1860#18132#Kandahar Province, Afghanistan#true#1716
+1861#18133#Pishin, Balochistan Province, Pakistan#false#1716
+1862#18471#Beirut, Lebanon#true#1717
+1863#18473#Kafr Kila, Lebanon#true#1718
+1864#32051#Kfarkela, Lebanon#false#1718
+1865#18489#Barranquilla, Colombia#true#1719
+1866#18496#Kamed El Louz, Lebanon#true#1720
+1867#18502#Colombia#true#1721
+1868#18505#Colombia#true#1722
+1869#18514#Choix, Sinaloa, Mexico#true#1723
+1870#18518#Guasave, Sinaloa, Mexico#true#1724
+1871#18522#Guasave, Sinaloa, Mexico#true#1725
+1872#18526#Guasave, Sinaloa, Mexico#true#1726
+1873#18536#Khadzhalmahi Village, Levashinskiy District, Republic of Dagestan, Russia#true#1727
+1874#18550#Sinaloa, Sinaloa, Mexico#true#1728
+1875#18554#Sinaloa, Sinaloa, Mexico#true#1729
+1876#18558#Guasave, Sinaloa, Mexico#true#1730
+1877#18562#Bello, Antioquia, Colombia#true#1731
+1878#18564#Cali, Valle, Colombia#true#1732
+1879#18566#Cali, Valle, Colombia#true#1733
+1880#18568#Medellin, Antioquia, Colombia#true#1734
+1881#18570#Medellin, Antioquia, Colombia#true#1735
+1882#18572#Medellin, Antioquia, Colombia#true#1736
+1883#18650#Envigado, Antioquia, Colombia#true#1737
+1884#18576#Medellin, Antioquia, Colombia#true#1738
+1885#18590#Khoms, Syria#true#1739
+1886#18593#Elista, Republic of Kalmykia, Russia#true#1740
+1887#18595#Cyprus#true#1741
+1888#18600#Yabrud, Syria#true#1742
+1889#18670#Sevastopol, Ukraine#true#1743
+1890#18731#Bossangoa, Central African Republic#true#1744
+1891#18737#Colombia#true#1745
+1892#18744#San Miguel Totolapan, Guerrero, Mexico#true#1746
+1893#18748#Acapulco de Juarez, Guerrero, Mexico#true#1747
+1894#18752#General Heliodoro Castillo, Guerrero, Mexico#true#1748
+1895#18760#Acapulco de Juarez, Guerrero, Mexico#true#1749
+1896#18764#Poza Rica de Hidalgo, Veracruz, Mexico#true#1750
+1897#18768#Baja California, Mexico#true#1751
+1898#18771#Tlapehuala, Guerrero, Mexico#true#1752
+1899#18856#Mexico City, D.F., Mexico#true#1753
+1900#19509#Ixtlahuatenco Pedro Ascencio Alquisiras, Guerrero, Mexico#false#1753
+1901#18859#Culiacan, Sinaloa, Mexico#true#1754
+1902#18862#Mexico City, D.F., Mexico#true#1755
+1903#18864#Mexico City, D.F., Mexico#true#1756
+1904#18897#Anhui, China#true#1757
+1905#18928#Sidon, Lebanon#true#1758
+1906#19516#Saudi Arabia#true#1759
+1907#19555#Beirut, Lebanon#true#1760
+1908#19610#Zanzibar, Tanzania#true#1761
+1909#19613#Dar es Salaam, Tanzania#false#1761
+1910#19629#Al-Nusayirat refugee camp, Gaza#true#1762
+1911#19632#Al Muharraq, Bahrain#true#1763
+1912#19712#South Pyo'ngan Province, Pyo'ngso'ng#true#1764
+1913#19752#Matachi, Chihuahua, Mexico#true#1765
+1914#19764#Sinaloa, Sinaloa, Mexico#true#1766
+1915#19769#Sinaloa, Sinaloa, Mexico#true#1767
+1916#19847#Afghanistan#true#1768
+1917#19849#Afghanistan#true#1769
+1918#19968#Tentena, Indonesia#true#1770
+1919#19989#Sialkot, Pakistan#true#1771
+1920#20007#Du Ab, Nuristan Province, Afghanistan#true#1772
+1921#20008#Parun, Nuristan Province, Afghanistan#false#1772
+1922#20031#Borehamwood, Hertfordshire, England, United Kingdom#true#1773
+1923#20032#Dundee, Scotland, United Kingdom#false#1773
+1924#20062#Bahawalnagar, Pakistan#true#1774
+1925#20063#Lahore, Punjab Province, Pakistan#false#1774
+1926#20107#Brussels, Belgium#true#1775
+1927#20127#Misurata, Libya#true#1776
+1928#20248#Musan, North Hamgyo'ng Province, North Korea#true#1777
+1929#20251#North Hamgyo'ng Province, North Korea#true#1778
+1930#20268#Kuwait#true#1779
+1931#20271#Cap Djinet, Algeria#true#1780
+1932#20273#Kuwait#true#1781
+1933#20331#Elgubba, Libya#true#1782
+1934#20330#Raqqah Region, Marib Governorate, Yemen#true#1783
+1935#20348#Port Said, Egypt#true#1784
+1936#20369#Albaidah, Yemen#true#1785
+1937#20380#Manizales, Caldas, Colombia#true#1786
+1938#20534#Manizales, Caldas, Colombia#true#1787
+1939#20960#Aranzazu, Caldas, Colombia#true#1788
+1940#20961#Manizales, Caldas, Colombia#true#1789
+1941#20415#Manizales, Caldas, Colombia#true#1790
+1942#20417#Manizales, Caldas, Colombia#true#1791
+1943#20635#Piura, Peru#true#1792
+1944#20448#Karachi, Pakistan#true#1793
+1945#20530#Kananga, Democratic Republic of the Congo#true#1794
+1946#20570#Aguililla, Michoacan de Ocampo, Mexico#true#1795
+1947#20568#Apatzingan, Michoacan de Ocampo, Mexico#true#1796
+1948#20572#Aguililla, Michoacan de Ocampo, Mexico#true#1797
+1949#20574#Aguililla, Michoacan de Ocampo, Mexico#true#1798
+1950#20577#Aguililla, Michoacan de Ocampo, Mexico#true#1799
+1951#20583#Apatzingan, Michoacan de Ocampo, Mexico#true#1800
+1952#20587#Aguililla, Michoacan de Ocampo, Mexico#true#1801
+1953#20590#Guadalajara, Jalisco, Mexico#true#1802
+1954#20609#North P'yo'ngan Province, North Korea#true#1803
+1955#20611#Guadalajara, Jalisco, Mexico#true#1804
+1956#20808#Krasny Luch, Voroshilovgrad, Ukraine#true#1805
+1957#20811#Luhansk, Ukraine#true#1806
+1958#20810#Donetsk, Ukraine#true#1807
+1959#20628#Lima, Peru#true#1808
+1960#22392#Medellin, Antioquia, Colombia#true#1809
+1961#22395#Medellin, Antioquia, Colombia#true#1810
+1962#22398#Medellin, Antioquia, Colombia#true#1811
+1963#20640#Sambhal, Uttar Pradesh, India#true#1812
+1964#20700#Ain el-Karm, Syria#true#1813
+1965#20725#Aswan Governorate, Egypt#true#1814
+1966#20728#Algeria#true#1815
+1967#20730#Kuwait#true#1816
+1968#20720#Kitaevka, Novoselitskiy Region, Stavropol Territory, the Russian Federation#true#1817
+1969#20722#Naberezhnye Chelny, Republic of Tatarstan, Russia#true#1818
+1970#20737#Homs, Syria#true#1819
+1971#20741#Damascus, Syria#true#1820
+1972#20746#El Vigia, Merida, Venezuela#true#1821
+1973#20749#Venezuela#true#1822
+1974#20753#Dzhankoy, Ukraine#true#1823
+1975#20755#Simferopol, Ukraine#true#1824
+1976#20757#Naidyonovka, Crimean Oblast, Ukraine#true#1825
+1977#20759#Moscow, Russia#true#1826
+1978#20762#Petrovsky-Dobrinsky Region, Lipestkoy Oblast, Ukraine#true#1827
+1979#20764#Nikopol, Dnepropetrovsk Oblast, Ukraine#true#1828
+1980#20766#Simferopol, Ukraine#true#1829
+1981#20770#Kochmes, Komi, Russia#true#1830
+1982#20984#Kolwezi, Katanga Province, Democratic Republic of the Congo#true#1831
+1983#20999#Somalia#true#1832
+1984#21063#Dakar, Senegal#true#1833
+1985#21141#Burj al-Burajne, Lebanon#true#1834
+1986#21147#Haret Hreik, Lebanon#true#1835
+1987#21322#Marrakech, Morocco#true#1836
+1988#21343#Lebanon#true#1837
+1989#21348#Lebanon#true#1838
+1990#21462#Beirut, Lebanon#true#1839
+1991#21523#Hadramawt Governorate, Yemen#true#1840
+1992#21541#Shakhawi, Hadramawt Governorate, Yemen#true#1841
+1993#21562#Al Qasim, Saudi Arabia#true#1842
+1994#21565#Amman, Jordan#true#1843
+1995#21568#Skopje, Macedonia#true#1844
+1996#21572#Al-Tal, Syria#true#1845
+1997#21573#Tell Mnin, Syria#false#1845
+1998#21582#Ndele, Bamingui-Bangoran Prefecture, Central African Republic#true#1846
+1999#21586#Bangui, Central African Republic#true#1847
+2000#24628#Corinto, Cauca, Colombia#true#1848
+2001#24626#Corinto, Cauca, Colombia#true#1849
+2002#24632#Corinto, Cauca, Colombia#true#1850
+2003#24636#Corinto, Cauca, Colombia#true#1851
+2004#21606#Russia#true#1852
+2005#21609#Ukraine#true#1853
+2006#21607#Ukraine#true#1854
+2007#21608#Uzbekistan#true#1855
+2008#21610#Ukraine#true#1856
+2009#21662#Bistuwir, Jablah, Syria#true#1857
+2010#21638#Damascus, Syria#true#1858
+2011#21640#Damascus, Syria#true#1859
+2012#21642#Tartous, Syria#true#1860
+2013#21644#Damascus, Syria#true#1861
+2014#21647#Tartous, Syria#true#1862
+2015#21650#Ukraine#true#1863
+2016#21708#Sinaloa, Sinaloa, Mexico#true#1864
+2017#21730#Bor, South Sudan#true#1865
+2018#21731#Bor, Sudan#false#1865
+2019#21737#Tambobamba community, Ayacucho district, Province of Huanta, Ayacucho Region, Peru#true#1866
+2020#21739#Iraq#true#1867
+2021#21741#Lebanon#true#1868
+2022#21743#Morocco#true#1869
+2023#21775#Yemen#true#1870
+2024#21793#Autlan de Navarro, Jalisco, Mexico#true#1871
+2025#21794#San Martin Texmelucan, Puebla, Mexico#false#1871
+2026#21802#Tepic, Nayarit, Mexico#true#1872
+2027#21806#Guadalajara, Jalisco, Mexico#true#1873
+2028#21810#Villa Purificacion, Jalisco, Mexico#true#1874
+2029#21814#Acatic, Jalisco, Mexico#true#1875
+2030#21818#Tijuana, Baja California, Mexico#true#1876
+2031#21822#Zapopan, Jalisco, Mexico#true#1877
+2032#21826#Ahome, Sinaloa, Mexico#true#1878
+2033#21830#Guadalajara, Jalisco, Mexico#true#1879
+2034#21834#Jalisco, Mexico#true#1880
+2035#21838#Guadalajara, Jalisco, Mexico#true#1881
+2036#21842#Guadalajara, Jalisco, Mexico#true#1882
+2037#21899#Guadalajara, Jalisco, Mexico#true#1883
+2038#21903#Tecuala, Nayarit, Mexico#true#1884
+2039#21907#Guadalajara, Jalisco, Mexico#true#1885
+2040#21920#Guadalajara, Jalisco, Mexico#true#1886
+2041#22012#Albu Kamal, Syria#true#1887
+2042#21996#Kasaji, Democratic Republic of the Congo#true#1888
+2043#21997#Likasi, Katanga, Democratic Republic of the Congo#false#1888
+2044#22001#Teke-Kalamba, Democratic Republic of the Congo#true#1889
+2045#22002#Kasai Occidentale Province, Democratic Republic of the Congo#false#1889
+2046#48893#Moscow, Russia#true#1890
+2047#48894#St. Petersburg, Russia#false#1890
+2048#48887#St. Petersburg, Russia#true#1891
+2049#47489#Leningrad, Russia#true#1892
+2050#22038#Atar, Mauritania#true#1893
+2051#22053#Sirte, Libya#true#1894
+2052#22058#Syria#true#1895
+2053#22096#Kindu, Maniema, Democratic Republic of the Congo#true#1896
+2054#22102#Qalamun, Damascus Province, Syria#true#1897
+2055#22103#Ghutah, Damascus Province, Syria#false#1897
+2056#22104#Tadamon, Rif Dimashq, Syria#false#1897
+2057#22107#Syria#true#1898
+2058#22113#Sheikhupura, Pakistan#true#1899
+2059#22116#Pakistan#true#1900
+2060#22123#Jeddah, Saudi Arabia#true#1901
+2061#22155#Riga, Latvia#true#1902
+2062#22219#Paddington, London, United Kingdom#true#1903
+2063#22216#Auburn, New South Wales, Australia#true#1904
+2064#22235#Bogor, Indonesia#true#1905
+2065#22233#Quetta, Balochistan, Pakistan#true#1906
+2066#22241#Sumedang, Indonesia#true#1907
+2067#22246#Melbourne, Australia#true#1908
+2068#22249#Nangalam Village, Manugay District, Afghanistan#true#1909
+2069#22253#Nangalam Village, Dar-e-Pech, Kunar, Afghanistan#true#1910
+2070#22272#Tehran, Iran#true#1911
+2071#22274#Sidon, Lebanon#true#1912
+2072#22297#Sitra, Bahrain#true#1913
+2073#22280#Baghdad, Iraq#false#1913
+2074#22299#Bahrain#true#1914
+2075#45028#Banja Luka, Bosnia and Herzegovina#true#1915
+2076#22434#Tehran, Iran#true#1916
+2077#22444#Dezfool, Iran#true#1917
+2078#22447#Kuwait#true#1918
+2079#22451#Aramta, Lebanon#true#1919
+2080#22454#Tehran, Iran#true#1920
+2081#22493#Sinaloa, Sinaloa, Mexico#true#1921
+2082#22498#Sinaloa, Sinaloa, Mexico#true#1922
+2083#22502#Sinaloa, Sinaloa, Mexico#true#1923
+2084#22506#Sinaloa, Sinaloa, Mexico#true#1924
+2085#22508#Sinaloa, Sinaloa, Mexico#true#1925
+2086#22512#Los Mochis, Ahome, Sinaloa, Mexico#true#1926
+2087#22593#Bonn, Germany#true#1927
+2088#22652#Magdalena, Jalisco, Mexico#true#1928
+2089#22672#Magdalena, Jalisco, Mexico#true#1929
+2090#22737#Surakarta, Indonesia#true#1930
+2091#22738#Pekalongan, Indonesia#false#1930
+2092#22743#Durian Tunggal, Malacca, Malaysia#true#1931
+2093#22746#Sudan#true#1932
+2094#22752#New Zealand#true#1933
+2095#22755#Welling, Southeast London, UK#true#1934
+2096#22756#North London, UK#false#1934
+2097#22757#Trinidad and Tobago#true#1935
+2098#22808#Pyongyang#true#1936
+2099#22814#Jaffa, Israel#true#1937
+2100#22818#Illizi, Algeria#true#1938
+2101#22872#Syria#true#1939
+2102#22876#Toronto, Canada#true#1940
+2103#22934#Guasave, Sinaloa, Mexico#true#1941
+2104#23531#Riyadh, Saudi Arabia#true#1942
+2105#23599#Tigre, Anzoategui, Venezuela#true#1943
+2106#23556#La Concordia, Chiapas, Mexico#true#1944
+2107#23572#Simferopol, Crimea, Ukraine#true#1945
+2108#23604#Trujillo, Venezuela#true#1946
+2109#23608#Maracaibo, Zulia, Venezuela#true#1947
+2110#23612#Punto Fijo, Falcon, Venezuela#true#1948
+2111#23616#Zulia, Venezuela#true#1949
+2112#23620#Caracas, Capital District, Venezuela#true#1950
+2113#23631#San Rafael del Mojan, Zulia, Venezuela#true#1951
+2114#23640#Al Ladhiqiyah, Syria#true#1952
+2115#23711#Yemen#true#1953
+2116#23653#Sinai Province, Egypt#true#1954
+2117#23713#Lebanon#true#1955
+2118#23751#Sinaloa, Sinaloa, Mexico#true#1956
+2119#23854#Gavrilov Yam, Russia#true#1957
+2120#23858#Jakarta, Indonesia#true#1958
+2121#23870#Skvortsovo village, Simferopol region, Crimea, Ukraine#true#1959
+2122#23873#Russia#true#1960
+2123#23883#Moscow, Russia#true#1961
+2124#24640#Tulua, Valle, Colombia#true#1962
+2125#24713#Ipiales, Narino, Colombia#true#1963
+2126#23920#Iraq#true#1964
+2127#23916#Piketnoy Marjanovsky District, Omsk Region, Russia#true#1965
+2128#23952#Manama, Bahrain#true#1966
+2129#23955#Belgium#true#1967
+2130#23961#Bhatkal, Karnataka, India#true#1968
+2131#23973#Ukraine#true#1969
+2132#23976#Kizel, Russia#true#1970
+2133#23999#Omsk, Siberia, Russia#true#1971
+2134#24032#Soibug, Budgam, Kashmir, Jammu and Kashmir, India#true#1972
+2135#24093#Ordzhonikidzevskaya, Ingushetia, Russia#true#1973
+2136#24113#Tumaco, Narino, Colombia#true#1974
+2137#24132#Shandong, China#true#1975
+2138#24143#Qom, Iran#true#1976
+2139#24168#North Korea#true#1977
+2140#24859#Medellin, Antioquia, Colombia#true#1978
+2141#24226#Caucagua, Miranda, Venezuela#true#1979
+2142#24237#Barquisimeto, Lara, Venezuela#true#1980
+2143#24244#San Cristobal, Tachira, Venezuela#true#1981
+2144#24260#Caracas, Venezuela#true#1982
+2145#24292#Valencia, Carabobo, Venezuela#true#1983
+2146#24310#Barinas, Venezuela#true#1984
+2147#24336#Aleppo, Syria#true#1985
+2148#24337#Brussels, Belgium#false#1985
+2149#24338#Baghdad, Iraq#false#1985
+2150#24397#Palabek, Uganda#true#1986
+2151#24398#Padibe Lamwu District, Uganda#false#1986
+2152#24412#Yei, South Sudan#true#1987
+2153#24464#Karaj, Iran#true#1988
+2154#24574#Lebanon#true#1989
+2155#24594#Ta'izz, Yemen#true#1990
+2156#24607#Abyan Governorate, Khanfar, Al-Rumilah, Yemen#true#1991
+2157#24621#United Arab Emirates#true#1992
+2158#24658#Ta'izz Governorate, Yemen#true#1993
+2159#24696#Pyongyang, North Korea#true#1994
+2160#24700#Pyongan-bukdo, North Korea#true#1995
+2161#24704#Korea, North#true#1996
+2162#24709#North Korea#true#1997
+2163#24733#Sinaloa, Mexico#true#1998
+2164#24737#Sinaloa, Mexico#true#1999
+2165#24765#Guasave, Sinaloa, Mexico#true#2000
+2166#24740#Ecuador#true#2001
+2167#24748#Caracas, Venezuela#true#2002
+2168#24776#Guarico, Venezuela#true#2003
+2169#24821#Dandong, China#true#2004
+2170#24860#Malta#true#2005
+2171#24865#Egypt#true#2006
+2172#24876#Malta#true#2007
+2173#24895#Jamaica#true#2008
+2174#24929#Azanka, Tavdinsky District, Sverdlovsk Oblast, Russia#true#2009
+2175#24933#Tashkent, Uzbekistan#true#2010
+2176#24934#Israel#false#2010
+2177#24941#Tirlyan, Beloretskiy Rayon, Bashkiria, Russia#true#2011
+2178#24942#Irkutsk, Russia#false#2011
+2179#24943#Bratsk, Russia#false#2011
+2180#24948#Sochi, Russia#true#2012
+2181#24957#Tel Aviv, Israel#true#2013
+2182#24962#Roeselare, Flanders, Belgium#true#2014
+2183#24966#Malaya Mochulka, Vinnitska, Ukraine#true#2015
+2184#24971#Mazatenango, Guatemala#true#2016
+2185#24975#Chakwal, Pakistan#true#2017
+2186#24981#Hongtong, Shanxi, China#true#2018
+2187#25038#Awiil, Sudan#true#2019
+2188#25039#Rialdit, South Sudan#false#2019
+2189#25040#Warrap State, South Sudan#false#2019
+2190#25041#Abiem, Aweil East County, Northern Bahr al Ghazal, South Sudan#false#2019
+2191#24988#Kiseljak, Bosnia and Herzegovina#true#2020
+2192#24998#Sverdlovsk, Russia#true#2021
+2193#25002#Kanilai, The Gambia#true#2022
+2194#25006#New Jeshwang, Kanifang Municipality, The Gambia#true#2023
+2195#25010#Higuey, Dominican Republic#true#2024
+2196#25013#Fergana, Uzbekistan#true#2025
+2197#25018#Matagalpa, Nicaragua#true#2026
+2198#25031#Ibb Governorate, Yemen#true#2027
+2199#25092#Tsentoroi, Chechen Republic, Russia#true#2028
+2200#25098#Caracas, Venezuela#true#2029
+2201#25132#Distrito Federal, Mexico#true#2030
+2202#25252#Belgium#true#2031
+2203#25257#Edmonton, London, United Kingdom#true#2032
+2204#25277#Tehran, Iran#true#2033
+2205#25283#Isfahan Province#true#2034
+2206#25287#Moqiseh, Iran#true#2035
+2207#25293#Najaf, Iraq#true#2036
+2208#25315#Jiangsu, China#true#2037
+2209#25375#Salair, Kemerovsakya Oblast, Russia#true#2038
+2210#25380#Ust-Labinsk, Krasnodar Region, Russia#true#2039
+2211#25382#Riyadh, Saudi Arabia#true#2040
+2212#25389#Krasnodon, Ukraine#true#2041
+2213#25392#Krasnodonsky, Ukraine#true#2042
+2214#25416#Tula, Russia#true#2043
+2215#25425#Omsk, Russia#true#2044
+2216#25456#Rovenki, Ukraine#true#2045
+2217#25450#Bratsk, Russia#true#2046
+2218#25460#Rovenki, Ukraine#true#2047
+2219#25493#Maripi, Boyaca, Colombia#true#2048
+2220#25497#Maripi, Boyaca, Colombia#true#2049
+2221#25501#Caldas, Boyaca, Colombia#true#2050
+2222#25505#Maripi, Boyaca, Colombia#true#2051
+2223#27549#Maripi, Boyaca, Colombia#true#2052
+2224#25512#Maripi, Boyaca, Colombia#true#2053
+2225#25516#Caldas, Boyaca, Colombia#true#2054
+2226#25520#Maripi, Boyaca, Colombia#true#2055
+2227#25524#Pauna, Boyaca, Colombia#true#2056
+2228#25527#North Waziristan Agency, Pakistan#true#2057
+2229#25528#Federally Administered Tribal Areas, Pakistan#false#2057
+2230#25529#Khowst Province, Afghanistan#false#2057
+2231#25537#Shati refugee camp, Gaza Strip#true#2058
+2232#25540#Chahar Darah District, Kunduz Province, Afghanistan#true#2059
+2233#25544#Band-e-Temor, Maiwand District, Kandahar Province, Afghanistan#true#2060
+2234#25550#Afghanistan#true#2061
+2235#25554#Nangarhar Province, Afghanistan#true#2062
+2236#25578#Democratic Republic of the Congo#true#2063
+2237#25575#Kigoma, Walikale, North Kivu, Democratic Republic of the Congo#true#2064
+2238#25579#Kinyami, Byumba Province, Rwanda#true#2065
+2239#25586#Manono territory, Katanga Province (now Tanganyika Province), Democratic Republic of the Congo#true#2066
+2240#25608#Heilongjiang Province, China#true#2067
+2241#25609#Liaoning Province, China#false#2067
+2242#25613#Liaoning Province, China#true#2068
+2243#25617#Malaysia#true#2069
+2244#25635#Beirut, Lebanon#true#2070
+2245#25647#Bent Jbayl, Lebanon#true#2071
+2246#25651#Beirut, Lebanon#true#2072
+2247#25655#Bent Jbayl, Lebanon#true#2073
+2248#25659#El Ghbayr 5, Lebanon#true#2074
+2249#25699#Lower Dir, Khyber Pakhtunkhwa Province, Pakistan#true#2075
+2250#25702#Dir, Pakistan#true#2076
+2251#25709#Peshawar, Pakistan#true#2077
+2252#25714#Tuburan, Basilan Province, Philippines#true#2078
+2253#25720#Bruhl, Germany#true#2079
+2254#25832#Caracas, Venezuela#true#2080
+2255#25872#Somalia#true#2081
+2256#25871#Kenya#true#2082
+2257#25908#Sumgait, Azerbaijan#true#2083
+2258#26051#Cannes Region, France#true#2084
+2259#26096#Naghadeh, Iran#true#2085
+2260#26653#Addis Ababa, Ethiopia#true#2086
+2261#26124#Tabriz, Iran#true#2087
+2262#26129#Zabol, Iran#true#2088
+2263#26144#Tehran, Iran#true#2089
+2264#26141#Mashhad, Iran#true#2090
+2265#26137#Iran#true#2091
+2266#26149#Tehran, Iran#true#2092
+2267#26152#Zanjan, Iran#true#2093
+2268#26193#Moscow, Russian Federation#true#2094
+2269#26213#Saint-Petersburg, Russian Federation#true#2095
+2270#26252#Mitoga village, Ust-Bolsheretsky district, Kamchatka region, Russian Federation#true#2096
+2271#26293#Nikolayevsk-on-Amur, Russian Federation#true#2097
+2272#26313#Kursk, Russian Federation#true#2098
+2273#26334#St. Peterburg, Russia#true#2099
+2274#26337#Leningrad, Russia#true#2100
+2275#26375#Moscow, Russia#true#2101
+2276#26393#Kasur, Pakistan#true#2102
+2277#26400#Faisalabad, Pakistan#true#2103
+2278#26433#Dzerzhinsk, Nizhny Novgorod Region, Russia#true#2104
+2279#26455#Sheikhpura, Pakistan#true#2105
+2280#26459#Drogobych, Lviv region, Ukraine#true#2106
+2281#26573#Sialkot, Pakistan#true#2107
+2282#26471#St. Petersburg, Russian Federation#true#2108
+2283#26480#Zawiya, Libya#true#2109
+2284#26484#Massawa, Eritrea#true#2110
+2285#26491#Kurumoch, Kuibyshev Region, Russia#true#2111
+2286#26494#Leningrad, Russia#true#2112
+2287#26503#Suyerka, Uporovsky District, Tyumen Region, Russian Federation#true#2113
+2288#26497#Bratsk, Irkutsk Region, Russia#true#2114
+2289#26500#Nizhny Lomov, Penza Region, Russia#true#2115
+2290#26512#Chelyabinsk, Russia#true#2116
+2291#26515#Krasnozavodsk, Zagorsk District, Moscow Region, Russia#true#2117
+2292#26518#Derbent, Republic of Dagestan, Russia#true#2118
+2293#26522#Ryazanskaya oblast, Russia#true#2119
+2294#26526#Dresden, Germany#true#2120
+2295#26533#Saint-Petersburg (F.K.A. Leningrad), Russian Federation#true#2121
+2296#26677#Mathiang Village, South Sudan#true#2122
+2297#26691#Bent Jbeil, Lebanon#true#2123
+2298#26778#Meybod, Iran#true#2124
+2299#26782#Kashan, Iran#true#2125
+2300#26971#Kafr Fila, Lebanon#true#2126
+2301#26973#Nabi Ayla, Lebanon#true#2127
+2302#26979#Bodai, Lebanon#true#2128
+2303#26975#Karabuk, Kula, Turkey#true#2129
+2304#26976#Manisa, Kula, Turkey#false#2129
+2305#26982#Tehran, Iran#true#2130
+2306#26986#Kermanshah, Iran#true#2131
+2307#26989#Burj Al Barajinah, Beirut, Lebanon#true#2132
+2308#27001#Tehran, Iran#true#2133
+2309#27005#Tehran, Iran#true#2134
+2310#27008#Tehran, Iran#true#2135
+2311#27021#Iraq#true#2136
+2312#27028#Nahavand, Hamadan Province, Iran#true#2137
+2313#27032#Tehran, Iran#true#2138
+2314#27037#Dayr Qanun Al-Nahr, Lebanon#true#2139
+2315#27041#Laayoune, Western Sahara#true#2140
+2316#27461#Najafabad, Iran#true#2141
+2317#27554#S. J. de la Maguana, Dominican Republic#true#2142
+2318#27557#Cambodia#true#2143
+2319#27594#Nicaragua#true#2144
+2320#27597#Chinandega, Nicaragua#true#2145
+2321#27739#Hama, Syria#true#2146
+2322#27743#Hama, Syria#true#2147
+2323#27745#Ramlet El Baida, Lebanon#true#2148
+2324#27749#Beirut, Lebanon#true#2149
+2325#27752#Guangdong, China#true#2150
+2326#27759#Sialkot, Pakistan#true#2151
+2327#27775#Faisalabad, Pakistan#true#2152
+2328#27782#Syria#true#2153
+2329#27858#Negri Sembilan, Malaysia#true#2154
+2330#27864#Indonesia#true#2155
+2331#27868#Zamboanga City, Zamboanga del Sur, Philippines#true#2156
+2332#27904#Yangon, Burma#true#2157
+2333#27931#Krasnoyarsk, Russia#true#2158
+2334#27934#Leningrad, Russia#true#2159
+2335#27950#Chengdu, Sichuan Province, China#true#2160
+2336#28053#Lattakia, Syria#true#2161
+2337#28057#Raqqah#true#2162
+2338#28130#Ajdabia, Libya#true#2163
+2339#28189#N. Hwanghae, North Korea#true#2164
+2340#28196#Gumusova, Turkey#true#2165
+2341#28202#Istanbul, Turkey#true#2166
+2342#28338#Tinaquillo, Cojedes, Venezuela#true#2167
+2343#28395#El Mezraah, Beirut, Lebanon#true#2168
+2344#28400#Nayarit, Mexico#true#2169
+2345#28403#Sinaloa, Mexico#true#2170
+2346#28411#Nayarit, Mexico#true#2171
+2347#28418#Nayarit, Mexico#true#2172
+2348#28472#Ostany Village, Korosten District, Zhitomir region, Ukraine#true#2173
+2349#30986#Wuhan City, Hubei, China#true#2174
+2350#28824#Village of Leninskoe, Leninskiy Region, Autonomous Region of Crimea, Ukraine#true#2175
+2351#29631#Nahr-e Saraj District, Helmand Province, Afghanistan#true#2176
+2352#29630#Nahr-e Saraj District, Helmand Province, Afghanistan#true#2177
+2353#37956#Kashan, Esfahan Province, Iran#true#2178
+2354#29534#Yazd, Iran#true#2179
+2355#29600#Ardestan, Iran#true#2180
+2356#29690#Michoacan de Ocampo, Mexico#true#2181
+2357#29693#Jalisco, Mexico#true#2182
+2358#29711#Michoacan de Ocampo, Mexico#true#2183
+2359#29713#Jalisco, Mexico#true#2184
+2360#29868#Michoacan de Ocampo, Mexico#true#2185
+2361#29875#Jalisco, Mexico#true#2186
+2362#30290#Baghdad, Iraq#true#2187
+2363#30292#Beirut, Lebanon#true#2188
+2364#30297#Lebanon#true#2189
+2365#30300#Kuwait#true#2190
+2366#30335#Jazan, Saudi Arabia#true#2191
+2367#30339#Riyadh, Saudi Arabia#true#2192
+2368#30344#Riyadh, Saudi Arabia#true#2193
+2369#30348#Majmaa, Saudi Arabia#true#2194
+2370#30353#Afif, Saudi Arabia#true#2195
+2371#30357#Riyadh, Saudi Arabia#true#2196
+2372#30361#Riyadh, Saudi Arabia#true#2197
+2373#30366#Riyadh, Saudi Arabia#true#2198
+2374#30372#Makkah, Saudi Arabia#true#2199
+2375#30376#Arar, Saudi Arabia#true#2200
+2376#30380#Riyadh, Saudi Arabia#true#2201
+2377#30384#Riyadh, Saudi Arabia#true#2202
+2378#30385#Makkah, Saudi Arabia#false#2202
+2379#30392#Riyadh, Saudi Arabia#true#2203
+2380#30395#Riyadh, Saudi Arabia#true#2204
+2381#30399#Misrata, Libya#true#2205
+2382#30410#Tall 'Afar, Iraq#true#2206
+2383#30415#Klimovsk, Russia#true#2207
+2384#30432#Damascus, Syria#true#2208
+2385#30430#Russia#true#2209
+2386#30437#Ba'albakk, Lebanon#true#2210
+2387#30448#Esfahan, Iran#true#2211
+2388#30458#Managua, Nicaragua#true#2212
+2389#30450#Tehran, Iran#true#2213
+2390#30461#Tehran, Iran#true#2214
+2391#30473#Tehran, Iran#true#2215
+2392#30480#Distrito Nacional, Dominican Republic#true#2216
+2393#30483#Guaymate, Dominican Republic#true#2217
+2394#30486#San Cristobal, Dominican Republic#true#2218
+2395#30489#Hato Mayor, Dominican Republic#true#2219
+2396#30493#Santo Domingo, Dominican Republic#true#2220
+2397#30496#Santo Domingo, Dominican Republic#true#2221
+2398#30499#Santo Domingo, Dominican Republic#true#2222
+2399#30503#Santo Domingo, Dominican Republic#true#2223
+2400#30508#Higuey, Dominican Republic#true#2224
+2401#30539#Choix, Sinaloa, Mexico#true#2225
+2402#30545#Guasave, Sinaloa, Mexico#true#2226
+2403#30550#Badiraguato, Sinaloa, Mexico#true#2227
+2404#30569#Ajogo, South Sudan#true#2228
+2405#30573#Loyga, Russia#true#2229
+2406#30574#Kotlas, Russia#false#2229
+2407#30581#Nikolaevka, Amur Oblast, Russia#true#2230
+2408#30582#Dushanbe, Tajikistan#false#2230
+2409#30579#Malakal, South Sudan#true#2231
+2410#30599#Jalisco, Mexico#true#2232
+2411#30643#Meschovsk, Russia#true#2233
+2412#30678#Leningrad, Russia#true#2234
+2413#30684#China#true#2235
+2414#30713#Kashiramo-Kaziba, South Kivu, Congo, Democratic Republic of the#true#2236
+2415#30716#Rwanda#false#2236
+2416#30720#Kaziba, Congo, Democratic Republic of the#true#2237
+2417#31761#Shanghai, China#true#2238
+2418#30789#Tehran, Iran#true#2239
+2419#30796#Mashhad, Iran#true#2240
+2420#30829#Bagboya, Congo, Democratic Republic of the#true#2241
+2421#30973#Buenos Aires, Argentina#true#2242
+2422#30930#Buenos Aires, Argentina#true#2243
+2423#30957#Buenos Aires, Argentina#true#2244
+2424#30977#Argentina#true#2245
+2425#30965#Argentina#true#2246
+2426#30969#Buenos Aires, Argentina#true#2247
+2427#30961#Buenos Aires, Argentina#true#2248
+2428#30862#Caracas, Venezuela#true#2249
+2429#30909#Kaliningrad#true#2250
+2430#30914#Ivanovskaya Oblast, Russia#true#2251
+2431#30989#Donetsk, Ukraine#true#2252
+2432#30993#Crimea, Ukraine#true#2253
+2433#31032#Qomshaneh, Hamadan Province, Iran#true#2254
+2434#31040#Tehran Province, Central Tehran#true#2255
+2435#31043#Gilan, Iran#true#2256
+2436#31048#West Azerbaijan, Iran#true#2257
+2437#31061#Tehran, Iran#true#2258
+2438#31066#Naein, Iran#true#2259
+2439#31071#Yazd, Iran#true#2260
+2440#31081#Gha'emshahr, Iran#true#2261
+2441#31372#Managua, Nicaragua#true#2262
+2442#31091#Shemiran, Tehran, Iran#true#2263
+2443#31101#Mashhad, Iran#true#2264
+2444#31106#Tehran, Iran#true#2265
+2445#31111#Tehran, Iran#true#2266
+2446#31122#Sabzevar, Iran#true#2267
+2447#31127#Tehran, Iran#true#2268
+2448#31138#Abadan, Iran#true#2269
+2449#31143#Borazjam, Dashtestan, Bushehr, Iran#true#2270
+2450#31292#Polonnoye, Khmelnitskaya Oblast, Ukraine#true#2271
+2451#31301#Polonnoye, Khmelnitskaya Oblast, Ukraine#true#2272
+2452#31303#Moscow, Russia#true#2273
+2453#31313#Moscow, Russia#true#2274
+2454#31315#Ceadir-Lunga, Moldova#false#2274
+2455#31326#Moscow, Russia#true#2275
+2456#31333#Russia#true#2276
+2457#31335#Ukraine#true#2277
+2458#31337#Ukraine#true#2278
+2459#31341#Spain#true#2279
+2460#31348#Uzbekistan#true#2280
+2461#31351#Russia#true#2281
+2462#31352#Tajikistan#false#2281
+2463#31380#Al-Qa'im, Iraq#true#2282
+2464#31389#Iraq#true#2283
+2465#31398#Albu Kamal, Dayr az Zawr Province, Syria#true#2284
+2466#31485#Freetown, Sierra Leone#true#2285
+2467#31495#Chiah, Lebanon#true#2286
+2468#32752#Saharanpur, India#true#2287
+2469#31527#La Nueva Concepcion, Escuintla, Guatemala#true#2288
+2470#31531#Coatepeque, Quetzaltenango, Guatemala#true#2289
+2471#31536#Puerto Barrios, Izabal, Guatemala#true#2290
+2472#31541#Guatemala City, Guatemala, Guatemala#true#2291
+2473#31551#Tiquisate, Escuintla, Guatemala#true#2292
+2474#31712#Latakia, Syria#true#2293
+2475#31715#Homs, Syria#true#2294
+2476#31721#Lattakia, Syria#true#2295
+2477#31748#Managua, Nicaragua#true#2296
+2478#31751#Nicaragua#true#2297
+2479#31756#Carazo, Nicaragua#true#2298
+2480#31760#Esteli, Nicaragua#true#2299
+2481#31802#Mashhad, Iran#true#2300
+2482#31839#Golpayegan, Iran#true#2301
+2483#31820#Shemiran, Tehran, Iran#true#2302
+2484#31825#Beirut, Lebanon#true#2303
+2485#31835#Zibdin, Lebanon#true#2304
+2486#31836#Zubaydah al-Jonubi, Lebanon#false#2304
+2487#31837#Rayhan, Lebanon#false#2304
+2488#32032#Bogota, Colombia#true#2305
+2489#31884#Taza, Morocco#true#2306
+2490#32023#Barranquilla, Colombia#true#2307
+2491#32026#Barranquilla, Colombia#true#2308
+2492#31909#Baghdad, Iraq#true#2309
+2493#31912#Mosul, Iraq#true#2310
+2494#31919#Baghdad, Iraq#true#2311
+2495#31929#Elazig, Turkey#true#2312
+2496#31962#Tehran, Iran#true#2313
+2497#31971#Malayer, Iran#true#2314
+2498#32008#Jilin, China#true#2315
+2499#32088#Ramadi, Iraq#true#2316
+2500#32093#Iraq#true#2317
+2501#32139#Gharbeya, Egypt#true#2318
+2502#32144#Tabankort, Mali#true#2319
+2503#32151#Djebock, Mali#true#2320
+2504#32155#Ariaw, Tombouctou region, Mali#true#2321
+2505#32161#Tehran, Iran#true#2322
+2506#32217#Yazd, Iran#true#2323
+2507#39529#Dawei, Burma#true#2324
+2508#32240#Nablus, West Bank#true#2325
+2509#32242#Ramallah, West Bank#true#2326
+2510#32245#Philippines#true#2327
+2511#32476#Barranquilla, Colombia#true#2328
+2512#32260#Salfit, West Bank, Palestinian#true#2329
+2513#32262#Nablus, West Bank, Palestinian#false#2329
+2514#32313#Iran#true#2330
+2515#32317#Deir Kanoun El Nahr, Lebanon#true#2331
+2516#32322#Khorram Abad, Iran#true#2332
+2517#32347#Tehran, Iran#true#2333
+2518#32396#Patna, India#true#2334
+2519#32438#Jolo City, Philippines#true#2335
+2520#32404#Gurguray, Pakistan#true#2336
+2521#32436#Sudayrah, Sharqat, Salah ad-Din Province, Iraq#true#2337
+2522#32414#Gaza#true#2338
+2523#32442#Ein Bousewar, Lebanon#true#2339
+2524#32446#Kabrika, Lebanon#true#2340
+2525#32440#Maiduguri, Borno State, Nigeria#true#2341
+2526#32426#Damascus, Syria#true#2342
+2527#32432#Faisalabad, Punjab Province, Pakistan#true#2343
+2528#32607#Raas, Nicaragua#true#2344
+2529#32613#Heze, China#true#2345
+2530#33227#Madrid, Spain#true#2346
+2531#32700#Jinotepe, Nicaragua#true#2347
+2532#32749#Tin-Essako, Kidal region, Mali#true#2348
+2533#32756#Saharanpur, India#true#2349
+2534#32760#Saharanpur, India#true#2350
+2535#32766#Equatorial Guinea#true#2351
+2536#45096#Sudan#true#2352
+2537#34365#Beirut, Lebanon#true#2353
+2538#33069#Masshad, Iran#true#2354
+2539#33073#Poudeh, Isfahan, Iran#true#2355
+2540#33077#Iran#true#2356
+2541#33081#Tehran, Iran#true#2357
+2542#33085#Mashhad, Iran#true#2358
+2543#33089#Tehran, Iran#true#2359
+2544#33093#Dezful, Iran#true#2360
+2545#33105#Masjed-e Soleyman, Iran#true#2361
+2546#33111#Mamazand, Varamin, Tehran, Iran#true#2362
+2547#45135#Farsan, Iran#true#2363
+2548#33121#Tehran, Iran#true#2364
+2549#33141#Mali#true#2365
+2550#33254#Kunar Province, Afghanistan#true#2366
+2551#33258#Nangalam, Afghanistan#true#2367
+2552#33288#China#true#2368
+2553#33478#Baghdad, Iraq#true#2369
+2554#33306#Jahrom, Iran#true#2370
+2555#33375#Baghdad, Iraq#true#2371
+2556#33551#Managua, Nicaragua#true#2372
+2557#33372#Fallujah, Iraq#true#2373
+2558#33346#Kasese District, Rwenzururu Sub-Region, Western Uganda#true#2374
+2559#33351#Masaka District, Central Region, Uganda#true#2375
+2560#33355#Kampala District, Central Region, Uganda#true#2376
+2561#33360#Kampala District, Central Region, Uganda#true#2377
+2562#33364#Kampala District, Central Region, Uganda#true#2378
+2563#33368#Iganga District, Busoga Region, Uganda#true#2379
+2564#33556#Ayod, South Sudan#true#2380
+2565#33380#Chan Toung Village, Sralap Commune, Tbaung Khmum District, Cambodia#true#2381
+2566#33487#Kandal Province, Cambodia#true#2382
+2567#33481#Karachi, Pakistan#true#2383
+2568#33386#Ruzomberok, Slovakia#true#2384
+2569#33425#Jekabpils, Latvia#true#2385
+2570#33406#Bushehr Province, Iran#true#2386
+2571#33431#Prijepolje, Montenegro#true#2387
+2572#33483#Kampong Cham, Cambodia#true#2388
+2573#33485#Cambodia#true#2389
+2574#33568#Sierra Leone#true#2390
+2575#33878#Voronezh, Russia#true#2391
+2576#33642#Kuerbona, South Sudan#true#2392
+2577#33646#Bugobango Village, Mpigi District, Uganda#true#2393
+2578#33649#Bushiswabula Village, Mbale District, Uganda#true#2394
+2579#35719#Libya#true#2395
+2580#35704#Libya#true#2396
+2581#33846#Karbala, Iraq#true#2397
+2582#33868#Nove Selo, Ukraine#true#2398
+2583#33872#Krasnoyarsk, Russia#true#2399
+2584#33874#Sevastopol, Ukraine#true#2400
+2585#33877#Krasnodar, Russia#true#2401
+2586#33889#Uglich, Russia#true#2402
+2587#42831#Paraguay#true#2403
+2588#42821#Foz de Iguacu, Brazil#true#2404
+2589#34207#Vilvoorde, Belgium#true#2405
+2590#34237#Leon, Nicaragua#true#2406
+2591#34240#Matagalpa, Nicaragua#true#2407
+2592#34247#Nicaragua#true#2408
+2593#34279#Ladan, Isfahan, Iran#true#2409
+2594#34284#Isfahan, Iran#true#2410
+2595#34290#Jahrom, Iran#true#2411
+2596#34296#Tehran, Iran#true#2412
+2597#34302#Isfahan, Iran#true#2413
+2598#34314#Bluefields, Nicaragua#true#2414
+2599#34317#Managua, Nicaragua#true#2415
+2600#34356#Iraq#true#2416
+2601#36597#Khiyam, Lebanon#true#2417
+2602#42835#Pdte. Stroessner, Paraguay#true#2418
+2603#34451#Latakia, Syria#true#2419
+2604#34615#Khabarovsk Region, USSR#true#2420
+2605#34620#Russia#true#2421
+2606#34626#Managua, Nicaragua#true#2422
+2607#34657#Mosul, Iraq#true#2423
+2608#34658#Tall 'Afar, Iraq#false#2423
+2609#35355#Iran#true#2424
+2610#35431#Nicaragua#true#2425
+2611#35453#Isfahan, Iran#true#2426
+2612#35456#Kamaraj, Fars Province, Iran#true#2427
+2613#35460#Azna, Iran#true#2428
+2614#35463#Tehran, Iran#true#2429
+2615#35466#Abadan, Iran#true#2430
+2616#35469#Kabudar Ahang, Iran#true#2431
+2617#35472#Safi Abad, Dezful, Khuzestan, Iran#true#2432
+2618#35476#Shirvan, Iran#true#2433
+2619#35477#North Khorasan, Iran#false#2433
+2620#35482#Para Qeshlaq, Parsabad-Moghan, Iran#true#2434
+2621#35496#Sinaloa, Mexico#true#2435
+2622#35499#Sinaloa, Mexico#true#2436
+2623#35502#Guanajuato, Mexico#true#2437
+2624#35572#Ghom, Iran#true#2438
+2625#35580#Babol, Iran#true#2439
+2626#35781#Bocaranga, Ouham-Pende prefecture, Central African Republic#true#2440
+2627#35623#Damascus, Syria#true#2441
+2628#35628#Venezuela#true#2442
+2629#35632#Venezuela#true#2443
+2630#35638#Damascus, Syria#true#2444
+2631#35775#Damascus, Syria#true#2445
+2632#35673#Damascus, Syria#true#2446
+2633#35680#Acton, United Kingdom#true#2447
+2634#35678#Damascus, Syria#true#2448
+2635#35689#Damascus, Syria#true#2449
+2636#35697#Damascus, Syria#true#2450
+2637#35705#Egypt#true#2451
+2638#35732#Damascus, Syria#true#2452
+2639#35737#Damascus, Syria#true#2453
+2640#35798#Shemiran, Iran#true#2454
+2641#35804#Sary, Iran#true#2455
+2642#35806#Shiraz, Iran#true#2456
+2643#35830#Germany#true#2457
+2644#35844#Russia#true#2458
+2645#35890#Wuwei, Gansu, China#true#2459
+2646#35891#Milan, Italy#true#2460
+2647#35892#Caracas, Venezuela#true#2461
+2648#35929#Lianshui, Jiangsu, China#true#2462
+2649#35933#Pingyu, Henan, China#true#2463
+2650#35936#Puerto La Cruz, Estado Anzoategui, Venezuela#true#2464
+2651#35985#Hong Kong#true#2465
+2652#35954#Hong Kong#true#2466
+2653#35959#Hong Kong#true#2467
+2654#35967#Hong Kong#true#2468
+2655#35979#Hong Kong#true#2469
+2656#36011#Taizhou, China#true#2470
+2657#36007#Hong Kong#true#2471
+2658#36015#Shantou, China#true#2472
+2659#36021#Tianjin, China#true#2473
+2660#36023#Dangtu, China#true#2474
+2661#36078#Damascus, Syria#true#2475
+2662#36072#Qardaha, Syria#true#2476
+2663#36075#Qardaha, Syria#true#2477
+2664#36170#Shurugwi, Zimbabwe#true#2478
+2665#36174#Caracas, Venezuela#true#2479
+2666#36178#Venezuela#true#2480
+2667#36186#Puerto Ayacucho, Venezuela#true#2481
+2668#36650#Dnipropetrovsk, Ukraine#true#2482
+2669#36235#Mashad, Iran#true#2483
+2670#36210#Iran#true#2484
+2671#36216#Tehran, Iran#true#2485
+2672#36219#Esfahan, Esfahan Province, Iran#true#2486
+2673#36253#Suweida, Syria#true#2487
+2674#36254#Damascus, Syria#false#2487
+2675#36258#Damascus, Syria#true#2488
+2676#36265#Beit Yashout, Syria#true#2489
+2677#36269#Jeblah, Syria#true#2490
+2678#39079#Geneva, Switzerland#true#2491
+2679#36293#Damascus, Syria#true#2492
+2680#36361#Xuhui District, Shanghai, China#true#2493
+2681#36365#Wenling County, Taizhou District, Zhejiang Province, China#true#2494
+2682#36370#Darab, Iran#true#2495
+2683#36495#Vladikavkaz, Russian Federation#true#2496
+2684#36513#Vetkovski District, Homyel Oblast, Belarus#true#2497
+2685#36518#Malinawka, Mahilyou Oblast, Belarus#true#2498
+2686#36538#Haradzilava, Minsk Oblast, Belarus#true#2499
+2687#36522#Caicara del Orinoco, Bolivar, Venezuela#true#2500
+2688#36525#San Felipe, Yaracuy, Venezuela#true#2501
+2689#36529#Aragua, Venezuela#true#2502
+2690#36532#Anaco, Anzoategui, Venezuela#true#2503
+2691#36535#Guanipa, Anzoategui, Venezuela#true#2504
+2692#36542#Oak Park, Illinois, United States#true#2505
+2693#36548#Slonim, Belarus#true#2506
+2694#36546#Matagalpa, Nicaragua#true#2507
+2695#36554#Kolomyya, Ukraine#true#2508
+2696#36595#Zgharta, Lebanon#true#2509
+2697#36625#Saint Petersburg, Russia#true#2510
+2698#36653#Iraq#true#2511
+2699#36679#Tartus, Syria#true#2512
+2700#36689#Rabat, Morocco#true#2513
+2701#36694#Russia#true#2514
+2702#42920#Kabo, Ouham prefecture, Central African Republic#true#2515
+2703#42921#Bousso, Chad#false#2515
+2704#36733#Isfahan, Iran#true#2516
+2705#36741#Kermanshah, Iran#true#2517
+2706#36745#Tehran, Iran#true#2518
+2707#36773#Khoy, Iran#true#2519
+2708#36776#Ahar, Iran#true#2520
+2709#36779#Tehran, Iran#true#2521
+2710#36782#Khoy, Iran#true#2522
+2711#36785#Nur, Iran#true#2523
+2712#36788#Azarshahr, Iran#true#2524
+2713#36792#Tonekabon, Iran#true#2525
+2714#36794#Tehran, Iran#true#2526
+2715#36797#Mashhad, Iran#true#2527
+2716#36800#Rasht, Iran#true#2528
+2717#36803#Khoy, Iran#true#2529
+2718#36806#Qorveh, Iran#true#2530
+2719#36809#Khoy, Iran#true#2531
+2720#36813#Mashhad, Iran#true#2532
+2721#36816#Mashhad, Iran#true#2533
+2722#36819#Yazd, Iran#true#2534
+2723#36820#Salmas, Iran#true#2535
+2724#36824#Semnan, Iran#true#2536
+2725#36828#Yazd, Iran#true#2537
+2726#36831#Khoy, Iran#true#2538
+2727#36834#Azna, Iran#true#2539
+2728#36836#Tehran, Iran#true#2540
+2729#36840#Tehran, Iran#true#2541
+2730#36843#Tehran, Iran#true#2542
+2731#36846#Ahar, Iran#true#2543
+2732#36849#Ahar, Iran#true#2544
+2733#36850#Tabriz, Iran#true#2545
+2734#36853#Kashan, Iran#true#2546
+2735#36857#Razan, Iran#true#2547
+2736#36861#Karaj, Iran#true#2548
+2737#36862#Shemiran, Iran#true#2549
+2738#36867#Kahnuj, Iran#true#2550
+2739#36870#Delijan, Iran#true#2551
+2740#36872#Marand, Iran#true#2552
+2741#36875#Amol, Iran#true#2553
+2742#36879#Tehran, Iran#true#2554
+2743#36882#Tehran, Iran#true#2555
+2744#36884#Aleshtar, Iran#true#2556
+2745#36887#Tehran, Iran#true#2557
+2746#36890#Tabriz, Iran#true#2558
+2747#36894#Tabriz, Iran#true#2559
+2748#36897#Ahar, Iran#true#2560
+2749#36899#Tehran, Iran#true#2561
+2750#36906#Manchester, England#true#2562
+2751#36909#Tehran, Iran#true#2563
+2752#36926#Safita, Tartous, Syria#true#2564
+2753#36914#Iran#true#2565
+2754#36945#Leningrad, Russia#true#2566
+2755#37075#Aran o Bigdol, Iran#true#2567
+2756#37079#Tehran, Iran#true#2568
+2757#37083#Damascus, Syria#true#2569
+2758#37084#Khanasser, Aleppo, Syria#false#2569
+2759#37090#Karamzino Village, Russia#true#2570
+2760#37093#Primorsky Krai, Russia#true#2571
+2761#37098#St. Petersburg, Russia#true#2572
+2762#37102#St. Petersburg, Russia#true#2573
+2763#37127#Tehran, Iran#true#2574
+2764#37133#Bojnord, Iran#true#2575
+2765#37209#Estahaban, Iran#true#2576
+2766#37170#Maragheh, Iran#true#2577
+2767#37197#Latakia, Syria#true#2578
+2768#37201#Damascus, Syria#true#2579
+2769#37205#Qardaha, Latakia, Syria#true#2580
+2770#37274#Cuba#true#2581
+2771#38890#Kiev, Ukraine#true#2582
+2772#37354#Junaynat Ruslan, Darkoush, Drekish, Tartous, Syria#true#2583
+2773#37358#Manbij, Aleppo, Syria#true#2584
+2774#37362#Damascus, Syria#true#2585
+2775#37421#Hangzhou, China#true#2586
+2776#37433#Birmingham, United Kingdom#true#2587
+2777#37513#Douma, Syria#true#2588
+2778#39479#Nowshera, Pakistan#true#2589
+2779#39465#Afghanistan#true#2590
+2780#37523#Mardan, Pakistan#true#2591
+2781#39469#Gujrat, Pakistan#true#2592
+2782#37537#Badiraguato, Sinaloa, Mexico#true#2593
+2783#37577#Raqqa, Syria#true#2594
+2784#37773#Tehran, Iran#true#2595
+2785#37687#Yunyan District, Guiyang, Guizhou Province, China#true#2596
+2786#37774#Surat, India#true#2597
+2787#37718#Khirbet al-Hamam, Homs, Syria#true#2598
+2788#37754#Iraq#true#2599
+2789#37759#Batroun, Northern Governorate, Lebanon#true#2600
+2790#41961#Guatemala#true#2601
+2791#37836#Chigorodo, Antioquia, Colombia#true#2602
+2792#37840#Antioquia, Colombia#true#2603
+2793#37916#Choco, Colombia#true#2604
+2794#37838#Quibdo, Choco, Colombia#true#2605
+2795#37798#Hamedan, Iran#true#2606
+2796#37806#Taitung, Taiwan#true#2607
+2797#37810#Mashhad, Iran#true#2608
+2798#37817#Taiwan#true#2609
+2799#37854#Hong Kong, China#true#2610
+2800#37896#Robertsport, Grand Cape Mount County, Liberia#true#2611
+2801#37901#Hong Kong, China#true#2612
+2802#37907#Changsha City, Hunan Province, China#true#2613
+2803#37911#Qianshan City, Anhui Province, China#true#2614
+2804#37937#Qom County, Iran#true#2615
+2805#37944#Amol, Mazandaran Province, Iran#true#2616
+2806#37951#Mianeh, East Azerbaijan Province, Iran#true#2617
+2807#37959#Shahroud, Semnan Province, Iran#true#2618
+2808#37962#City of Ray, Tehran Province, Iran#true#2619
+2809#37971#Dodangeh, Mazandaran Province, Iran#true#2620
+2810#37976#Shiraz, Iran#true#2621
+2811#37983#Central Tehran, Tehran Province, Iran#true#2622
+2812#38082#Lamard, Fars Province, Iran#true#2623
+2813#38073#Argentina#true#2624
+2814#38078#Venezuela#true#2625
+2815#38086#Mogadishu, Somalia#true#2626
+2816#38089#Kenya#true#2627
+2817#38100#Damascus, Syria#true#2628
+2818#38122#Beijing, China#true#2629
+2819#38126#Shanghai, China#true#2630
+2820#38130#Yuzhou City, Henan Province, China#true#2631
+2821#38134#Ningbo, Zhejiang Province, China#true#2632
+2822#38138#Mengjin County, Henan Province, China#true#2633
+2823#38142#Yengisar County, Xinjiang Uyghur Autonomous Region, China#true#2634
+2824#38146#Gongan County, Hubei Province, China#true#2635
+2825#38150#Zhenjiang City, Jiangsu Province, China#true#2636
+2826#38151#Shanghai, China#false#2636
+2827#38155#Benxi, Liaoning Province, China#true#2637
+2828#38159#Dengqen County, Changdu, Tibet Autonomous Region, China#true#2638
+2829#38163#Shengzhou City, Zhejiang Province, China#true#2639
+2830#38167#Jiaxiang County, Shandong Province, China#true#2640
+2831#38171#Shanghai, China#true#2641
+2832#38175#Linfen, Shanxi Province, China#true#2642
+2833#38178#Kapyl, Belarus#true#2643
+2834#38183#Tripoli, Libya#true#2644
+2835#38232#Rey, Tehran, Iran#true#2645
+2836#38261#Minsk, Belarus#true#2646
+2837#38312#Karachi, Pakistan#true#2647
+2838#38446#Port-au-Prince, Haiti#true#2648
+2839#38438#Anse-A-Veau, Haiti#true#2649
+2840#38375#Chontales, Nicaragua#true#2650
+2841#38385#Managua, Nicaragua#true#2651
+2842#38389#Rivas, Nicaragua#true#2652
+2843#38406#Stavropol Territory, Russia#true#2653
+2844#38412#Gudermes, Chechen Republic, Russia#true#2654
+2845#38415#Agartuu, Kyrgyzstan#true#2655
+2846#38421#Shalinsky District, Chechen Republic, Russia#true#2656
+2847#38429#Aleppo, Syria#true#2657
+2848#38432#Moscow Region, Russia#true#2658
+2849#38436#Punjab, India#true#2659
+2850#38440#El Gouazine, Dahmani, Governorate of Le Kef, Tunisia#true#2660
+2851#38452#Razih District, Sana'a, Yemen#true#2661
+2852#38458#Yemen#true#2662
+2853#38496#Semnan, Iran#true#2663
+2854#38562#Turkey#true#2664
+2855#38564#Turkey#true#2665
+2856#38566#Turkey#true#2666
+2857#38641#Junayrat Ruslan, Tartous, Syria#true#2667
+2858#38643#Homs, Syria#true#2668
+2859#38632#London, United Kingdom#true#2669
+2860#38635#London, United Kingdom#true#2670
+2861#38738#Tehran, Iran#true#2671
+2862#38842#Mashhad, Iran#true#2672
+2863#38959#Ukraine#true#2673
+2864#38854#Voronezh, Russian Federation#true#2674
+2865#38875#Kyiv, Ukraine#true#2675
+2866#38885#Russia#true#2676
+2867#39101#Dezful, Iran#true#2677
+2868#38920#Marrakech, Morocco#true#2678
+2869#38925#Jeddah, Saudi Arabia#true#2679
+2870#38929#Kirkuk, Iraq#true#2680
+2871#38932#Gadir Karam, Tuz Khurmatu, Sala Ad-Din Province, Iraq#true#2681
+2872#38937#Tawilh, Iraq#true#2682
+2873#38942#Russia#true#2683
+2874#39084#Sharkia, Egypt#true#2684
+2875#39085#Idlib, Syria#false#2684
+2876#39107#Hong Kong#true#2685
+2877#39111#Hong Kong#true#2686
+2878#39115#Hong Kong#true#2687
+2879#39117#Shijiazhuang City, Hebei Province, China#true#2688
+2880#39122#Lulong County, Hebei Province, China#true#2689
+2881#39125#Hong Kong#true#2690
+2882#39155#Tabriz, Iran#true#2691
+2883#39205#Guasave, Sinaloa, Mexico#true#2692
+2884#39208#Ziracuaretiro, Michoacan, Mexico#true#2693
+2885#39347#Guadalajara, Jalisco, Mexico#true#2694
+2886#39499#Nizhny Tagil, Russia#true#2695
+2887#39505#Sukhumi, Georgia#true#2696
+2888#39510#Stavropol, Russia#true#2697
+2889#39517#Krasnoyarsk, Russia#true#2698
+2890#39524#Perm, Russia#true#2699
+2891#39533#Pyin Oo Lwin, Burma#true#2700
+2892#39539#Chauk, Burma#true#2701
+2893#39563#Cali, Valle, Colombia#true#2702
+2894#39566#Guadalajara, Jalisco, Mexico#true#2703
+2895#39573#Michoacan de Ocampo, Mexico#true#2704
+2896#39581#Tabok, Saudi Arabia#true#2705
+2897#39995#Russia#true#2706
+2898#39621#Razih District, Saada Governorate, Yemen#true#2707
+2899#39627#Izla Dhaen, Wahha District, Hajjar Governorate, Yemen#true#2708
+2900#39632#Sanaa al-Hamzat, Yemen#true#2709
+2901#39663#Arkhangelsk, Russia#true#2710
+2902#39669#Tatarsk, Novosibirsk Region, Russia#true#2711
+2903#39724#Kyiv, Ukraine#true#2712
+2904#39997#Russia#true#2713
+2905#39996#Russia#true#2714
+2906#39998#Russia#true#2715
+2907#40052#Pwani Region, Tanzania#true#2716
+2908#40001#Linyi City, Shandong Province, China#true#2717
+2909#40004#Yilong, Sichuan, China#true#2718
+2910#40037#Pa Thein Town, Burma#true#2719
+2911#40043#Chinandega, Nicaragua#true#2720
+2912#40047#Managua, Nicaragua#true#2721
+2913#40050#Nicaragua#true#2722
+2914#40064#Ostapovka, Mirgorod District, Poltava Oblast, Ukraine#true#2723
+2915#40069#Omsk, Russia#true#2724
+2916#40073#St. Petersburg, Russia#true#2725
+2917#40230#Minsk, Belarus#true#2726
+2918#42442#Minsk, Belarus#true#2727
+2919#40286#Guatemala#true#2728
+2920#40292#Guatemala#true#2729
+2921#40298#Tayir Harfa, Lebanon#true#2730
+2922#40325#Kawkareik, Burma#true#2731
+2923#40321#Haruf, Lebanon#true#2732
+2924#40341#Kani, Burma#true#2733
+2925#40361#Al-Kiyam, Lebanon#true#2734
+2926#40516#Kawkareik, Burma#true#2735
+2927#40381#Minsk, Belarus#true#2736
+2928#40421#Glushkovichi, Lelchitsy District, Gomel Oblast, Belarus#true#2737
+2929#40461#Leon, Nicaragua#true#2738
+2930#40497#Podilsk, Odessa Oblast, Ukraine#true#2739
+2931#40507#Novaya Belitsa, Vitebsk Oblast, Belarus#true#2740
+2932#40517#Lyuban, Belarus#true#2741
+2933#40524#Altdobern, Brandenburg, Germany#true#2742
+2934#40528#Rangoon, Burma#true#2743
+2935#40532#Rangoon, Burma#true#2744
+2936#40537#Myinmu, Burma#true#2745
+2937#40542#Rangoon, Burma#true#2746
+2938#40593#Mandalay, Burma#true#2747
+2939#40605#Zhlobin, Belarus#true#2748
+2940#40613#Minsk, Belarus#true#2749
+2941#40617#Polotsk, Vitebsk Oblast, Belarus#true#2750
+2942#40622#al-Habit, Syria#true#2751
+2943#40626#Albu Dur, Tikrit, Salah-ad Din Province, Iraq#true#2752
+2944#40701#Muhatta Directorate, Hajjah Province, Yemen#true#2753
+2945#40775#Velingrad, Bulgaria#true#2754
+2946#40845#Sofia, Bulgaria#true#2755
+2947#41417#Durg, India#true#2756
+2948#41435#Yemen#true#2757
+2949#41470#Al Bukamal, Syria#true#2758
+2950#41661#Loikaw, Burma#true#2759
+2951#41667#Ye, Burma#true#2760
+2952#41673#Sittwe, Burma#true#2761
+2953#42340#Minsk, Belarus#true#2762
+2954#41711#Privalka, Grodno Oblast, Belarus#true#2763
+2955#41767#Kyee Nee Village, Chauk Township, Burma#true#2764
+2956#41773#Kyaukse, Burma#true#2765
+2957#41774#Hkamti, Burma#false#2765
+2958#41782#Mogok, Burma#true#2766
+2959#41761#Nezahualcoyotl, Mexico, Mexico#true#2767
+2960#41763#Ixtlahuacan de los Membrillos, Jalisco, Mexico#true#2768
+2961#41801#Monterrey, Nuevo Leon, Mexico#true#2769
+2962#41806#Ayn Al-Tineh Village, Latakia, Syria#true#2770
+2963#41811#Jableh, Beit Yashout, Syria#true#2771
+2964#41816#Jablah Latakia, Syria#true#2772
+2965#41820#Jableh, Syria#true#2773
+2966#41922#Niger#true#2774
+2967#41982#Santa Ana Huista, Huehuetenango, Guatemala#true#2775
+2968#41985#Santa Ana Huista, Huehuetenango, Guatemala#true#2776
+2969#42682#Santa Ana Huista, Huehuetenango, Guatemala#true#2777
+2970#42023#Luoyuan, Fuzhou, Fujian Province, China#true#2778
+2971#42027#Jingxing, Hebei Province, China#true#2779
+2972#42032#Jiangsu Province, China#true#2780
+2973#42036#Huai'an, Jiangsu Province, China#true#2781
+2974#42041#Chaling County, Zhuzhou, Hunan Province, China#true#2782
+2975#42045#Zhanjiang, Guangdong Province, China#true#2783
+2976#42057#Shengzhou, Zhejiang Province, China#true#2784
+2977#42083#Al-Shaqra, Deir ez-Zor, Syria#true#2785
+2978#42090#Los Mochis, Sinaloa, Mexico#true#2786
+2979#42095#Nogales, Sonora, Mexico#true#2787
+2980#42099#Naco, Sonora, Mexico#true#2788
+2981#42104#Guaymas, Sonora, Mexico#true#2789
+2982#42108#Sinaloa, Mexico#true#2790
+2983#42110#Hermosillo, Sonora, Mexico#true#2791
+2984#42114#Nogales, Sonora, Mexico#true#2792
+2985#42118#Los Mochis, Sinaloa, Mexico#true#2793
+2986#42221#Minsk, Belarus#true#2794
+2987#42226#Ukraine#true#2795
+2988#42230#Mahilyow, Belarus#true#2796
+2989#42282#Havana, Cuba#true#2797
+2990#42246#Homel Oblast, Belarus#true#2798
+2991#42420#Havana, Cuba#true#2799
+2992#42422#Holguin, Cuba#true#2800
+2993#42286#Puerto Vallarta, Jalisco, Mexico#true#2801
+2994#42291#Tbilisi, Georgia#true#2802
+2995#42347#Mahilyow, Belarus#true#2803
+2996#42352#Svetlogorsk, Gomel Oblast, Belarus#true#2804
+2997#42357#Ochamchire, Georgia#true#2805
+2998#42363#Mahilyow, Belarus#true#2806
+2999#42367#Georgia#true#2807
+3000#42371#Rechitsa, Gomel Oblast, Belarus#true#2808
+3001#42394#Sochi, Russia#true#2809
+3002#42411#Minsk, Belarus#true#2810
+3003#42433#Minsk, Belarus#true#2811
+3004#42439#Minsk, Belarus#true#2812
+3005#42461#Soligorsk, Minsk Oblast, Belarus#true#2813
+3006#42465#Popovka village, Senno/Sjanno, Vitebsk Region, Belarus#true#2814
+3007#42473#Moscow, Russia#true#2815
+3008#42840#Rangoon, Burma#true#2816
+3009#42489#Esteli, Nicaragua#true#2817
+3010#42560#Palma District, Cabo Delgado Province, Mozambique#true#2818
+3011#42505#Kidal, Mali#true#2819
+3012#42510#Mauritania#true#2820
+3013#42514#Hawlwadag District, Mogadishu, Somalia#true#2821
+3014#42521#Somalia#true#2822
+3015#42601#Serdobsk, Penza Oblast, Russia#true#2823
+3016#42625#Muscat, Oman#true#2824
+3017#42634#Ts'elot, Asmara, Eritrea#true#2825
+3018#42701#Bartolome Maso, Granma, Cuba#true#2826
+3019#42763#Santa Marta, Colombia#true#2827
+3020#42766#Salto, Uruguay#true#2828
+3021#42770#Santa Marta, Colombia#true#2829
+3022#42773#Barrancas, La Guajira, Colombia#true#2830
+3023#42787#Baracoa, Cuba#true#2831
+3024#42794#Barajagua, Las Villas, Cuba#true#2832
+3025#42795#Barajagua, Cienfuegos, Cuba#false#2832
+3026#42837#Guatemala#true#2833
+3027#42931#Tehran, Iran#true#2834
+3028#43017#Kulakovka village, Belynichskiy district, Mahilyow oblast, Belarus#true#2835
+3029#43024#Rakovtsy village, Smorgonskyy district, Grodno oblast, Belarus#true#2836
+3030#43026#Kazanka, Nikolaev Oblast, Ukraine#true#2837
+3031#43031#Smolensk, Russia#true#2838
+3032#43036#Uvarovichi, Buda-Koshelevskyy district, Homyel oblast, Belarus#true#2839
+3033#43040#Krasnoarmeysk, Saratov Oblast, Russia#true#2840
+3034#43042#Zabolotye village, Smolevichskiy district, Minsk oblast, Belarus#true#2841
+3035#43386#Minsk, Belarus#true#2842
+3036#43128#Qatar#true#2843
+3037#43143#Tehran, Iran#true#2844
+3038#43260#Tehran, Iran#true#2845
+3039#43170#Guangdong, China#true#2846
+3040#43184#Mudanjiang, China#true#2847
+3041#43203#Gerger, Turkey#true#2848
+3042#43206#Gaziosmanpasha, Turkey#true#2849
+3043#43210#Gerger, Adiyaman, Turkey#true#2850
+3044#43213#Egypt#true#2851
+3045#43224#Hazin, Lebanon#true#2852
+3046#43270#Kuwait City, Kuwait#true#2853
+3047#44246#Nicaragua#true#2854
+3048#44770#Iran#true#2855
+3049#44449#Nabi Ayla, Beqaa, Lebanon#true#2856
+3050#44285#Ramhala, Lebanon#true#2857
+3051#44291#Beirut, Lebanon#true#2858
+3052#44310#Minsk, Belarus#true#2859
+3053#44333#Senafe, Eritrea#true#2860
+3054#44338#Eritrea#true#2861
+3055#44393#Khansar, Iran#true#2862
+3056#44410#Nicaragua#true#2863
+3057#44416#Esteli, Nicaragua#true#2864
+3058#44419#Jinotega, Nicaragua#true#2865
+3059#44426#Jinotega, Nicaragua#true#2866
+3060#44438#Managua, Nicaragua#true#2867
+3061#45352#Gomaplay, Liberia#true#2868
+3062#44708#Matagalpa, Nicaragua#true#2869
+3063#44766#Russia#true#2870
+3064#44759#Ukraine#true#2871
+3065#45357#Dolane Village, Zvecan, Kosovo#true#2872
+3066#45397#Village Babudovici, Zubin Potok, Kosovo#true#2873
+3067#45396#Village Babudovici, Zubin Potok, Kosovo#true#2874
+3068#45404#Leposavic, Kosovo#true#2875
+3069#45403#Zvecan, Kosovo#true#2876
+3070#44849#Svay Rieng, Cambodia#true#2877
+3071#44853#Koh Kong, Cambodia#true#2878
+3072#45360#Djakovica, Kosovo#true#2879
+3073#45363#Dolane Village, Zvecan, Kosovo#true#2880
+3074#45312#Mitrovica, Kosovo#true#2881
+3075#44908#Guadalajara, Jalisco, Mexico#true#2882
+3076#44935#Afghanistan#true#2883
+3077#44941#Afghanistan#true#2884
+3078#44945#Afghanistan#true#2885
+3079#45274#Mbarara, Uganda#true#2886
+3080#44959#San Salvador, El Salvador#true#2887
+3081#44961#Gopalganj, Bangladesh#true#2888
+3082#44965#Sunamganj, Bangladesh#true#2889
+3083#44969#Bogra, Bangladesh#true#2890
+3084#44973#Sunamganj, Bangladesh#true#2891
+3085#44983#Baba Zangi Village, Fabri Qand City, Baghlan-e Jadid District, Baghlan Province, Afghanistan#true#2892
+3086#44989#San Salvador, El Salvador#true#2893
+3087#44993#San Salvador, El Salvador#true#2894
+3088#45318#Natalin, Burma#true#2895
+3089#45037#Remedios, Antioquia, Colombia#true#2896
+3090#45043#Penon, Cundinamarca Department, Colombia#true#2897
+3091#45048#Albania, Caqueta Department, Colombia#true#2898
+3092#45323#Hpapun, Burma#true#2899
+3093#45333#Mogaung, Burma#true#2900
+3094#45095#Shanghai, China#true#2901
+3095#45350#Luanda, Angola#true#2902
+3096#45336#Luhansk, Ukraine#true#2903
+3097#45128#Barisal, Bangladesh#true#2904
+3098#45130#Dinajpur, Bangladesh#true#2905
+3099#45253#Yining City, Xinjiang, China#true#2906
+3100#45137#Sari, Mazandaran Province, Iran#true#2907
+3101#45141#Damghan, Semnan Province, Iran#true#2908
+3102#45194#Urmia, Iran#true#2909
+3103#45220#Dahr Al-Maghar, al-Salamiyeh, Hamah, Syria#true#2910
+3104#45224#Hilat Ara, Jablah, Syria#true#2911
+3105#45227#Talkalakh, Homs, Syria#true#2912
+3106#45235#Masaya, Nicaragua#true#2913
+3107#45239#Managua, Nicaragua#true#2914
+3108#45243#Murra, Nueva Segovia, Nicaragua#true#2915
+3109#45257#Aksu, Xinjiang, China#true#2916
+3110#45273#Esteli, Nicaragua#true#2917
+3111#45279#Managua, Nicaragua#true#2918
+3112#45300#Sambinzanga, Angola#true#2919
+3113#45301#Luanda, Angola#false#2919
+3114#45306#Luanda, Angola#true#2920
+3115#45433#Iran#true#2921
+3116#45430#Iran#true#2922
+3117#45393#Ostrace, Leposavic Municipality, Kosovo#true#2923
+3118#45428#Mitrovica, Kosovo#true#2924
+3119#45400#Nis, Republic of Serbia#true#2925
+3120#45450#San Juan de Limay, Esteli, Nicaragua#true#2926
+3121#45671#Chacras, Arenillas, El Oro, Ecuador#true#2927
+3122#45609#Egypt#true#2928
+3123#46008#Kyiv, Ukraine#true#2929
+3124#45815#Lviv, Ukraine#true#2930
+3125#45650#Moscow, Russia#true#2931
+3126#45653#Ulanbataar, Mongolia#true#2932
+3127#45660#Avdeevka, Ukraine#true#2933
+3128#46148#Sinaloa, Mexico#true#2934
+3129#45774#Ostraya Mogila Village, Stravishchesnkiy Rayon, Kiyevskaya Oblast, Ukraine#true#2935
+3130#45778#Ukraine#true#2936
+3131#45782#Ukraine#true#2937
+3132#45876#Guatemala#true#2938
+3133#45881#Guatemala#true#2939
+3134#45989#St. Petersburg, Russia#true#2940
+3135#45993#Saint Petersburg, Russia#true#2941
+3136#45997#Leningrad region, Russia#true#2942
+3137#46012#Nizhny Novgorod, Russia#true#2943
+3138#46016#Moscow, Russia#true#2944
+3139#46771#Moscow, Russia#true#2945
+3140#46133#Burma#true#2946
+3141#46135#Burma#true#2947
+3142#46081#Moscow, Russia#true#2948
+3143#46089#Nalchik, Russia#true#2949
+3144#46094#Novosibirsk Oblast, Russia#true#2950
+3145#46098#Moscow, Russia#true#2951
+3146#46184#Novogrudok, Grodno Region, Belarus#true#2952
+3147#46225#Salihorsk, Minsk Oblast, Belarus#true#2953
+3148#46233#Russia#true#2954
+3149#46252#Beryozovka, Lida District, Grodno Region, Belarus#true#2955
+3150#46256#Minsk, Belarus#true#2956
+3151#46261#Ruzhany, Brest Oblast, Belarus#true#2957
+3152#46270#Panfilovo, Kazakhstan#true#2958
+3153#46272#Volgograd, Russia#true#2959
+3154#46469#Conakry, Guinea#true#2960
+3155#46474#Jwaya, Lebanon#true#2961
+3156#46483#Elliniko, Greece#true#2962
+3157#46508#Kazan, Russia#true#2963
+3158#46525#Cabra, Ireland#true#2964
+3159#46526#Perivale, Middlesex, United Kingdom#false#2964
+3160#46527#London, United Kingdom#false#2964
+3161#46528#Dublin, Ireland#false#2964
+3162#46562#Dublin, Ireland#true#2965
+3163#46540#Ta'izz Al-Mukha, Yemen#true#2966
+3164#46572#Dublin, Ireland#true#2967
+3165#46578#Dublin, Ireland#true#2968
+3166#46582#Dublin, Ireland#true#2969
+3167#50148#Ireland#true#2970
+3168#46627#Gomel, Belarus#true#2971
+3169#46632#Kurchatov, Russia#true#2972
+3170#46646#Troitsk, Russia#true#2973
+3171#46768#Voronezh, Russia#true#2974
+3172#46956#Potsdam, Germany#true#2975
+3173#47120#Jimma, Oromia Regional State, Ethiopia#true#2976
+3174#47202#Cape Town, South Africa#true#2977
+3175#46973#Karaganda, Kazakhstan#true#2978
+3176#46989#Karaganda, Kazakhstan#true#2979
+3177#47008#Leningrad, Russia#true#2980
+3178#47157#Stavropol, Russia#true#2981
+3179#47165#Mar'yino, Kostroma Region, Russia#true#2982
+3180#47164#Moscow, Russia#true#2983
+3181#47173#Tarskoye, Prigorodny District, North Ossetia, Russia#true#2984
+3182#47178#Ordzhonikidze, North Ossetia, Russia#true#2985
+3183#47189#Chadan, the Tuvan, Russia#true#2986
+3184#47184#Zhitomyr, Ukraine#true#2987
+3185#47191#Uzbekistan#true#2988
+3186#47195#Kazan, Russia#true#2989
+3187#47227#Verkhneye Gurovo, Kursk Region, Russia#true#2990
+3188#47289#Zhetiqara, Kazakhstan#true#2991
+3189#47290#Zhetikara, Kazakhstan#false#2991
+3190#47291#Dzhetigara, Kazakhstan#false#2991
+3191#47294#Nyaksimvol, Beryozovo District, Tyumen Oblast, Russia#true#2992
+3192#47298#Koblyakovo, Bratsk District, Irkutsk Oblast, Russia#true#2993
+3193#47302#Tula, Russia#true#2994
+3194#47305#Lipetsk Oblast, Russia#true#2995
+3195#47311#Perm, Russia#true#2996
+3196#47312#Rostov-Na-Donu, Russia#true#2997
+3197#47318#Stepnoy Dvorets, Russia#true#2998
+3198#47324#Neftekamsk, Bashkortostan, Russia#true#2999
+3199#47326#Nazarevo, Ryazan Region, Russia#true#3000
+3200#47330#Baku, Azerbaijan#true#3001
+3201#47335#Rostov Region, Russia#true#3002
+3202#47357#Bogoroditsk, Russia#true#3003
+3203#47353#Moscow, Russia#true#3004
+3204#47364#Tuapse, Russia#true#3005
+3205#47368#Chikola, North Ossetia, Russia#true#3006
+3206#47373#Mymrino, Oryol, Russia#true#3007
+3207#47377#Nikolayevsk-on-Amur, Khabarovsk Territory, Russia#true#3008
+3208#47381#Lipetsk, Lipetsk Region, Russia#true#3009
+3209#47387#St. Petersburg, Russia#true#3010
+3210#47389#Engels, Saratov Region, Russia#true#3011
+3211#47393#Moscow, Russia#true#3012
+3212#49234#Moscow, Russia#true#3013
+3213#49238#Vlasikha Village, Moscow Region, Russia#true#3014
+3214#47480#Moscow, Russia#true#3015
+3215#47484#Chust, Uzbekistan#true#3016
+3216#50086#Tallinn, Estonia#true#3017
+3217#47500#Antwerp, Belgium#true#3018
+3218#47531#Moscow, Russia#true#3019
+3219#47556#Russia#true#3020
+3220#47550#Moscow, Russia#true#3021
+3221#47566#St. Peterburg, Russia#true#3022
+3222#47575#St. Petersburg, Russia#true#3023
+3223#47588#Bilibino, Chukotka Autonomous Region, Russia#true#3024
+3224#47580#St. Petersburg, Russia#true#3025
+3225#47592#Moscow, Russia#true#3026
+3226#47598#Kaluga, Russia#true#3027
+3227#47602#Moscow, Russia#true#3028
+3228#48752#Moscow, Russia#true#3029
+3229#48757#Moscow, Russia#true#3030
+3230#48784#Artem, Primorkiy Kray, Russia#true#3031
+3231#48808#Moscow, Russia#true#3032
+3232#48812#Krasnodar Region, Russia#true#3033
+3233#48819#Bashkortostan, Russia#true#3034
+3234#48833#Dnipropetrovsk, Ukraine#true#3035
+3235#48835#Moscow, Russia#true#3036
+3236#48840#Ankara, Turkey#true#3037
+3237#48862#Moscow, Russia#true#3038
+3238#48866#Klin, Russia#true#3039
+3239#48871#Belgorod, Russia#true#3040
+3240#48878#Russia#true#3041
+3241#48883#Russia#true#3042
+3242#48890#Abakan, Khakasia Republic, Russia#true#3043
+3243#48903#Russia#true#3044
+3244#48907#St. Petersburg, Russia#true#3045
+3245#48951#Bhamaw, Burma#true#3046
+3246#48974#Nigeria#true#3047
+3247#48996#Nigeria#true#3048
+3248#48997#Nigeria#true#3049
+3249#48988#Nigeria#true#3050
+3250#48994#Nigeria#true#3051
+3251#48993#Nigeria#true#3052
+3252#49044#Moscow, Russia#true#3053
+3253#49132#Sarajevo, Bosnia and Herzegovina#true#3054
+3254#49134#St. Petersburg, Russia#true#3055
+3255#49136#Russia#true#3056
+3256#49141#Durres, Albania#true#3057
+3257#49147#Russia#true#3058
+3258#49153#Tirana, Albania#true#3059
+3259#49156#St. Petersburg, Russia#true#3060
+3260#49163#Anadyr, Russia#true#3061
+3261#49167#Zivinice, Bosnia and Herzegovina#true#3062
+3262#49175#Zhodino, Russia#true#3063
+3263#49179#Moscow, Russia#true#3064
+3264#49187#Kirov, Russia#true#3065
+3265#49183#Tashkent, Uzbekistan#true#3066
+3266#49192#Moscow, Russia#true#3067
+3267#49206#Alexandriya, Ukraine#true#3068
+3268#49210#Russia#true#3069
+3269#49213#Moscow, Russia#true#3070
+3270#49222#Moscow, Russia#true#3071
+3271#49221#Tolyatti, Russia#true#3072
+3272#49322#Kotor, Montenegro#true#3073
+3273#49376#Baku, Azerbaijan#true#3074
+3274#49392#Blagoveshchensk, Amur Region, Russia#true#3075
+3275#49397#Mordovia, Russia#true#3076
+3276#49406#Sverodvinsk, Arkhangelsk Region, Russia#true#3077
+3277#49419#Nizhniy Novgorod, Russia#true#3078
+3278#49427#Zhukovsky, Moscow Region, Russia#true#3079
+3279#49435#St. Petersburg, Russia#true#3080
+3280#49446#Krasnoyarsk, Russia#true#3081
+3281#50107#Dresden, Germany#true#3082
+3282#49924#Skopje, North Macedonia#true#3083
+3283#49928#Skopje, North Macedonia#true#3084
+3284#49980#Moscow, Russia#true#3085
+3285#49983#Novorossiysk, Russia#true#3086
+3286#49986#Vladivostok, Primorye Region, Russia#true#3087
+3287#49997#Moscow, Russia#true#3088
+3288#50007#Moscow, Russia#true#3089
+3289#50000#Vladimir, Russia#true#3090
+3290#50011#Moscow, Russia#true#3091
+3291#50015#Moscow, Russia#true#3092
+3292#50018#Chernoe, Moscow Region, Russia#true#3093
+3293#50023#Moscow, Russia#true#3094
+3294#50027#Volzhskiy, Volgograd Region, Russia#true#3095
+3295#50031#Moscow, Russia#true#3096
+3296#50035#Moscow, Russia#true#3097
+3297#50039#Nikolayevsk-on-Amur, Russia#true#3098
+3298#50068#New York, United States#true#3099
+3299#50072#St. Petersburg, Russia#true#3100
+3300#50111#Leningrad, Russia#true#3101
+3301#50234#Moscow, Russia#true#3102
+3302#50236#Nyandoma, Russia#true#3103
+3303#50240#Ryazan, Russia#true#3104
+3304#50244#Naberezhnye Chelny, Russia#true#3105
+3305#50248#Russia#true#3106
+3306#50252#Moscow, Russia#true#3107
+3307#50257#Uzlovaya, Russia#true#3108
+3308#51047#Klintsi, Bryansk Oblast, Russia#true#3109
+3309#51628#Leningrad, Russia#true#3110
+3310#51052#Baku, Azerbaijan#true#3111
+3311#51627#Leningrad, Russia#true#3112
+3312#51076#Leningrad, Russia#true#3113
+3313#51095#Yerevan, Armenia#true#3114
+3314#51630#Moscow, Russia#true#3115
+3315#51520#Moscow, Russia#true#3116
+3316#51524#Moscow, Russia#true#3117
+3317#51528#Leipzig, Germany#true#3118
+3318#51532#Solikamsk, Perm, Russia#true#3119
+3319#51536#Novosibirsk, Russia#true#3120
+3320#51540#St. Petersburg, Russia#true#3121
+3321#51544#Moscow, Russia#true#3122
+3322#51548#Moscow, Russia#true#3123
+3323#51663#Gresik, East Java, Indonesia#true#3124
+3324#51673#Cirebon, West Java, Indonesia#true#3125
+3325#51677#Tasikmalaya, West Java, Indonesia#true#3126

@@ -1,0 +1,496 @@
+﻿PrimaryKey#callSign#vesselType#vesselFlag#vesselOwner#grossRegisteredTonnage#tonnage#FK_sdnEntry
+1#CL2192#Tug#Cuba#Samir de Navegacion S.A.#212##75
+2##General Cargo#Panama##1865#2595#76
+3#CL2059#Tug#Cuba##189##77
+4#T2EU4#Crude/Oil Products Tanker#Iran##56068#99144#2766
+5#9HDQ9#Crude/Oil Products Tanker#Panama##56068#99030#2767
+6#T2EM4#Crude/Oil Products Tanker#Panama##56068#99094#2768
+7#T2ES4#Crude/Oil Products Tanker#Iran##56068#99144#2769
+8#9HDS9#Crude/Oil Products Tanker#Iran##56068#99087#2770
+9#EQKF#Landing Craft#Iran##478#640#2771
+10#9HEG9#Crude Oil Tanker#Panama##160576#297013#2772
+11#5IM 592#Crude Oil Tanker#Panama##164241#319988#2773
+12#9HEE9#Crude Oil Tanker#Panama##160576#296803#2774
+13#5IM 593#Crude Oil Tanker#Panama##164241#317850#2775
+14#9HEU9#Crude Oil Tanker#Panama##160576#299500#2776
+15#9HEF9#Crude Oil Tanker#None Identified##160576#299500#2777
+16#9HED9#Crude Oil Tanker#Panama##160576#296894#2778
+17#T2DM4#Chemical/Products Tanker#Panama##25214#35124#2779
+18#T2EJ4#Crude Oil Tanker#Panama##163650#317355#2780
+19#T2EQ4#Crude Oil Tanker#Panama##160930#299242#2781
+20#5IM 597#Crude Oil Tanker#Panama##163660#317356#2782
+21#5IM600#Crude Oil Tanker#Panama##160930#299229#2783
+22#T2EG4#Crude Oil Tanker#Panama##163660#317367#2784
+23#T2ER4#Crude Oil Tanker#Iran##160930#299214#2785
+24#T2DZ4#Crude Oil Tanker#Panama##163660#317356#2786
+25#T2EH4#Crude Oil Tanker#Panama##163660#317356#2787
+26#5IM 596#Crude Oil Tanker#Panama##163660#317367#2788
+27#T2EA4#Crude Oil Tanker#Panama##163660#317367#2789
+28#9HEK9#Crude Oil Tanker#Panama##160930#299261#2790
+29#9HEJ9#Crude Oil Tanker#Panama##160930#299242#2791
+30##Shuttle Tanker#Iran##40800#63000#2792
+31##Shuttle Tanker#Iran##40800#63000#2793
+32##Shuttle Tanker#Iran##40800#63000#2794
+33##Chemical/Products Tanker#Iran##26561#34900#2795
+34##Chemical/Products Tanker#Iran##25000#34900#2796
+35#9BAC#Chemical/Products Tanker#Panama##25214#35155#2797
+36#EQKH#Bunkering Tanker#Iran##478#640#2798
+37#T2DS4#Crude Oil Tanker#None Identified##156809#298731#2799
+38#T2DR4#Crude Oil Tanker#None Identified##156809#298731#2800
+39#T2DP4#Crude Oil Tanker#Panama##156809#298732#2801
+40#T2DQ4#Crude Oil Tanker#Panama##156809#298731#2802
+41#9HES9#Crude Oil Tanker#Panama##156809#298732#2803
+42##Crude Oil Tanker#Panama##165000#318000#2804
+43#5IM591#Crude Oil Tanker#Panama##81479#159681#2805
+44#EQKG#Landing Craft#Iran##478#640#2806
+45#9HNZ9#Crude Oil Tanker#Panama##85462#163870#2807
+46#5IM590#Crude Oil Tanker#Panama##81479#159711#2808
+47#5IM 594#Crude Oil Tanker#Panama##81479#159758#2809
+48#5IM 595#Crude Oil Tanker#Panama##81479#159681#2810
+49#T2EF4#Crude Oil Tanker#None Identified##85462#164154#2811
+50#T2DY4#Crude Oil Tanker#Panama##85462#164154#2812
+51#9HNY9#Crude Oil Tanker#Panama##85462#164154#2813
+52##Crude Oil Tanker#Panama##165000#318000#2814
+53##Crude Oil Tanker#Panama##165000#318000#2815
+54##Crude Oil Tanker#Panama##165000#318000#2816
+55##Crude Oil Tanker#Panama##165000#318000#2817
+56#5IM584#Crude Oil Tanker#Iran##81479#159681#2818
+57#EQOD#Crew/Supply Vessel#Iran##178#250#2819
+58#EQOX#Tug#Iran##419#650#2820
+59#EQOE#Platform Supply Ship#Iran##1019#950#2821
+60##LPG Tanker#Iran##8750#11750#2822
+61#EQOG#Offshore Tug/Supply Ship#Iran##584#1050#2823
+62##Crude Oil Tanker#Mongolia####3133
+63##Crude Oil Tanker#Mongolia####3134
+64##Crude Oil Tanker#Liberia####3135
+65##Crude Oil Tanker#Iran####3136
+66##Crude Oil Tanker#Liberia####3137
+67##Crude Oil Tanker#Panama####3138
+68##Crude Oil Tanker#Panama####3139
+69##Crude Oil Tanker#Panama####3140
+70#EQJU##Iran####3207
+71#5IM316#Crude Oil Tanker#Panama#NITC###3238
+72#5IM656#Crude Oil Tanker#Panama#NITC###3239
+73#5IM411#Crude Oil Tanker#Panama#NITC###3240
+74##LPG Tanker#Panama#NITC###3241
+75#5IM632#Crude Oil Tanker#Panama#NITC###3242
+76#EQYY#Platform Supply Ship#Iran####3243
+77##Crude Oil Tanker#Panama####3244
+78##General Cargo#Democratic People's Republic of Korea####3757
+79##General Cargo#Democratic People's Republic of Korea####3759
+80##General Cargo#Democratic People's Republic of Korea####3760
+81##General Cargo#Democratic People's Republic of Korea####3761
+82##General Cargo#Democratic People's Republic of Korea####3762
+83##Bulk Carrier#Democratic People's Republic of Korea####3763
+84##Bulk Carrier#Democratic People's Republic of Korea####3764
+85##Bulk Carrier#Democratic People's Republic of Korea####3765
+86##General Cargo#Democratic People's Republic of Korea####3766
+87##General Cargo#Democratic People's Republic of Korea####3767
+88##General Cargo#Democratic People's Republic of Korea####3768
+89##General Cargo#Democratic People's Republic of Korea####3769
+90##General Cargo#Democratic People's Republic of Korea####3770
+91##General Cargo#Democratic People's Republic of Korea####3771
+92##General Cargo#Democratic People's Republic of Korea####3777
+93##General Cargo#Democratic People's Republic of Korea####3778
+94##General Cargo#Democratic People's Republic of Korea####3779
+95##General Cargo#Democratic People's Republic of Korea####3780
+96###Panama####4097
+97###Saint Kitts and Nevis####4098
+98###Panama####4099
+99###Sierra Leone####4100
+100###Panama####4101
+101###Sierra Leone####4102
+102###Sierra Leone####4103
+103##General Cargo#Mongolia####4107
+104###Sierra Leone####4425
+105###Cambodia####4427
+106###Cambodia####4428
+107###Sierra Leone####4430
+108###Sierra Leone####4432
+109###Sierra Leone####4437
+110###Palau####4439
+111###Cambodia####4440
+112###Democratic People's Republic of Korea####4443
+113###Democratic People's Republic of Korea####4444
+114###Mongolia####4445
+115###Democratic People's Republic of Korea####4446
+116###Democratic People's Republic of Korea####4447
+117###Democratic People's Republic of Korea####4448
+118###Democratic People's Republic of Korea####4449
+119###Democratic People's Republic of Korea####4450
+120###Democratic People's Republic of Korea####4451
+121###Democratic People's Republic of Korea####4452
+122###Democratic People's Republic of Korea####4453
+123###Russia####4808
+124###Russia####4810
+125###Democratic People's Republic of Korea####5509
+126###Democratic People's Republic of Korea####5514
+127###Democratic People's Republic of Korea####5515
+128###Democratic People's Republic of Korea####5516
+129###Democratic People's Republic of Korea####5517
+130###Democratic People's Republic of Korea####5518
+131###Democratic People's Republic of Korea####5519
+132###Democratic People's Republic of Korea####5520
+133###Democratic People's Republic of Korea####5521
+134###Democratic People's Republic of Korea####5522
+135###Democratic People's Republic of Korea####5523
+136###Democratic People's Republic of Korea####5524
+137###Democratic People's Republic of Korea####5525
+138###Democratic People's Republic of Korea####5526
+139###Democratic People's Republic of Korea####5527
+140###Democratic People's Republic of Korea####5528
+141###Democratic People's Republic of Korea####5539
+142###Democratic People's Republic of Korea####5540
+143###Democratic People's Republic of Korea####5541
+144###Democratic People's Republic of Korea####5542
+145#9HB4398##Malta####5661
+146#9HB3103##Malta####5663
+147#9HB3737##Malta####5664
+148#9HB5604##Malta####5665
+149#9H5319#Fishing Vessel#Malta####5666
+150###Democratic People's Republic of Korea####5705
+151###Democratic People's Republic of Korea####5708
+152###Democratic People's Republic of Korea####5711
+153###Democratic People's Republic of Korea####5714
+154###Democratic People's Republic of Korea####5715
+155###Democratic People's Republic of Korea####5718
+156###Democratic People's Republic of Korea####5827
+157###Democratic People's Republic of Korea####5828
+158###Democratic People's Republic of Korea####5829
+159###Democratic People's Republic of Korea####5830
+160###Democratic People's Republic of Korea####5831
+161###Democratic People's Republic of Korea####5832
+162###Democratic People's Republic of Korea####5833
+163###Democratic People's Republic of Korea####5834
+164###Democratic People's Republic of Korea####5835
+165###Democratic People's Republic of Korea####5836
+166###Democratic People's Republic of Korea####5837
+167###Democratic People's Republic of Korea####5838
+168###Democratic People's Republic of Korea####5839
+169###Democratic People's Republic of Korea####5840
+170###Democratic People's Republic of Korea####5841
+171###Democratic People's Republic of Korea####5842
+172###Democratic People's Republic of Korea####5843
+173###Democratic People's Republic of Korea####5844
+174###Democratic People's Republic of Korea####5845
+175###Panama###10030#5847
+176###Comoros###9038#5849
+177######11658#5851
+178######13500#5852
+179######7067#5855
+180######8015#5857
+181###Tanzania###5515#5859
+182###Panama####5861
+183###Russia####6038
+184###Russia####6039
+185###Russia####6040
+186###Russia####6041
+187###Russia####6042
+188###Russia####6043
+189##General Cargo#Iran####6244
+190##General Cargo#Iran####6245
+191##General Cargo#Iran####6246
+192##General Cargo#Iran####6247
+193##General Cargo#Iran####6248
+194##General Cargo#Iran####6249
+195##General Cargo#Iran####6250
+196##General Cargo#Iran####6251
+197##General Cargo#Iran####6252
+198##General Cargo#Iran####6253
+199##General Cargo#Iran####6254
+200##General Cargo#Iran####6255
+201##General Cargo#Iran####6256
+202##General Cargo#Iran####6257
+203##General Cargo#Iran####6258
+204##General Cargo#Iran####6259
+205##General Cargo#Iran####6260
+206##Crew/Supply Vessel#Iran####6261
+207##Tug#Iran####6262
+208##Passenger#Iran####6263
+209##Passenger#Iran####6264
+210##Roll-on Roll-off#Iran####6265
+211##Passenger#Iran####6266
+212##Passenger#Iran####6267
+213##Passenger#Iran####6268
+214##General Cargo#Iran####6269
+215##Passenger#Iran####6270
+216##General Cargo#Iran####6271
+217##Container Ship#Iran####6272
+218##Container Ship#Iran####6273
+219##Container Ship#Iran####6274
+220##Passenger#Iran####6275
+221##General Cargo#Iran####6276
+222##Bulk Carrier#Iran####6277
+223##Container Ship#Iran####6278
+224##Container Ship#Iran####6279
+225##Container Ship#Iran####6280
+226##Bulk Carrier#Iran####6281
+227##Container Ship#Iran####6282
+228##General Cargo#Iran####6283
+229##Container Ship#Iran####6284
+230##Container Ship#Iran####6285
+231##General Cargo#Iran####6286
+232##Container Ship#Iran####6287
+233##General Cargo#Iran####6288
+234##Bulk Carrier#Iran####6289
+235##General Cargo#Iran####6290
+236##Bulk Carrier#Iran####6291
+237##General Cargo#Iran####6293
+238##Bulk Carrier#Iran####6294
+239##General Cargo#Iran####6295
+240##General Cargo#Iran####6296
+241##Container Ship#Iran####6297
+242##Container Ship#Iran####6298
+243##Container Ship#Iran####6299
+244##Bunkering Tanker#Iran####6300
+245##Container Ship#Hong Kong####6301
+246##Products Tanker#Iran####6302
+247##Products Tanker#Iran####6303
+248##Tanker#Iran####6304
+249##Bunkering Tanker#Iran####6305
+250##Passenger#Iran####6306
+251##Bunkering Tanker#Iran####6307
+252##Bunkering Tanker#Iran####6308
+253##Bunkering Tanker#Iran####6309
+254##Container Ship#Iran####6310
+255##Bunkering Tanker#Iran####6311
+256##General Cargo#Iran####6312
+257##Container Ship#Iran####6313
+258##Container Ship#Iran####6314
+259##Bulk Carrier#Iran####6315
+260##Bulk Carrier#Iran####6316
+261##Bulk Carrier#Iran####6317
+262##Bulk Carrier#Iran####6318
+263##Bulk Carrier#Iran####6320
+264##Container Ship#Hong Kong####6321
+265##Bulk Carrier#Iran####6322
+266##Bulk Carrier#Iran####6323
+267##Container Ship#Iran####6324
+268##Bulk Carrier#Iran####6325
+269##Products Tanker#Togo####6326
+270##Bulk Carrier#Togo####6327
+271##Bulk Carrier#Iran####6328
+272##Container Ship#Hong Kong####6329
+273##Container Ship#Hong Kong####6330
+274##Bulk Carrier#Iran####6331
+275##Container Ship#Iran####6332
+276##Container Ship#Iran####6333
+277##Bulk Carrier#Iran####6334
+278##General Cargo#Iran####6335
+279##Bulk Carrier#Iran####6336
+280##Bulk Carrier#Iran####6337
+281##Bulk Carrier#Iran####6338
+282##Bulk Carrier#Iran####6339
+283##Bulk Carrier#Iran####6340
+284##Bulk Carrier#Iran####6341
+285##General Cargo#Iran####6342
+286##Container Ship#Iran####6343
+287##Chemical/Products Tanker#Panama####6344
+288##Bulk Carrier#Iran####6345
+289##Chemical/Products Tanker#Iran####6346
+290##Bulk Carrier#Iran####6347
+291##Bulk Carrier#Iran####6348
+292##Chemical/Products Tanker#Iran####6349
+293##Bulk Carrier#Iran####6350
+294##Bulk Carrier#Iran####6351
+295##Crude/Oil Products Tanker#Togo####6352
+296##General Cargo#Iran####6353
+297##Bulk Carrier#Iran####6354
+298##Bulk Carrier#Iran####6355
+299##Bulk Carrier#Iran####6356
+300##General Cargo#Iran####6357
+301##Container Ship#Iran####6358
+302##Container Ship#Iran####6359
+303##General Cargo#Iran####6360
+304##Container Ship#Iran####6361
+305##Container Ship#Iran####6362
+306##Crude/Oil Products Tanker#Togo####6363
+307##Bulk Carrier#Iran####6364
+308##Bulk Carrier#Iran####6365
+309##Container Ship#Iran####6366
+310###Singapore####6572
+311###Singapore####6573
+312##Chemical/Products Tanker#Panama####6579
+313##Crude Oil Tanker#Panama####6580
+314##Crude Oil Tanker#Panama####6581
+315##Crude Oil Tanker#Panama####6582
+316##Tug#Venezuela####6994
+317##Drilling Ship#Venezuela####6995
+318##Tug#Venezuela####6996
+319##Drilling Ship#Venezuela####6997
+320##Tug#Venezuela####6998
+321##Drilling Ship#Venezuela####6999
+322##Tug#Venezuela####7000
+323##Tug#Venezuela####7001
+324##Tug#Venezuela####7002
+325##Tug#Venezuela####7003
+326##Tug#Venezuela####7004
+327##Tug#Venezuela####7005
+328##Tug#Venezuela####7006
+329##Tug#Venezuela####7007
+330##Tug#Venezuela####7008
+331##Tug#Venezuela####7009
+332##Tug#Venezuela####7010
+333##Tug#Venezuela####7011
+334##Tug#Venezuela####7012
+335##Tug#Venezuela####7013
+336##Tug#Venezuela####7014
+337##Tug#Venezuela####7015
+338##Tug#Venezuela####7016
+339##Tug#Venezuela####7017
+340##Tug#Venezuela####7018
+341##Tug#Venezuela####7019
+342##Tug#Venezuela####7020
+343##Tug#Panama####7021
+344##Tug#Venezuela####7023
+345##Tug#Venezuela####7025
+346##Crude Oil Tanker#Liberia####7026
+347##Tug#Venezuela####7027
+348##Tug#Venezuela####7028
+349##Tug#Venezuela####7029
+350##Tug#Venezuela####7030
+351##Oil Products Tanker#Panama####7052
+352##Crude Oil Tanker#Cuba####7061
+353###Panama####7153
+354###Russia####7237
+355###Russia####7238
+356###Russia####7239
+357###Russia####7241
+358###Russia####7242
+359##Pleasure Craft#St. Vincent and the Grenadines#Beratex Group Limited###7271
+360##Crude Oil Tanker#Iran####7319
+361##Crude Oil Tanker#Iran####7320
+362##Crude Oil Tanker#Iran####7321
+363##Crude Oil Tanker#Panama####7322
+364##Crude Oil Tanker#St. Kitts & Nevis####7323
+365##Crude Oil Tanker#Iran####7329
+366##Chemical/Products Tanker#Iran####7334
+367##General Cargo#####7357
+368##Crude Oil Tanker#Panama####7360
+369##Chemical/Products Tanker#Panama####7366
+370##Chemical/Products Tanker#Panama####7367
+371##Products Tanker#Panama####7368
+372##General Cargo#####7384
+373##General Cargo#####7385
+374##Crude Oil Tanker#Panama####7457
+375##Products Tanker#Venezuela####7458
+376##Products Tanker#Venezuela####7459
+377##Crude Oil Tanker#Venezuela####7460
+378##Crude Oil Tanker#Venezuela####7461
+379##Crude Oil Tanker#Venezuela####7462
+380#EPDA4##Iran####7507
+381#EPDE7##Iran####7508
+382##Pleasure Craft#Malta####7554
+383##Palletized Cargo Ship#Samoa####7586
+384#D5GG9##Liberia####7605
+385##General Cargo#Vietnam####7751
+386##Crude/Oil Products Tanker#Cameroon####7911
+387##Shuttle Tanker#Cameroon####7912
+388##Crude Oil Tanker#Cameroon####7913
+389##Crude Oil Tanker#Russia####7914
+390##Crude/Oil Products Tanker#Russia####7915
+391##Crude Oil Tanker#Honduras####7970
+392##Crude Oil Tanker#Panama####7971
+393#EPAE3#General Cargo#Iran####8198
+394#UBDP8##Russia####8354
+395##Crude/Oil Products Tanker#Liberia####8369
+396#UFYE#Anchor Handling Vessel#Russia####8522
+397#UEKQ#Anchor Handling Vessel#Russia####8523
+398#UDQB#Pipe-laying Vessel#Russia####8536
+399#UBAQ4#Supply Vessel#Russia####8546
+400#UBXP5#Offshore Tug#Russia####8547
+401#UBRS8#Offshore Support Vessel#Russia####8548
+402#UBSU4#Offshore Tug/Supply Ship#Russia####8550
+403#UBVQ9#Offshore Tug#Russia####8551
+404#UBWQ2#Offshore Tug/Supply Ship#Russia####8552
+405#UBSJ#Tug#Russia####8554
+406#UBKI6#Salvage Ship#Russia####8556
+407#UBYQ7#Salvage Ship#Russia####8559
+408#UBAN4#Salvage Ship#Russia####8560
+409#TRA025#Products Tanker#Gabon####8643
+410#UBCS9#Service Vessel#Russia####8802
+411#UHLC#Service Vessel#Russia####8803
+412#UBNV2#Offshore Support Vessel#Russia####8944
+413##Roll-on Roll-off#Russia##8831##9229
+414##Crude Oil Tanker#Russia##61991##9230
+415##Crude Oil Tanker#Russia##61991##9231
+416##Container Ship#Russia##7519##9232
+417##Container Ship#Russia##7519##9233
+418#V4EO4#Bulk Carrier#St. Kitts and Nevis####9244
+419#ZGFO#Yacht#Cayman Islands##15917##9386
+420#E5U3540#Yacht#Cook Islands##2083##9765
+421#ZJL8309#Yacht#British Virgin Islands####9862
+422#UCGL#Products Tanker#Russia##5075##9983
+423#UBBO9#Chemical/Oil Tanker#Russia##5077##9984
+424#UBWL7#Products Tanker#Russia##5075##9985
+425#UBUS4#General Cargo#Russia##4860##9986
+426#UBTU6#General Cargo#Russia##5897##9987
+427##Roll-on Roll-off#Russia##7260##10027
+428##Roll-on Roll-off#Russia##20729##10028
+429##Roll-on Roll-off#Togo##3069##10029
+430##General Cargo#Russia##3466##10068
+431##Roll-on Roll-off#Russia##8831##10069
+432##General Cargo#Russia##12679##10070
+433##General Cargo#Russia##7522##10071
+434##Dredger#Russia##2628##10073
+435##Hopper Barge#Russia##745##10074
+436##Dredger#Russia##2081##10075
+437##General Cargo#Russia##6418##10076
+438##General Cargo#Russia##6418##10077
+439##General Cargo#Russia##6395##10078
+440##General Cargo#Russia##2474##10079
+441##General Cargo#Russia##2601##10080
+442##General Cargo#Russia##2474##10081
+443##General Cargo#Russia##2986##10082
+444##Hopper Barge#Russia##643##10083
+445##General Cargo#Russia##2489##10084
+446##General Cargo#Russia##2489##10085
+447##General Cargo#Russia##2489##10086
+448##General Cargo#Russia##3178##10087
+449##General Cargo#Russia##2489##10088
+450##General Cargo#Russia##2489##10089
+451##General Cargo#Russia##2489##10091
+452##General Cargo#Russia##2990##10092
+453##General Cargo#Russia##6204##10093
+454##General Cargo#Russia##6577##10094
+455##General Cargo#Russia##7752##10095
+456##General Cargo#Russia##4106##10096
+457##General Cargo#Russia##4106##10097
+458##Roll-on Roll-off#Russia##8811##10098
+459##Hopper Barge#Russia##643##10099
+460##Roll-on Roll-off#Russia##8811##10100
+461##Roll-on Roll-off#Russia##8821##10101
+462##Crude Oil Tanker#Russia##56924##10102
+463##Bulk Carrier#Russia##27078##10104
+464##Chemical/Oil Tanker#Russia##15980##10105
+465##General Cargo#Russia##9611##10108
+466##General Cargo#Russia##4991##10109
+467##General Cargo#Russia##1853##10110
+468##General Cargo#Russia##4991##10112
+469##Chemical/Oil Tanker#Russia##14400##10113
+470##General Cargo#Russia##7095##10114
+471##General Cargo#Russia##13066##10115
+472##Tug#Russia##161##10116
+473##General Cargo#Russia##4991##10117
+474##General Cargo#Russia##6204##10118
+475##Bulk Carrier#Russia##17665##10119
+476##General Cargo#Russia##8448##10120
+477##Roll-on Roll-off#Russia##6894##10121
+478##General Cargo#Russia##7949##10122
+479##General Cargo#Russia##7949##10123
+480##General Cargo#Russia##9611##10124
+481##General Cargo#Russia##8448##10125
+482##General Cargo#Russia##7949##10126
+483##Roll-on Roll-off#Russia##8831##10127
+484##General Cargo#Russia##8448##10128
+485##Roll-on Roll-off#Russia##7260##10129
+486##General Cargo#Russia##9611##10130
+487##General Cargo#Russia##1853##10131
+488##General Cargo#Russia##12936##10132
+489##General Cargo#Russia##12936##10133
+490##General Cargo#Russia##4878##10134
+491##General Cargo#Russia##4878##10135
+492##General Cargo#Russia##4991##10136
+493##General Cargo#Russia##1853##10137
+494##General Cargo#Russia##4110##10138
+495##General Cargo#Russia##8448##10147
